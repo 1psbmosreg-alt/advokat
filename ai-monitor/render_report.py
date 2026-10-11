@@ -33,6 +33,8 @@ VERIFICATION_TEXT = {
     "вторичные_источники": "по двум и более вторичным источникам; первоисточник не открыт — сверить по ссылке",
 }
 
+INCOMPLETE_PREFIX = "ОХВАТ НЕПОЛНЫЙ"
+
 FOOTER = (
     "Отчёт сформирован автоматически по проверенному JSON-отчёту агента. "
     "Это инструмент мониторинга, а не источник для ссылок: перед использованием любого акта, "
@@ -45,11 +47,16 @@ def label(agent):
     return f"{region} (агент {agent})" if region else f"агент {agent}"
 
 
+def incomplete(data):
+    return str(data.get("coverage_note") or "").lstrip().upper().startswith(INCOMPLETE_PREFIX)
+
+
 def subject(data):
     items = data.get("items") or []
     high = sum(1 for i in items if isinstance(i.get("significance"), int) and i["significance"] >= 4)
-    return (f"ИИ в юридической практике: {label(data.get('agent_code', '?'))} — "
+    text = (f"ИИ в юридической практике: {label(data.get('agent_code', '?'))} — "
             f"отчёт {data.get('generated_at', '?')}: материалов {len(items)}, значимость 4–5: {high}")
+    return text + "; охват неполный" if incomplete(data) else text
 
 
 def render_item(n, item):
@@ -92,8 +99,16 @@ def body(data):
         f"Материалов: {len(items)}.",
         "",
     ]
+    if incomplete(data):
+        out.append("ВНИМАНИЕ: проверка выполнена не полностью — что не проверено, указано "
+                   "в разделе «Охват проверки».")
+        out.append("")
     if not items:
-        out.append("За период новшеств не найдено.")
+        if incomplete(data):
+            out.append("Подтверждённых новшеств не найдено. Проверка неполная, поэтому это не означает, "
+                       "что новшеств за период не было.")
+        else:
+            out.append("За период новшеств не найдено.")
         out.append("")
     else:
         by_sig = sorted(items, key=lambda i: -(i.get("significance") or 0))

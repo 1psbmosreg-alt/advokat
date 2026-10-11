@@ -70,6 +70,8 @@ LANG_RE = re.compile(r"^[a-z]{2}$")
 URL_RE = re.compile(r"^https?://[^\s/$.?#][^\s]*$")
 CYRILLIC_RE = re.compile(r"[А-Яа-яЁё]")
 QUOTE_MAX_LEN = 400
+INCOMPLETE_PREFIX = "ОХВАТ НЕПОЛНЫЙ"
+INCOMPLETE_HINT_RE = re.compile(r"лимит|исчерпан|не выполнен|не проверен", re.IGNORECASE)
 
 
 class Report:
@@ -174,8 +176,12 @@ def validate(data, args, path):
     note = data.get("coverage_note")
     if not is_nonempty_str(note):
         rep.error("coverage_note", "обязательная непустая строка: какие источники и запросы проверены")
-    elif not CYRILLIC_RE.search(note):
-        rep.warn("coverage_note", "текст не на русском языке")
+    else:
+        if not CYRILLIC_RE.search(note):
+            rep.warn("coverage_note", "текст не на русском языке")
+        if INCOMPLETE_HINT_RE.search(note) and not note.lstrip().upper().startswith(INCOMPLETE_PREFIX):
+            rep.warn("coverage_note", "упомянуты лимиты, недоступность или невыполненные шаги: если какой-то "
+                                      f"шаг поиска не выполнен целиком, начни coverage_note со слов «{INCOMPLETE_PREFIX}:»")
 
     items = data.get("items")
     if not isinstance(items, list):

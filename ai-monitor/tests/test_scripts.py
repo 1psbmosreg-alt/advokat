@@ -123,6 +123,16 @@ class ValidatorTests(unittest.TestCase):
         self.assertEqual(code, 0, out)
         self.assertIn("вне периода", out)
 
+    def test_limit_mentioned_without_incomplete_prefix_warns(self):
+        data = load_fixture()
+        data["coverage_note"] = "Проверены источники А и Б; исчерпан лимит поиска."
+        code, out = run_validator(data)
+        self.assertEqual(code, 0, out)
+        self.assertIn("ОХВАТ НЕПОЛНЫЙ", out)
+        data["coverage_note"] = "ОХВАТ НЕПОЛНЫЙ: исчерпан лимит поиска."
+        code, out = run_validator(data)
+        self.assertNotIn("WARN  coverage_note", out)
+
     def test_repeat_from_previous_report_warns(self):
         with tempfile.TemporaryDirectory() as prev:
             old = load_fixture()
@@ -150,6 +160,15 @@ class RenderTests(unittest.TestCase):
         data["items"] = []
         text = render_report.body(data)
         self.assertIn("За период новшеств не найдено", text)
+
+    def test_incomplete_coverage_is_not_reported_as_no_news(self):
+        data = load_fixture()
+        data["items"] = []
+        data["coverage_note"] = "ОХВАТ НЕПОЛНЫЙ: исчерпан лимит Legal Data Hunter."
+        text = render_report.body(data)
+        self.assertNotIn("За период новшеств не найдено", text)
+        self.assertIn("Проверка неполная", text)
+        self.assertIn("охват неполный", render_report.subject(data))
 
     def test_subject(self):
         subj = render_report.subject(load_fixture())
