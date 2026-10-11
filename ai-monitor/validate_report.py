@@ -71,7 +71,7 @@ URL_RE = re.compile(r"^https?://[^\s/$.?#][^\s]*$")
 CYRILLIC_RE = re.compile(r"[А-Яа-яЁё]")
 QUOTE_MAX_LEN = 400
 INCOMPLETE_PREFIX = "ОХВАТ НЕПОЛНЫЙ"
-INCOMPLETE_HINT_RE = re.compile(r"лимит|исчерпан|не выполнен|не проверен", re.IGNORECASE)
+INCOMPLETE_HINT_RE = re.compile(r"лимит|исчерпан|не выполнен[аоы]?\b", re.IGNORECASE)
 
 
 class Report:
@@ -128,8 +128,10 @@ def load_previous(previous_dir, current_path):
                 continue
             url = item.get("source_url")
             ident = item.get("identifier")
-            if is_nonempty_str(url):
-                urls.setdefault(url.strip(), name)
+            sec = item.get("secondary_urls") if isinstance(item.get("secondary_urls"), list) else []
+            for u in [url] + sec:
+                if is_nonempty_str(u):
+                    urls.setdefault(u.strip(), name)
             if is_nonempty_str(ident):
                 idents.setdefault(ident.strip(), name)
     return urls, idents
@@ -298,6 +300,10 @@ def validate(data, args, path):
         for s in sec:
             if not isinstance(s, str) or not URL_RE.fullmatch(s):
                 rep.error(where, f"secondary_urls: элемент не является URL: {s!r}")
+        for s in sec:
+            if is_nonempty_str(s) and s.strip() in prev_urls and s.strip() != (url.strip() if isinstance(url, str) else ""):
+                rep.warn(where, f"URL {s.strip()} уже был в отчёте {prev_urls[s.strip()]}: включай только "
+                                "при новом событии; для сводной записи о санкциях считай только новые решения")
         if verification == "вторичные_источники":
             distinct = {s for s in sec if isinstance(s, str)} - {url}
             if len(distinct) < 2:

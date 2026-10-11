@@ -133,6 +133,24 @@ class ValidatorTests(unittest.TestCase):
         code, out = run_validator(data)
         self.assertNotIn("WARN  coverage_note", out)
 
+    def test_repeat_via_secondary_urls_warns(self):
+        with tempfile.TemporaryDirectory() as prev:
+            old = load_fixture()
+            old["items"] = [old["items"][1]]
+            old["items"][0]["item_id"] = "NA-20260109-001"
+            old["generated_at"] = "2026-01-09"
+            with open(os.path.join(prev, "2026-01-09.json"), "w", encoding="utf-8") as fh:
+                json.dump(old, fh, ensure_ascii=False)
+            code, out = run_validator(load_fixture(), previous_dir=prev)
+        self.assertEqual(code, 0, out)
+        self.assertIn("URL https://example.org/news-a уже был", out)
+
+    def test_excluded_material_wording_does_not_trigger_incomplete_hint(self):
+        data = load_fixture()
+        data["coverage_note"] = "Исключено: решение суда — первоисточник не проверен, один вторичный источник."
+        code, out = run_validator(data)
+        self.assertNotIn("WARN  coverage_note", out)
+
     def test_repeat_from_previous_report_warns(self):
         with tempfile.TemporaryDirectory() as prev:
             old = load_fixture()
