@@ -42,16 +42,24 @@
 ### США
 
 - uscourts.gov — федеральная судебная система: правила и комитеты (Committee on Rules of
-  Practice and Procedure, Advisory Committee on Evidence Rules), проекты правил на обсуждении;
+  Practice and Procedure, Advisory Committee on Evidence Rules, Advisory Committee on Civil
+  Rules), проекты правил и повестки заседаний (agenda books);
 - courtlistener.com (RECAP) и govinfo.gov (USCOURTS) — тексты решений федеральных судов;
-- сайты судов штатов и их советов: courts.ca.gov (Judicial Council of California),
-  nycourts.gov, illinoiscourts.gov и другие — правила и политики об ИИ;
+- сайты федеральных апелляционных судов — локальные правила (например, ca10.uscourts.gov);
+- суды штатов и их советы — правила и политики об ИИ:
+  - courts.ca.gov — Judicial Council of California, AI Task Force
+    (https://courts.ca.gov/advisory-body/artificial-intelligence-task-force);
+  - nycourts.gov — Advisory Committee on AI and the Courts
+    (https://www.nycourts.gov/advisory-committee-artificial-intelligence-courts), 22 NYCRR Part 161;
+  - flcourts.gov, txcourts.gov, illinoiscourts.gov, pacourts.us, azcourts.gov и другие;
 - americanbar.org — ABA: формальные этические мнения (Standing Committee on Ethics and
-  Professional Responsibility), Task Force on Law and Artificial Intelligence;
+  Professional Responsibility), ABA Center for Innovation;
 - коллегии адвокатов и регуляторы профессии штатов: calbar.ca.gov, floridabar.org, nysba.org,
   texasbar.com и другие;
-- congress.gov — федеральные законопроекты; ncsl.org — трекер законодательства штатов об ИИ;
-- ncsc.org — National Center for State Courts: материалы об ИИ для судов штатов.
+- законодательство: congress.gov — федеральные законопроекты; leginfo.legislature.ca.gov и
+  сайты легислатур штатов; ncsl.org — обзоры законодательства штатов об ИИ;
+- ncsc.org — National Center for State Courts: материалы об ИИ для судов штатов
+  (https://www.ncsc.org/ai-readiness).
 
 ### Канада
 
@@ -62,16 +70,55 @@
 - cba.org — Канадская ассоциация юристов;
 - canlii.org — судебные решения.
 
+Дополнительно (уточнённые адреса и сайты судов):
+
+- Федеральный суд: страница электронной подачи с образцом декларации об ИИ
+  (https://www-u.fct-cf.gc.ca/en/pages/online-access/e-filing) и раздел поправок к правилам
+  (https://www-u.fct-cf.gc.ca/en/pages/law-and-practice/amendments-to-the-rules/);
+- Канадский совет судей: https://cjc-ccm.ca/en/news/canadian-judicial-council-issues-guidelines-use-artificial-intelligence-canadian-courts;
+- Law Society of Ontario: https://lso.ca/lawyers/technology-resource-centre/practice-resources-and-supports/using-technology;
+- Law Society of British Columbia: https://www.lawsociety.bc.ca/about-us/priorities/artificial-intelligence-(ai)-and-the-legal-profession/;
+- Law Society of Alberta: https://www.lawsociety.ab.ca/resource-centre/key-resources/professional-conduct/the-generative-ai-playbook/;
+- CBA: https://www.cba.org/resources/practice-tools/ethics-of-artificial-intelligence-for-the-legal-practitioner/;
+- суды провинций: ontariocourts.ca (Superior Court of Justice — practice directions),
+  ontario.ca/laws (Rules of Civil Procedure), albertacourts.ca, bccourts.ca, sasklawcourts.ca,
+  yukoncourts.ca;
+- суды Квебека: courdappelduquebec.ca, coursuperieureduquebec.ca
+  (https://coursuperieureduquebec.ca/en/about/publications), courduquebec.ca; Barreau du Québec —
+  barreau.qc.ca (раздел «Boîte à outils»).
+
 ### Вторичные источники и трекеры (только для обнаружения)
 
 - базы решений о выдуманных ИИ ссылках: AI Hallucination Cases Database (Damien Charlotin) —
-  https://www.damiencharlotin.com/hallucinations/;
-- трекеры правил и standing orders судов об ИИ, RAILS (Duke Law) — https://rails.legal;
+  https://www.damiencharlotin.com/hallucinations/ (фильтр по стране: USA, Canada; база
+  краудсорсинговая и неполная);
+- трекеры правил и standing orders судов об ИИ: Ropes & Gray AI Court Order Tracker,
+  RAILS (Duke Law) — https://rails.legal;
 - юридические СМИ: Law360, Bloomberg Law, Reuters Legal, ABA Journal, Law.com / Legaltech News,
   LawSites (Bob Ambrogi), Above the Law, Artificial Lawyer; Канада — Law Times, Canadian Lawyer,
   Slaw, Droit-inc.
 
-<!-- US-QUERIES -->
+## Поисковые запросы: США
+
+Запросы проверены 11.10.2026. Если указан домен, передай его в параметре `allowed_domains`.
+
+- proposed Rule 707 machine-generated evidence Advisory Committee on Evidence Rules — uscourts.gov
+- Rule 901(c) deepfake Advisory Committee on Evidence Rules — uscourts.gov
+- proposed amendment Rule 11 artificial intelligence citations Advisory Committee on Civil Rules suggestion — uscourts.gov
+- federal judiciary AI task force guidance judges Judicial Conference
+- court of appeals local rule generative artificial intelligence certification
+- ABA formal opinion artificial intelligence lawyers
+- state bar ethics opinion generative artificial intelligence lawyers
+- supreme court order generative artificial intelligence policy judges lawyers
+- generative artificial intelligence rules of court — courts.ca.gov
+- Unified Court System artificial intelligence policy — nycourts.gov
+- AI hallucinated citations sanctions attorney
+- court of appeals sanctions fabricated citations artificial intelligence
+- attorney-client privilege work product generative AI tool ruling
+- AI-generated evidence authentication deepfake court ruling
+- unauthorized practice of law AI legal services regulatory sandbox
+- state bill artificial intelligence court filings attorneys disclosure enacted
+
 
 ## Поисковые запросы: Канада
 
@@ -92,6 +139,20 @@
 - IA générative tribunaux Québec avis à la communauté juridique
 - Cour supérieure Québec intelligence artificielle
 - jurisprudence fictive intelligence artificielle avocat sanction Québec
+
+### Дополнительные запросы: Канада
+
+Запросы проверены 11.10.2026. Если указан домен, передай его в параметре `allowed_domains`.
+
+- Notice on the Use of Artificial Intelligence in Court Proceedings declaration — fct-cf.gc.ca
+- "fictitious" OR "hallucinated" citations artificial intelligence costs personally — canlii.org
+- Canadian Judicial Council artificial intelligence — cjc-ccm.ca
+- Technology Resource Centre generative AI practice note checklist — lso.ca
+- practice direction artificial intelligence court submissions certification authorities
+- Barreau du Québec intelligence artificielle générative guide pratique mise à jour — barreau.qc.ca
+- Cour supérieure du Québec cadre de gouvernance intelligence artificielle projet pilote — coursuperieureduquebec.ca
+- Cour d'appel du Québec avis intelligence artificielle
+- références inexistantes intelligence artificielle article 342 C.p.c. manquement important
 
 ## Предмет мониторинга
 
@@ -142,7 +203,197 @@
   1.4 информирование клиента, 1.5 гонорары, 1.6 конфиденциальность, 5.1 и 5.3 надзор) —
   категория `этика`.
 
-<!-- JURISDICTIONS -->
+## Особенности юрисдикций
+
+Статус указан на 11.10.2026. Реквизиты сверены по выдаче официальных доменов и независимым
+источникам, но сами сайты первоисточников при подготовке не открывались. Это ориентиры, а не
+находки: в отчёт они попадают, только если в периоде по ним произошло новое событие
+(правило из раздела «Запрет на домыслы»). Пометка «сверить» означает, что источники расходятся.
+
+### США: общая картина
+
+- Специального федерального закона об ИИ в судах или юридических услугах нет. К ИИ применяют
+  существующие нормы: Rule 11 FRCP, правила профессионального поведения, полномочия судов.
+- Требования к участникам процесса складываются из трёх моделей:
+  - раскрытие использования ИИ — standing orders отдельных судей (их сотни, единого перечня нет);
+  - удостоверение проверки ссылок подписью — Флорида, проекты Десятого округа, Техаса, Мэриленда;
+  - без специальных требований — Иллинойс, Нью-Йорк.
+- Санкции за выдуманные ссылки выносятся ежедневно. Штрафы до нескольких тысяч долларов
+  стали рядовыми: такие решения идут в сводную запись.
+
+### США: федеральный уровень
+
+- **Fed. R. Evid. 707 (machine-generated evidence).** Проект опубликован для комментариев
+  15.08.2025 (до 16.02.2026). 07.05.2026 Advisory Committee on Evidence Rules не рекомендовал
+  окончательное утверждение и оставил переработанный проект для дальнейшего изучения; по
+  повестке заседания 15.10.2026 опубликованная редакция отозвана. Правило не принято.
+  Следить: итоги заседания 15.10.2026, затем Standing Committee.
+- **Fed. R. Evid. 901(c) (дипфейки).** Внутренний проект комитета, для комментариев не
+  публиковался; в повестке заседания 15.10.2026.
+- **FRCP 11.** Предложение 26-CV-21 (29.05.2026): подпись удостоверяет существование и точность
+  цитируемых источников. Статус — pending consideration; в повестке Advisory Committee on
+  Civil Rules 21.10.2026.
+- **ИИ в федеральных судах.** Временное руководство AI Task Force от 31.07.2025 (текст не
+  опубликован). 17.09.2026 Judicial Conference заслушала доклад председателя Task Force;
+  постоянная политика не принята.
+- **Апелляционные суды.** Специального правила об ИИ нет ни у одного федерального апелляционного
+  суда. Пятый округ в 2024 г. отказался от своего проекта. Десятый округ 18.09.2026 опубликовал
+  проект правил 2027 г.: удостоверение, что документ, подготовленный с генеративным ИИ, проверен
+  человеком. Комментарии до 18.10.2026, окончательные правила до 01.12.2026, вступление в силу
+  пакета — 01.01.2027.
+- **Конгресс.** S.4154 / H.R.7997, Research and Oversight of AI in Courts Act of 2026
+  (внесён 19.03.2026): целевая группа по ИИ-распознаванию речи в судах. Законопроект.
+- **Прецеденты о санкциях** — точка отсчёта для оценки «нового подхода»:
+  - Mata v. Avianca, Inc., No. 22-cv-1461 (PKC) (S.D.N.Y. 22.06.2023) — $5 000 по Rule 11;
+  - Park v. Kim, No. 22-2057 (2d Cir. 30.01.2024) — направление адвоката в Grievance Panel;
+  - Johnson v. Dunn (N.D. Ala. 23.07.2025) — выговор, отстранение юристов крупной фирмы от дела,
+    уведомление регуляторов;
+  - Fletcher v. Experian Information Solutions, No. 25-20086 (5th Cir. 18.02.2026, опубликовано) — $2 500;
+  - Whiting v. City of Athens, Nos. 24-5918/5919 (6th Cir., март 2026) — по $15 000 с двух
+    адвокатов, полные апелляционные расходы оппонентов и двойные издержки;
+  - Lnu v. Blanche, No. 24-4790 (9th Cir. 03.06.2026) — $2 500 и отстранение от практики в
+    округе на 6 месяцев (по вторичным источникам; сверить, какие меры наложены именно 03.06.2026);
+  - Couvrette v. Wisnovsky, No. 1:21-cv-00157 (D. Or., декабрь 2025) — около $110 000 и отклонение
+    иска с преюдицией (по вторичным источникам, разбивка сумм расходится).
+- **Адвокатская тайна и ИИ.** Практика первой инстанции противоречива:
+  - United States v. Heppner, 2026 WL 436479 (S.D.N.Y. 17.02.2026) — документы, созданные
+    обвиняемым в потребительском ИИ-сервисе без поручения адвоката, не защищены ни привилегией,
+    ни work product;
+  - Warner v. Gilbarco (E.D. Mich. 10.02.2026) и Morgan v. V2X, No. 1:25-cv-01991 (D. Colo.
+    30.03.2026) — материалы, подготовленные с ИИ стороной без адвоката, защищены как work
+    product; в Morgan суд ограничил ввод конфиденциальной информации в ИИ-сервисы.
+- **Неправомерная практика (UPL) и ИИ-сервисы.**
+  - Nippon Life Insurance Co. of America v. OpenAI, No. 1:26-cv-02448 (N.D. Ill., иск март 2026):
+    ChatGPT как неправомерная юридическая практика; ходатайство OpenAI о прекращении дела
+    (15.05.2026) не разрешено.
+  - FTC, In the Matter of DoNotPay — окончательный приказ (голосование 16.01.2025): $193 000 и
+    запрет заявлять о равенстве сервиса юристу без доказательств.
+  - Upsolve v. James (2d Cir. 09.09.2025; certiorari отказано 30.03.2026) — UPL и свобода слова;
+    дело не об ИИ, но задаёт рамку для споров об ИИ-сервисах.
+
+### США: штаты
+
+- **Калифорния.**
+  - SB 574 (подписан 30.09.2026): первый закон штата об использовании генеративного ИИ
+    адвокатами и арбитрами (Bus. & Prof. Code § 6068.1, Code Civ. Proc. § 1282.1). Запрещает
+    делегировать ИИ практику права, требует защищать конфиденциальность, проверять цитаты и
+    раскрывать использование ИИ суду. Дата вступления в силу не подтверждена (по общему
+    правилу — 01.01.2027): сверить по тексту закона.
+  - State Bar of California: Practical Guidance по генеративному ИИ (16.11.2023), обновлена
+    14.05.2026 (добавлен агентный ИИ). Проект поправок к комментариям rules 1.1, 1.4, 1.6, 3.3,
+    5.1, 5.3 — второе обсуждение закончилось 06.08.2026; без утверждения Верховным судом
+    Калифорнии не действует.
+  - Cal. Rules of Court, rule 10.430 и Standard 10.80 (в силе с 01.09.2025) — политики
+    использования генеративного ИИ самими судами; стороны не регулируют.
+  - Noland v. Land of the Free, No. B331918 (Cal. Ct. App. 12.09.2025, опубликовано) — $10 000 и
+    направление в State Bar; противной стороне отказано во взыскании расходов, потому что она
+    не заметила выдуманных ссылок.
+- **Флорида.** Rule 2.515 Rules of General Practice and Judicial Administration (SC2026-0673,
+  приказ 28.05.2026, в силе с 15.06.2026): подпись удостоверяет существование и точность
+  цитируемых источников; местные требования судов об ИИ вытеснены. Комментарии принимались
+  до 11.08.2026 — возможны изменения. Ethics Opinion 24-1 (19.01.2024).
+- **Нью-Йорк.** 22 NYCRR Part 161 (AO/75/26 от 25.03.2026, в силе с 01.06.2026): использование ИИ
+  сторонами не запрещено, раскрытие не требуется; суд может принять модельное правило о
+  проверке (Appendix A). Временная политика UCS для судей и сотрудников — октябрь 2025.
+- **Техас.** Misc. Docket No. 26-9054: предварительно одобренные поправки (TRCP 13; TRAP 9.1(d) —
+  подписант удостоверяет проверку документа; TRAP 52; отмена TRCP 57), комментарии до
+  01.09.2026. Окончательный приказ на 11.10.2026 не найден. Ethics Opinion 705 (февраль 2025).
+- **Иллинойс.** Политика Верховного суда об ИИ (объявлена 18.12.2024): раскрывать использование
+  ИИ в документах не требуется, проверять результат обязательно.
+- **Пенсильвания.** Временная политика Верховного суда для судей и сотрудников (приказ
+  09.09.2025, в силе с 08.12.2025).
+- **Аризона.** ACJA § 1-509 об ИИ в судах. Петиция о моратории на ИИ для судей отклонена
+  (пресс-релиз 27.08.2026); доклад комитета по ИИ и судам — до 01.03.2027. Лицензия ABS для
+  KPMG Law US (Administrative Order No. 2025-43, 27.02.2025).
+- **Луизиана.** Act No. 250 (2025), ст. 371 Code of Civil Procedure: адвокат обязан проявлять
+  разумную осмотрительность в проверке подлинности доказательств, включая подделки с помощью
+  ИИ (в силе с 01.08.2025).
+- **Мэриленд.** Комитет по правилам в марте 2026 г. рекомендовал дополнить Rule 1-311: подпись
+  удостоверяет проверку источников. Принятие Верховным судом не подтверждено.
+- **Нью-Джерси.** R. 1:42-1: с 01.01.2027 один час CLE из 24 — по технологиям, включая ИИ.
+- **Высшие суды штатов, 2026.** Ibach v. Stewart (Ala. 24.04.2026) — апелляция прекращена,
+  $17 200, направление в коллегию; Payne v. State (Ga. 05.05.2026) — санкции к прокурору за
+  выдуманные ссылки в проекте приказа суда; Верховный суд Небраски 20.03.2026 — бриф
+  исключён, апелляция прекращена (наименование дела в источниках расходится — сверить).
+- **Колорадо и Юта.** Колорадо: политика непреследования за UPL разработчиков ИИ-инструментов
+  юридической помощи (сентябрь 2025, на три года). Юта: регуляторная песочница
+  (Standing Order No. 15) до августа 2027 г.
+- **ABA.** Formal Opinion 512 (29.07.2024) — основное мнение ABA о генеративном ИИ; оно не
+  обязательно. Поправок к Model Rules об ИИ нет; резолюция YLD 26-4YL лишь предлагает
+  дополнить Comment [8] к Rule 1.1. Task Force on Law and AI завершила работу итоговым
+  докладом (15.12.2025), тему ведёт ABA Center for Innovation.
+
+### Канада: федеральный уровень и провинции общего права
+
+- **Федеральный суд.** Notice to the Parties and the Profession — The Use of Artificial
+  Intelligence in Court Proceedings (20.12.2023, редакция 07.05.2024): если контент создан ИИ,
+  в первом абзаце документа ставится декларация. Последствия нарушения закреплены в Amended
+  Consolidated General Practice Guidelines (20.06.2025, в силе с 23.06.2025): издержки,
+  show cause о неуважении к суду. Hussein v. Canada (2025 FC 1060; 2025 FC 1138) — издержки
+  с адвоката лично за нераскрытое использование ИИ-сервиса.
+- **Канадский совет судей.** Guidelines for the Use of Artificial Intelligence in Canadian Courts
+  (24.10.2024) — рекомендации судам: судья не делегирует решение ИИ.
+- **Федерация правовых обществ.** Model Code: комментарий о технологической компетентности к
+  правилу 3.1-2; норм именно об ИИ нет. Регуляторы применяют к ИИ действующие правила.
+- **Онтарио.**
+  - O. Reg. 384/24, Rules of Civil Procedure r. 4.06.1(2.1) (в силе с 01.12.2024): в factum
+    юрист удостоверяет подлинность каждого процитированного источника — модель сертификации.
+  - Superior Court of Justice: практические указания об ИИ (объявлены 13.11.2025; раздел 12
+    консолидированных указаний по гражданским и семейным делам, редакция 17.03.2026; раздел
+    об ИИ в указаниях по Divisional Court от 08.06.2026 с перечнем санкций).
+  - Ko v. Li (2025 ONSC 2766; 2025 ONSC 6785; 2026 ONSC 538): вопрос об уголовном неуважении к
+    суду передан Генеральному прокурору, производство не завершено. Law Society of Ontario
+    v. Lee (2026 ONLSTH 136, июль 2026): отстранение от практики на 6 месяцев.
+  - Law Society of Ontario: white paper и practice note о генеративном ИИ (2024); специальных
+    правил нет.
+- **Британская Колумбия.** Zhang v. Chen (2024 BCSC 285) — выдуманные ChatGPT решения, издержки
+  за дополнительную работу. Moffatt v. Air Canada (2024 BCCRT 149) — компания отвечает за ответ
+  своего чат-бота (ориентир для ответственности за результат ИИ). Руководство Law Society of
+  British Columbia о профессиональной ответственности и генеративном ИИ.
+- **Альберта.** Совместное уведомление трёх судов (06.10.2023): только авторитетные источники и
+  реальный человеческий контроль, раскрытие не требуется (на сайте Court of King's Bench есть
+  страница «Use of AI in Citations & Submissions» — сверить, не новое ли это уведомление).
+  Reddy v. Saroya (2025 ABCA 322; 2026 ABCA 20) — апелляционный суд взыскал издержки с адвоката
+  лично. Law Society of Alberta: Generative AI Playbook.
+- **Саскачеван, Манитоба, Юкон.** Court of King's Bench for Saskatchewan: General Practice
+  Directive #12 (в силе с 01.01.2026). Manitoba Court of King's Bench (2023) и Supreme Court of
+  Yukon (PD General 29, 2023): раскрытие использования ИИ. Юкон ввёл PD General 35 (около июня
+  2026, дату сверить): сертификация подлинности источников, издержки лично.
+- **Тенденция:** переход от модели раскрытия использования ИИ к модели сертификации проверки ссылок.
+
+### Квебек
+
+- **Суды.** Уведомления Cour supérieure (24.10.2023; в имени файла копии — 28.09.2023, сверить),
+  Cour du Québec (26.01.2024) и Cour d'appel
+  (08.08.2024): надёжные источники и человеческий контроль; обязательной декларации нет.
+  Lignes directrices sur l'utilisation de l'IA générative par les juges (31.08.2026, объявлены
+  04.09.2026) — рекомендации для судей, к сторонам не применяются. Cour supérieure: рамки
+  управления ИИ (сентябрь 2025), пилотный проект 08.12.2025–16.03.2026, отчёт — апрель 2026.
+- **Barreau du Québec.** Guide pratique pour une utilisation responsable de l'IA générative
+  (дату публикации сверить). Обязательный двухчасовой курс по генеративному ИИ для всех членов: доступен с
+  01.04.2026, пройти до 01.04.2027. Отдельное руководство для сторон без адвоката.
+- **Решения.**
+  - Specter Aviation c. Laprade (2025 QCCS 3521, 01.10.2025) — $5 000 по ст. 342 C.p.c.,
+    сторона без адвоката.
+  - ARIHQ c. Santé Québec (2026 QCCS 1360, 22.04.2026) — аннулировано арбитражное решение,
+    опиравшееся на несуществующие источники.
+  - Cour d'appel, 11.08.2026 — $1 000 с апеллянта без адвоката (нейтральная ссылка не
+    установлена — сверить).
+- Санкции в Квебеке пока касаются в основном сторон без адвоката. Санкции против адвокатов и
+  решения Conseil de discipline du Barreau стали бы новым подходом.
+
+### Ресурсы для отслеживания
+
+- Базы Damien Charlotin: AI Hallucination Cases (фильтр по стране: USA, Canada),
+  AI Discovery (https://www.damiencharlotin.com/ai-discovery/), AI Evidence
+  (https://www.damiencharlotin.com/ai-evidence/).
+- Ropes & Gray AI Court Order Tracker (standing orders, local rules и решения об ИИ);
+  Crowell — трекер решений о привилегии и ИИ-инструментах; NCSC — https://www.ncsc.org/ai-readiness.
+- Повестки комитетов по правилам федеральных судов (agenda books на uscourts.gov): заседания
+  15.10.2026 (Evidence Rules) и 21.10.2026 (Civil Rules).
+- Канада: обзор CanLII «The Rise of AI-Hallucinated Case Law in Canadian Courts and Tribunals»
+  (2026CanLIIDocs738), блог CanLII, сводка ACTL о канадских делах; уведомления судов Квебека —
+  каталог «avis des tribunaux» на barreaudemontreal.qc.ca.
 
 ## Методика работы
 
