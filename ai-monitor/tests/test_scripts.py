@@ -195,6 +195,12 @@ class RenderTests(unittest.TestCase):
         self.assertIn("значимость 4–5: 1", subj)
         self.assertNotIn("\n", subj)
 
+    def test_subject_cl(self):
+        data = load_fixture()
+        data["agent_code"] = "CL"
+        self.assertIn("Великобритания", render_report.subject(data))
+        self.assertIn("(агент CL)", render_report.subject(data))
+
 
 class SchemaTests(unittest.TestCase):
     def test_schema_is_valid_json_and_matches_validator_keys(self):
