@@ -89,7 +89,7 @@
 - Ирландия: lawreform.ie (Law Reform Commission), lsra.ie (Legal Services Regulatory Authority),
   judicialcouncil.ie;
 - Австралия: fedcourt.gov.au (Federal Court of Australia), fcfcoa.gov.au, courts.vic.gov.au,
-  supremecourt.vic.gov.au, lsbc.vic.gov.au (Victorian Legal Services Board + Commissioner),
+  supremecourt.vic.gov.au, art.gov.au (Administrative Review Tribunal), lsbc.vic.gov.au (Victorian Legal Services Board + Commissioner),
   olsc.nsw.gov.au, courts.qld.gov.au, qls.com.au, lpbwa.org.au, hcourt.gov.au;
 - Новая Зеландия: nzlii.org, lcro.govt.nz.
 
@@ -259,10 +259,17 @@
   2025, взыскание небольших долгов до £10 000); LawFairy (февраль 2026, иммиграционные дела).
   Следить: новые допуски и их условия.
 - **Law Commission.** Discussion paper об ИИ и праве (2025; дату и содержание сверить).
+- **Найдено в пробном прогоне 11.10.2026 (по выдаче поиска, одним источником — сверить):**
+  предупреждение SRA (warning notice) об использовании ИИ — 17.08.2026; руководство BSB об ИИ —
+  18.05.2026; HMCTS — пилот ИИ-помощника по готовности дел (Case Readiness Assistant) в Inner
+  London Crown Court, объявлен в блоге HMCTS 02.10.2026 (уже был в отчёте пробного прогона).
 
 ### Шотландия, Северная Ирландия, Ирландия
 
 - **Шотландия.** Law Society of Scotland — Guide to Generative AI (октябрь 2024, обновляется).
+  Речь Lord President (Lord Pentland) на открытии судебного года 28.09.2026 — о ссылках на
+  выдуманные ИИ дела в шотландских судах (по одному источнику; следить за практическим
+  указанием Court of Session).
   Практических указаний Court of Session об ИИ не найдено — сверить на scotcourts.gov.uk.
 - **Северная Ирландия.** Специальных актов не найдено — проверять judiciaryni.uk и
   lawsoc-ni.org.
@@ -297,6 +304,8 @@
   процесса (2024). Victorian Legal Services Board: дело «Mr Dayal» — изменение условий
   практики (19.08.2025): запрет быть принципалом и вести трастовые счета, два года практики под
   надзором.
+- **Administrative Review Tribunal (федеральный).** Практическое указание об ИИ — 20.08.2026
+  (по выдаче поиска пробного прогона; наименование и дату сверить на art.gov.au).
 - **Queensland, WA, SA и другие.** Руководства для участников без представителя и для судей
   (дату и редакцию сверить). Следить: практические указания по модели NSW или Federal Court.
 
@@ -617,6 +626,7 @@
   - `адвокатская_палата` — объединения без полномочий допуска и дисциплины: Law Society of
     England and Wales, Bar Council, Bar of Ireland, Law Council of Australia, LIV, NZ Bar
     Association. Их руководства не обязательны: указывай это в `summary_ru` или `key_rule_ru`;
+  - HMCTS в `issuer_ru` — «Служба судов и трибуналов Его Величества (HMCTS)».
   - `законодатель` — парламенты; `правительство_регулятор` — министерства, Law Commission,
     VLRC и другие комиссии по реформе права; `академия` — университеты.
 - `doc_type`: правило суда для всех дел (CPR, Rules of Court, practice note высшего суда штата)
