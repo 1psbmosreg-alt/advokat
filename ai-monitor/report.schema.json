@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ai-monitor/report.schema.json",
+  "title": "Отчёт регионального агента мониторинга ИИ в юридической практике",
+  "description": "Контракт между региональными агентами (NA, CL и др.) и агрегатором. Совпадает с разделом «Формат ответа» промпта агента. Проверки, которые схема выразить не может (сквозная нумерация item_id, дата в item_id = generated_at, зона агента, повторы), выполняет validate_report.py.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["agent_code", "period", "generated_at", "coverage_note", "items"],
+  "properties": {
+    "agent_code": { "type": "string", "pattern": "^[A-Z]{2,3}$" },
+    "period": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "$ref": "#/$defs/date" },
+        "end": { "$ref": "#/$defs/date" }
+      }
+    },
+    "generated_at": { "$ref": "#/$defs/date" },
+    "coverage_note": { "type": "string", "minLength": 1 },
+    "items": { "type": "array", "items": { "$ref": "#/$defs/item" } }
+  },
+  "$defs": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "nullableText": { "type": ["string", "null"], "minLength": 1 },
+    "url": { "type": "string", "pattern": "^https?://\\S+$" },
+    "item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "item_id", "jurisdiction", "jurisdiction_name_ru", "issuer_original", "issuer_ru",
+        "issuer_type", "category", "doc_type", "status", "date_published", "date_effective",
+        "title_original", "title_ru", "identifier", "summary_ru", "key_rule_ru", "quote_original",
+        "ru_relevance", "significance", "significance_reason", "source_url", "source_language",
+        "secondary_urls", "verification", "follow_up", "tags"
+      ],
+      "properties": {
+        "item_id": { "type": "string", "pattern": "^[A-Z]{2,3}-\\d{8}-\\d{3}$" },
+        "jurisdiction": { "type": "string", "pattern": "^([A-Z]{2}|EU|COE|INT)$" },
+        "jurisdiction_name_ru": { "type": "string", "minLength": 1 },
+        "issuer_original": { "type": "string", "minLength": 1 },
+        "issuer_ru": { "type": "string", "minLength": 1 },
+        "issuer_type": {
+          "enum": [
+            "законодатель", "правительство_регулятор", "суд", "судейское_сообщество",
+            "адвокатская_палата", "регулятор_профессии", "наднациональный_орган",
+            "международная_организация", "легалтех", "СМИ_аналитика", "академия"
+          ]
+        },
+        "category": {
+          "enum": [
+            "регулирование", "этика", "правила_судов", "судебная_практика",
+            "санкции_за_ошибки_ИИ", "ИИ_в_работе_судов", "допуск_и_образование",
+            "рынок_легалтех", "исследование"
+          ]
+        },
+        "doc_type": {
+          "enum": [
+            "закон", "подзаконный_акт", "законопроект", "правила_суда", "практическое_указание",
+            "руководство", "этическое_мнение", "судебное_решение", "дисциплинарное_решение",
+            "доклад", "консультация", "пресс_релиз", "иное"
+          ]
+        },
+        "status": {
+          "enum": [
+            "проект", "консультация", "принят", "вступил_в_силу", "изменён", "отменён",
+            "решение_вынесено", "обжалуется", "пилот", "анонс"
+          ]
+        },
+        "date_published": { "$ref": "#/$defs/date" },
+        "date_effective": { "anyOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+        "title_original": { "type": "string", "minLength": 1 },
+        "title_ru": { "type": "string", "minLength": 1 },
+        "identifier": { "$ref": "#/$defs/nullableText" },
+        "summary_ru": { "type": "string", "minLength": 1 },
+        "key_rule_ru": { "type": "string", "minLength": 1 },
+        "quote_original": { "$ref": "#/$defs/nullableText" },
+        "ru_relevance": { "type": "string", "minLength": 1 },
+        "significance": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "significance_reason": { "type": "string", "minLength": 1 },
+        "source_url": { "anyOf": [{ "$ref": "#/$defs/url" }, { "type": "null" }] },
+        "source_language": { "type": "string", "pattern": "^[a-z]{2}$" },
+        "secondary_urls": { "type": "array", "items": { "$ref": "#/$defs/url" } },
+        "verification": { "enum": ["первоисточник", "вторичные_источники"] },
+        "follow_up": { "$ref": "#/$defs/nullableText" },
+        "tags": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "verification": { "const": "первоисточник" } } },
+          "then": { "properties": { "source_url": { "$ref": "#/$defs/url" } } }
+        },
+        {
+          "if": { "properties": { "verification": { "const": "вторичные_источники" } } },
+          "then": { "properties": { "secondary_urls": { "minItems": 2 } } }
+        }
+      ]
+    }
+  }
+}
