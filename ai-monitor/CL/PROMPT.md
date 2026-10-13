@@ -380,16 +380,19 @@
   недоступные сайты в `coverage_note`. Шаг 1 «Порядка поиска» тогда выполняй поиском
   с `allowed_domains` по домену первоисточника.
 - Тексты судебных решений открывай через коннектор Legal Data Hunter, если он доступен:
-  `search` с `country` (`["GB"]`, `["IE"]`, `["AU"]`, `["NZ"]`; для DIFC и ADGM — `["AE"]`,
+  `search` с `country` (`["UK"]` — Legal Data Hunter не принимает `GB`; `["IE"]`, `["AU"]`,
+  `["NZ"]`; для DIFC и ADGM — `["AE"]`,
   для QICDRC — `["QA"]`) и датами периода в `date_start` и `date_end`, затем `get_document` с
   `include_full_text: true`. Прочитанный так текст решения — открытый первоисточник; в
   `source_url` ставь URL из метаданных документа (caselaw.nationalarchives.gov.uk, bailii.org,
   austlii.edu.au, nzlii.org, сайт суда), сам URL не конструируй.
-  - Сделай один `search` по Великобритании и Ирландии (`country: ["GB", "IE"]`) и один — по
+  - Сделай один `search` по Великобритании и Ирландии (`country: ["UK", "IE"]`) и один — по
     Австралии и Новой Зеландии (`["AU", "NZ"]`) с запросом «generative artificial intelligence
     fictitious citations»; остальные вызовы — `get_document` для решений, которые собираешься
     включить: сначала для отдельных записей, затем для сводной записи. `discover_sources` не
     вызывай: идентификатор источника бери из выдачи `search`.
+  - Код `UK` — только для `country` в Legal Data Hunter. Если он отклонён как неверный, повтори
+    тот же вызов один раз с `GB`. В отчёте (`jurisdiction`, `--zone`) остаётся `GB`.
   - Отсутствие документа в Legal Data Hunter не доказывает, что его нет.
   - Если Legal Data Hunter сообщает об исчерпании лимита, больше его не вызывай.
   - Legal Data Hunter: бесплатный тариф с общим дневным лимитом на все задания владельца.
