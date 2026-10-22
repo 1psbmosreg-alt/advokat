@@ -123,7 +123,7 @@ def make_plan(watchlist, data_dir, run_date):
         "tiers": "A+B" if with_b else "A",
         "planned_count": len(planned),
         "inactive_count": len(skipped),
-        "search_domains": {g: sorted({re.sub(r"^www\\.", "", r["url"].split("/")[2])
+        "search_domains": {g: sorted({re.sub(r"^www\.", "", r["url"].split("/")[2])
                                       for r in planned if r["group"] == g}) for g in GROUPS},
         "planned": [{"code": r["code"], "group": r["group"], "country": r["country"],
                      "org": r["org"], "name": r["name"], "url": r["url"], "tier": r["tier"]}
@@ -184,9 +184,10 @@ def validate(run):
 
 # ---------------------------------------------------------------- render
 
-CSS_TD = "border:1px solid #999;padding:4px 6px;vertical-align:top;"
-CSS_TH = CSS_TD + "background:#e8e8e8;text-align:left;"
-FONT = "font-family:'Times New Roman',Times,serif;font-size:14px;line-height:1.35;"
+STYLE = ("body{font-family:'Times New Roman',Times,serif;font-size:14px;line-height:1.35}"
+         "table{border-collapse:collapse;margin:6px 0 14px 0}"
+         "td,th{border:1px solid #999;padding:4px 6px;vertical-align:top;text-align:left}"
+         "th{background:#e8e8e8}h3{margin:16px 0 4px 0}.w{border:2px solid #b00;padding:6px}")
 
 
 def h(s):
@@ -194,11 +195,9 @@ def h(s):
 
 
 def table_html(headers, rows):
-    out = ['<table style="border-collapse:collapse;margin:6px 0 14px 0;">', "<tr>"]
-    out += [f'<th style="{CSS_TH}">{h(x)}</th>' for x in headers]
-    out.append("</tr>")
+    out = ["<table><tr>" + "".join(f"<th>{h(x)}</th>" for x in headers) + "</tr>"]
     for r in rows:
-        out.append("<tr>" + "".join(f'<td style="{CSS_TD}">{c}</td>' for c in r) + "</tr>")
+        out.append("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>")
     out.append("</table>")
     return "\n".join(out)
 
@@ -216,7 +215,7 @@ def render(ctx):
     sec_h, sec_m = [], []
 
     def add(title, body_h, body_m):
-        sec_h.append(f'<h3 style="margin:16px 0 4px 0;">{h(title)}</h3>\n{body_h}')
+        sec_h.append(f"<h3>{h(title)}</h3>\n{body_h}")
         sec_m.append(f"## {title}\n\n{body_m}")
 
     s = ctx["summary"]
@@ -225,7 +224,7 @@ def render(ctx):
                 "страницы реестра не открывались. События найдены только поиском "
                 "(WebSearch) и не могут иметь статус ПРОВЕРЕНО. Чтобы включить полный "
                 "режим, расширьте сетевой доступ облачной среды Claude Code.")
-        sec_h.append(f'<p style="border:2px solid #b00;padding:6px;"><b>{h(warn)}</b></p>')
+        sec_h.append(f'<p class="w"><b>{h(warn)}</b></p>')
         sec_m.append(f"**{warn}**")
     rows = [["Окно мониторинга", f'{s["window_from"]} – {s["run_date_ru"]}'],
             ["Уровни проверки", s["tiers"]],
@@ -315,9 +314,9 @@ def render(ctx):
     add("Статусы проверки", f"<p>{h(legend)}</p>", legend)
 
     title = ctx["subject"]
-    body_h = (f'<!doctype html><html><head><meta charset="utf-8"><title>{h(title)}</title></head>'
-              f'<body style="{FONT}"><div style="{FONT}"><h2 style="margin:0 0 8px 0;">{h(title)}</h2>\n'
-              + "\n".join(sec_h) + "</div></body></html>\n")
+    body_h = (f'<!doctype html><html><head><meta charset="utf-8"><title>{h(title)}</title>'
+              f"<style>{STYLE}</style></head><body><h2>{h(title)}</h2>\n"
+              + "\n".join(sec_h) + "</body></html>\n")
     body_m = f"# {title}\n\n" + "\n\n".join(sec_m) + "\n"
     return body_h, body_m
 

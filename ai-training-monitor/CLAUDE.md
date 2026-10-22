@@ -145,8 +145,8 @@
 ## 5. Отправка
 
 Получатель — только адрес из задания. Тема — содержимое `<D>/<RUN_DATE>.subject.txt`. Тело —
-содержимое `<D>/<RUN_DATE>.html` как HTML (`htmlBody`), без изменений и дополнений; в `body` —
-содержимое `<D>/<RUN_DATE>.md`.
+содержимое `<D>/<RUN_DATE>.html` как HTML (`htmlBody`), без изменений и дополнений; `body` не
+заполнять (Markdown-версия остаётся в репозитории).
 1. Основной способ: коннектор Gmail (`send_message`, загрузить через ToolSearch).
 2. Если коннектор недоступен: `python3 <ADV>/ai-training-monitor/scripts/send_report.py
    <D>/<RUN_DATE>.html "<тема>"` (нужны секреты SMTP_* и MAIL_TO в окружении).
