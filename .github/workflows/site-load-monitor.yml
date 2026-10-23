@@ -1,0 +1,60 @@
+# Замер задержки ответа сайтов раз в 10 минут в течение 7 дней с первого замера.
+# Замеры и отчёт копятся в ветке site-load-data (data/measurements.csv, report/report.html).
+# Важно: точка замера — серверы GitHub за рубежом (см. site-load-monitor/README.md).
+name: site-load-monitor
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-load-monitor
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Код
+        uses: actions/checkout@v4
+        with:
+          path: code
+
+      - name: Ветка с данными
+        run: |
+          set -e
+          url="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git ls-remote --exit-code --heads "$url" site-load-data >/dev/null; then
+            git clone --depth 1 --branch site-load-data "$url" store
+          else
+            git init -b site-load-data store
+            git -C store remote add origin "$url"
+          fi
+
+      - name: Замер
+        run: |
+          python3 code/site-load-monitor/probe.py \
+            --targets code/site-load-monitor/targets.csv \
+            --out store/data/measurements.csv \
+            --probe-id github-actions --max-days 7 --timeout 20
+
+      - name: Отчёт
+        run: |
+          python3 code/site-load-monitor/analyze.py store/data/measurements.csv --out store/report
+
+      - name: Сохранить
+        run: |
+          set -e
+          cd store
+          git config user.name "site-load-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Без изменений"; exit 0; fi
+          git commit -q -m "Замер $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git push -q origin site-load-data && exit 0; sleep $((i*5)); done
+          exit 1
