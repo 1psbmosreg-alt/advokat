@@ -226,6 +226,15 @@ def run_round(targets, args):
               f"ttfb={row['ttfb_ms'] or '-'}ms total={row['total_ms'] or '-'}ms {row['error']}")
 
 
+def first_measurement(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            row = next(csv.DictReader(f), None)
+    except OSError:
+        return None
+    return datetime.fromisoformat(row["ts_utc"]) if row else None
+
+
 def parse_duration(s):
     units = {"s": 1, "m": 60, "h": 3600, "d": 86400}
     return int(s[:-1]) * units[s[-1]] if s[-1] in units else int(s)
@@ -241,6 +250,9 @@ def main():
     p.add_argument("--timeout", type=float, default=30)
     p.add_argument("--until", help="не замерять после этого момента (ISO, время МСК), "
                                    "например 2026-11-01T00:00 — для cron")
+    p.add_argument("--max-days", type=float,
+                   help="не замерять, если с первой строки --out прошло столько суток "
+                        "(для запуска по расписанию без фиксированной даты окончания)")
     p.add_argument("--loop", action="store_true", help="повторять замеры самостоятельно")
     p.add_argument("--interval", default="10m", help="интервал в режиме --loop (10m, 1h)")
     p.add_argument("--duration", default="7d", help="срок в режиме --loop (7d)")
@@ -252,6 +264,13 @@ def main():
             until = until.replace(tzinfo=MSK)
         if datetime.now(timezone.utc) >= until:
             print("Срок мониторинга истёк (--until); замер не выполняется.")
+            return 0
+
+    if args.max_days:
+        first = first_measurement(args.out)
+        if first and datetime.now(timezone.utc) - first >= timedelta(days=args.max_days):
+            print(f"Прошло {args.max_days:g} дн. с первого замера ({first:%Y-%m-%d %H:%M} UTC); "
+                  "замер не выполняется.")
             return 0
 
     targets = load_targets(args.targets)
