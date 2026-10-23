@@ -1,4 +1,4 @@
 target,weekday,hour_msk,n,failed,fail_pct,median_ttfb_ms,p90_ttfb_ms,min,max
-consultant_main,Пт,20,1,1,100.0,,,,
-garant_base,Пт,20,1,0,0.0,468.8,468.8,468.8,468.8
-garant_main,Пт,20,1,0,0.0,1074.6,1074.6,1074.6,1074.6
+consultant_main,Пт,20,2,2,100.0,,,,
+garant_base,Пт,20,2,0,0.0,503.5,531.2,468.8,538.1
+garant_main,Пт,20,2,1,50.0,1074.6,1074.6,1074.6,1074.6
