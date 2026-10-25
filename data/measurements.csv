@@ -44,3 +44,6 @@ ts_utc,ts_msk,weekday_msk,hour_msk,probe_id,target,url,final_url,status,redirect
 2026-10-25T13:57:03+00:00,2026-10-25T16:57:03+03:00,7,16,github-actions,consultant_main,https://www.consultant.ru/,https://www.consultant.ru/,200,0,762.3,130.5,146.1,404.7,1444.0,40140,
 2026-10-25T13:57:03+00:00,2026-10-25T16:57:03+03:00,7,16,github-actions,garant_main,https://www.garant.ru/,https://www.garant.ru/,200,0,881.5,82.3,98.9,922.4,2420.9,271004,
 2026-10-25T13:57:03+00:00,2026-10-25T16:57:03+03:00,7,16,github-actions,garant_base,https://base.garant.ru/,https://base.garant.ru/,200,0,625.6,89.4,105.4,390.2,1413.1,139842,
+2026-10-25T17:25:29+00:00,2026-10-25T20:25:29+03:00,7,20,github-actions,consultant_main,https://www.consultant.ru/,https://www.consultant.ru/,200,0,384.9,187.4,209.5,1527.3,2309.4,40225,
+2026-10-25T17:25:29+00:00,2026-10-25T20:25:29+03:00,7,20,github-actions,garant_main,https://www.garant.ru/,https://www.garant.ru/,200,0,1087.7,142.6,163.1,1000.6,3131.7,271232,
+2026-10-25T17:25:29+00:00,2026-10-25T20:25:29+03:00,7,20,github-actions,garant_base,https://base.garant.ru/,,,,,,,,,,TimeoutError: The read operation timed out
