@@ -110,3 +110,6 @@ ts_utc,ts_msk,weekday_msk,hour_msk,probe_id,target,url,final_url,status,redirect
 2026-10-29T20:20:50+00:00,2026-10-29T23:20:50+03:00,4,23,github-actions,consultant_main,https://www.consultant.ru/,https://www.consultant.ru/,200,0,1122.9,189.4,199.4,580.0,2091.9,40230,
 2026-10-29T20:20:50+00:00,2026-10-29T23:20:50+03:00,4,23,github-actions,garant_main,https://www.garant.ru/,https://www.garant.ru/,403,0,1094.4,138.1,144.6,285.6,1662.8,902,
 2026-10-29T20:20:50+00:00,2026-10-29T23:20:50+03:00,4,23,github-actions,garant_base,https://base.garant.ru/,https://base.garant.ru/,200,0,906.0,143.8,231.1,588.6,2192.9,137997,
+2026-10-30T00:02:09+00:00,2026-10-30T03:02:09+03:00,5,3,github-actions,consultant_main,https://www.consultant.ru/,https://www.consultant.ru/,200,0,661.9,126.6,136.7,404.4,1330.0,40220,
+2026-10-30T00:02:09+00:00,2026-10-30T03:02:09+03:00,5,3,github-actions,garant_main,https://www.garant.ru/,https://www.garant.ru/,403,0,818.9,87.7,95.5,181.1,1183.4,902,
+2026-10-30T00:02:09+00:00,2026-10-30T03:02:09+03:00,5,3,github-actions,garant_base,https://base.garant.ru/,https://base.garant.ru/,200,0,878.0,81.6,88.6,393.4,1634.4,137997,
