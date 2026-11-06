@@ -54,7 +54,9 @@ nohup python3 probe.py --loop --interval 10m --duration 7d --probe-id msk-vps > 
 
 ## Запуск в GitHub Actions (без своего сервера)
 
-Файл `.github/workflows/site-load-monitor.yml` запускает замер раз в 10 минут.
+Файл `.github/workflows/site-load-monitor.yml` запускает замер вручную (Actions → Run workflow).
+Чтобы снова замерять раз в 10 минут, верните в блок `on:` строки
+`schedule:` / `- cron: "*/10 * * * *"`.
 Замеры и свежий отчёт после каждого запуска сохраняются в ветке `site-load-data`:
 `data/measurements.csv` и `report/report.html`. Через 7 суток после первого замера
 запуски продолжаются, но замеры не делаются (`--max-days 7`); после этого workflow

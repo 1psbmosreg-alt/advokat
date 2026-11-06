@@ -1,11 +1,10 @@
-# Замер задержки ответа сайтов раз в 10 минут в течение 7 дней с первого замера.
+# Замер задержки ответа сайтов. Запуск по расписанию отключён после завершения
+# недельного замера (25.10–01.11.2026); остался только ручной запуск.
 # Замеры и отчёт копятся в ветке site-load-data (data/measurements.csv, report/report.html).
 # Важно: точка замера — серверы GitHub за рубежом (см. site-load-monitor/README.md).
 name: site-load-monitor
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
