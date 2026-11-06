@@ -257,6 +257,8 @@ def build(args):
     if args.trial:
         h.append("<p style='color:#C00000;font-weight:bold;text-align:center'>ПРОБНЫЙ ЗАПУСК АГЕНТА — "
                  "сведения требуют выборочной проверки перед использованием</p>")
+    if args.warning:
+        h.append(f"<p style='color:#C00000;font-weight:bold'>{esc(args.warning)}</p>")
     h.append("<h1>Подготовка претендентов в адвокаты: международный обзор</h1>")
     h.append(f"<p style='text-align:center'>Период: {parse_date(args.period_start):%d.%m.%Y} – "
              f"{parse_date(args.period_end):%d.%m.%Y}. Дата формирования: {run_date:%d.%m.%Y}.</p>")
@@ -326,7 +328,8 @@ def build(args):
                      f"<td><a href='{esc(j.get('source_url'))}'>{esc(j.get('regulator_original'))}</a></td></tr>")
         h.append("</table>")
 
-    # 5. Программы
+    # 5. Программы (только в полной версии; в письме — вложение, чтобы Gmail не обрезал текст >102 КБ)
+    sec5_start = len(h)
     h.append("<h2>5. Программы: планы, форматы, сроки, стоимость</h2>")
     for z in ZONES:
         ps = [p for p in programs.values() if p.get("zone") == z]
@@ -339,17 +342,18 @@ def build(args):
             h.append(
                 f"<tr><td>{esc(p.get('jurisdiction'))}<br>{esc(p.get('provider_ru') or p.get('provider_original'))}</td>"
                 f"<td><b><a href='{esc(p.get('source_url'))}'>{esc(p.get('program_name_ru') or p.get('program_name_original'))}</a></b>"
-                f" — {esc(STAGE_RU.get(p.get('stage'), p.get('stage')))}, {esc(p.get('mandatory'))}"
+                f" — {esc(STAGE_RU.get(p.get('stage'), p.get('stage')))}, {esc((p.get('mandatory') or '').replace('_', ' '))}"
                 f"<br>{esc(p.get('curriculum_ru'))}{mark(p, 'curriculum_ru')}"
                 + (f"<br><i>Изменения: {esc(p.get('upcoming_changes_ru'))}</i>" if p.get("upcoming_changes_ru") else "")
                 + (f"<br>Сдали: {esc(p['pass_rate'].get('value_percent'))}% ({esc(p['pass_rate'].get('period_ru'))})"
                    if isinstance(p.get("pass_rate"), dict) and p["pass_rate"].get("value_percent") is not None else "")
-                + f"</td><td>{esc(p.get('format'))}; {esc(p.get('duration_ru'))}{mark(p, 'duration_ru')}</td>"
+                + f"</td><td>{esc('; '.join(x for x in (p.get('format'), p.get('duration_ru')) if x) or 'не установлено')}{mark(p, 'duration_ru')}</td>"
                 f"<td>{cost_cell(p, fx)}"
                 + (f"<br><i>{esc(p.get('funding_ru'))}</i>" if p.get("funding_ru") else "")
                 + f"</td><td>{esc(p.get('entry_requirements_ru'))}</td></tr>")
         h.append("</table>")
 
+    sec5_end = len(h)
     # 6. Покрытие
     h.append("<h2>6. Полнота проверки</h2>")
     for z in ZONES:
@@ -357,17 +361,21 @@ def build(args):
     if problems:
         h.append("<p><b>Сбои:</b> " + esc("; ".join(problems)) + "</p>")
     h.append(f"<p class='small'>К перепроверке на следующей неделе: {len(stale)} программ. "
-             "Полная таблица — во вложении programs.csv (открывается в Excel).</p>")
+             "Карточки программ (раздел 5) — во вложении report_full.html; таблица — во вложении programs.csv (Excel).</p>")
     h.append("</body></html>")
-    (out / "report.html").write_text("\n".join(h), encoding="utf-8")
+    (out / "report_full.html").write_text("\n".join(h), encoding="utf-8")
+    short = h[:sec5_start] + ["<h2>5. Программы: планы, форматы, сроки, стоимость</h2>",
+                              f"<p>Карточки {len(programs)} программ — во вложении report_full.html.</p>"] + h[sec5_end:]
+    (out / "report.html").write_text("\n".join(short), encoding="utf-8")
     (out / "subject.txt").write_text(subject, encoding="utf-8")
 
-    txt = [subject, "", "Главное за неделю:"]
+    txt = ([args.warning, ""] if args.warning else []) + [subject, "", "Главное за неделю:"]
     txt += [f"- [{e.get('significance')}] {e.get('jurisdiction')} {e.get('date')}: {e.get('summary_ru')} ({e.get('source_url')})"
             for e in key_events] or ["- значимых событий нет"]
     txt += ["", f"Ближайшие даты ({HORIZON_DAYS} дн.):"]
-    txt += [f"- {d:%d.%m.%Y} {p.get('jurisdiction')} {p.get('program_name_ru') or p['program_id']}: {label}" for d, p, label, _ in up] or ["- нет"]
-    txt += ["", "Полный отчёт — в HTML-версии письма; таблица программ — во вложении programs.csv."]
+    txt += [f"- {d:%d.%m.%Y} {p.get('jurisdiction')} {p.get('program_name_ru') or p['program_id']}: {label}"
+            + (f" ({n})" if n else "") for d, p, label, n in up] or ["- нет"]
+    txt += ["", "Полный отчёт — во вложении report_full.html; таблица программ — во вложении programs.csv."]
     (out / "report.txt").write_text("\n".join(txt), encoding="utf-8")
 
     print(json.dumps({"subject": subject, "programs": len(programs), "events": len(events),
@@ -385,6 +393,7 @@ def main():
     ap.add_argument("--fx", default=None)
     ap.add_argument("--out-dir", required=True)
     ap.add_argument("--trial", action="store_true")
+    ap.add_argument("--warning", default=None, help="строка «МОНИТОРИНГ ВЫПОЛНЕН ЧАСТИЧНО: …» в начало письма")
     build(ap.parse_args())
 
 

@@ -1,0 +1,4753 @@
+{
+ "updated_at": "2026-11-06",
+ "fx": null,
+ "jurisdictions": {
+  "AE-DU": {
+   "jurisdiction": "AE-DU",
+   "jurisdiction_name_ru": "ОАЭ — DIFC (Дубай)",
+   "profession_title_original": "registered legal practitioner (DIFC Courts Part I / Part II)",
+   "admission_path_ru": "Не путь к статусу адвоката, а регистрация уже квалифицированных юристов: Part I — фирмы, ведущие дела в DIFC Courts; Part II — индивидуальные практики с правом выступления (подтверждение опыта, прав на ведение дел в своей юрисдикции, знания английского и процедуры DIFC, собеседование). Действует DIFC Courts Order No. 1 of 2025.",
+   "total_min_duration_ru": null,
+   "regulator_original": "DIFC Courts",
+   "source_url": "https://www.difccourts.ae/difc-courts/registration-of-practitioners/guidelines",
+   "zone": "CL"
+  },
+  "AM": {
+   "jurisdiction": "AM",
+   "jurisdiction_name_ru": "Армения",
+   "profession_title_original": "փաստաբան",
+   "admission_path_ru": "По вторичным источникам: обучение в Школе адвокатов Палаты адвокатов РА, квалификационный экзамен, лицензию выдаёт Палата адвокатов. Закон «Об адвокатуре» в этом запуске не открыт.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Փաստաբանների պալատ (Палата адвокатов Республики Армения)",
+   "source_url": null,
+   "zone": "RU"
+  },
+  "AT": {
+   "jurisdiction": "AT",
+   "jurisdiction_name_ru": "Австрия",
+   "profession_title_original": "Rechtsanwalt",
+   "admission_path_ru": "Диплом юриста → практика Rechtsanwaltsanwärter с обязательными Ausbildungsveranstaltungen (AWAK; не менее 42 полудней, из них 24 — до экзамена, по директиве 2008) → Rechtsanwaltsprüfung при OLG → внесение в список адвокатов.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Österreichischer Rechtsanwaltskammertag (ÖRAK); Rechtsanwaltsprüfungskommissionen при Oberlandesgerichten",
+   "source_url": "https://www.oerak.at/fileadmin/user_upload/Kundmachungen/OERAK/RL-RAA/rl_raa_kundm2008_1.pdf",
+   "zone": "EU"
+  },
+  "AU-NSW": {
+   "jurisdiction": "AU-NSW",
+   "jurisdiction_name_ru": "Австралия — Новый Южный Уэльс",
+   "profession_title_original": "lawyer (solicitor / barrister)",
+   "admission_path_ru": "Аккредитованная юридическая степень → Practical Legal Training у аккредитованного провайдера (для начавших с 2026 г. — новая структура с 15 днями очного обучения и 15 днями практики) → допуск Верховным судом NSW по заключению LPAB → supervised practice.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Legal Profession Admission Board of New South Wales",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "AU-VIC": {
+   "jurisdiction": "AU-VIC",
+   "jurisdiction_name_ru": "Австралия — Виктория",
+   "profession_title_original": "lawyer (solicitor / barrister)",
+   "admission_path_ru": "Аккредитованная юридическая степень → PLT у аккредитованного провайдера или supervised legal training на рабочем месте не менее 12 месяцев по утверждённому плану (с обязательными курсами Ethics and Professional Responsibility и Lawyer's Skills у провайдера) → допуск Верховным судом Виктории по заключению VLAB.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Victorian Legal Admissions Board",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "BE": {
+   "jurisdiction": "BE",
+   "jurisdiction_name_ru": "Бельгия",
+   "profession_title_original": "avocat / advocaat",
+   "admission_path_ru": "Master en droit + maître de stage → стаж 3 года; профессиональная подготовка в первые 18 месяцев (OVB — для фламандских коллегий; avocats.be/CAPA — франко- и германоязычных) → épreuve de contrôle / экзамены → внесение в tableau.",
+   "total_min_duration_ru": "3 года стажа",
+   "regulator_original": "Orde van Vlaamse Balies (OVB); Ordre des barreaux francophones et germanophone (avocats.be)",
+   "source_url": "https://e-justice.europa.eu/topics/training-judicial-networks-and-agencies/training-justice-professionals/national-training-systems/initial-training-lawyers-european-union/flemish-bar-association/be_nl",
+   "zone": "EU"
+  },
+  "BY": {
+   "jurisdiction": "BY",
+   "jurisdiction_name_ru": "Беларусь",
+   "profession_title_original": "адвокат",
+   "admission_path_ru": "По вторичным источникам: стажировка и квалификационный экзамен для получения лицензии (Минюст, Республиканская коллегия адвокатов). Текст Закона № 334-З в этом запуске не открыт.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Министерство юстиции Республики Беларусь; Белорусская республиканская коллегия адвокатов",
+   "source_url": null,
+   "zone": "RU"
+  },
+  "CA": {
+   "jurisdiction": "CA",
+   "jurisdiction_name_ru": "Канада (общефедеральная оценка иностранного образования, NCA)",
+   "profession_title_original": "lawyer",
+   "admission_path_ru": "Для иностранных юристов и выпускников: языковой скрининг → оценка образования NCA → назначенные экзамены/курсы (с 01.03.2026 обязателен онлайн-модуль Indigenous Peoples and the Law) → сертификат квалификации NCA → лицензирование в палате провинции общего права.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Federation of Law Societies of Canada — National Committee on Accreditation",
+   "source_url": "https://flsc.ca/national-committee-on-accreditation-nca/",
+   "zone": "NA"
+  },
+  "CA-AB": {
+   "jurisdiction": "CA-AB",
+   "jurisdiction_name_ru": "Альберта (а также Саскачеван, Манитоба — общая программа CPLED PREP)",
+   "profession_title_original": "lawyer (barrister and solicitor)",
+   "admission_path_ru": "Юридический диплом (или сертификат NCA) → articling (student-at-law) параллельно с программой CPLED PREP → допуск в палату.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of Alberta; Canadian Centre for Professional Legal Education (CPLED)",
+   "source_url": "https://www.lawsociety.ab.ca/?p=31193",
+   "zone": "NA"
+  },
+  "CA-BC": {
+   "jurisdiction": "CA-BC",
+   "jurisdiction_name_ru": "Британская Колумбия",
+   "profession_title_original": "lawyer (barrister and solicitor)",
+   "admission_path_ru": "Юридический диплом (или сертификат NCA) → Admission Program: articling 9 месяцев + обучающий курс (PLTC закрыт в августе 2026 года, заменён PREP от CPLED) + онлайн-курс по управлению практикой → call and admission.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of British Columbia",
+   "source_url": "https://www.lawsociety.bc.ca/licensing/upcoming-changes-to-bar-admission-program/",
+   "zone": "NA"
+  },
+  "CA-ON": {
+   "jurisdiction": "CA-ON",
+   "jurisdiction_name_ru": "Онтарио",
+   "profession_title_original": "lawyer (barrister and solicitor)",
+   "admission_path_ru": "JD/LLB канадского вуза (или сертификат NCA) → заявка в Licensing Process LSO → экзамены Barrister и Solicitor → Experiential Training: articling или Law Practice Program (около 8 месяцев: 4 месяца курса + 4 месяца практики) → лицензирование и call to the bar. Экзамены и практику можно проходить в любой последовательности в пределах срока лицензирования.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of Ontario",
+   "source_url": "https://lso.ca/becoming-licensed/lawyer-licensing-process/application-process/payment-and-fees-overview",
+   "zone": "NA"
+  },
+  "CA-QC": {
+   "jurisdiction": "CA-QC",
+   "jurisdiction_name_ru": "Квебек",
+   "profession_title_original": "avocat / avocate",
+   "admission_path_ru": "Диплом бакалавра гражданского права (или признание эквивалентности) → École du Barreau: блок 1 (курсы и три экзамена: droit appliqué, théorie d'une cause et rédaction, éthique et déontologie) и блок 2 (apprentissage expérientiel) → стаж 6 месяцев полного дня (180 календарных дней) под руководством члена Ордена со стажем не менее 5 лет или судьи → присяга и внесение в Tableau de l'Ordre.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Barreau du Québec; École du Barreau du Québec",
+   "source_url": "https://www.ecoledubarreau.qc.ca/candidats/admission-et-inscription/admission/",
+   "zone": "NA"
+  },
+  "CH": {
+   "jurisdiction": "CH",
+   "jurisdiction_name_ru": "Швейцария",
+   "profession_title_original": "Rechtsanwalt / avocat",
+   "admission_path_ru": "Master en droit → Anwaltspraktikum / stage → кантональный экзамен (Zürich — Anwaltsprüfungskommission Obergericht; Genève — École d'avocature ECAV + examen final du brevet) → патент/brevet.",
+   "total_min_duration_ru": null,
+   "regulator_original": "кантональные экзаменационные комиссии (ZH: Anwaltsprüfungskommission; GE: Commission d'examens / ECAV)",
+   "source_url": "https://www.unige.ch/droit/ecav/etudes/inscription",
+   "zone": "EU"
+  },
+  "CN": {
+   "jurisdiction": "CN",
+   "jurisdiction_name_ru": "Материковый Китай",
+   "profession_title_original": "律师",
+   "admission_path_ru": "Высшее образование → 国家统一法律职业资格考试 (客观题, затем 主观题) → 法律职业资格证书 → 实习律师 1 год в 律师事务所 с 实习证 律协 и 集中培训 → 申请律师执业.",
+   "total_min_duration_ru": null,
+   "regulator_original": "中华人民共和国司法部；中华全国律师协会",
+   "source_url": null,
+   "zone": "AS"
+  },
+  "DE": {
+   "jurisdiction": "DE",
+   "jurisdiction_name_ru": "Германия",
+   "profession_title_original": "Rechtsanwalt",
+   "admission_path_ru": "Юридический факультет → Первый государственный экзамен (Erste juristische Prüfung) → juristischer Vorbereitungsdienst (Referendariat) с ежемесячным пособием Unterhaltsbeihilfe → Второй государственный экзамен → допуск в Rechtsanwaltskammer.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Landesjustizprüfungsämter; Rechtsanwaltskammern / BRAK",
+   "source_url": "https://www.justiz.bayern.de/landesjustizpruefungsamt/zweite-juristische-staatspruefung/",
+   "zone": "EU"
+  },
+  "DK": {
+   "jurisdiction": "DK",
+   "jurisdiction_name_ru": "Дания",
+   "profession_title_original": "advokat",
+   "admission_path_ru": "Cand.jur. → 3 года advokatfuldmægtig → advokatuddannelsen (курсы Advokatsamfundet) и advokateksamen → advokatbeskikkelse.",
+   "total_min_duration_ru": "3 года (по вторичным данным)",
+   "regulator_original": "Advokatsamfundet",
+   "source_url": "https://www.advokatsamfundet.dk/uddannelse/advokateksamen/eksamensemner",
+   "zone": "EU"
+  },
+  "ES": {
+   "jurisdiction": "ES",
+   "jurisdiction_name_ru": "Испания",
+   "profession_title_original": "abogado",
+   "admission_path_ru": "Grado en Derecho → Máster de Acceso a la Abogacía (с практикой) → Prueba de aptitud Министерства юстиции (тест; итог = 70 % тест + 30 % оценка магистратуры, по вторичным данным) → запись в Colegio de Abogados.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Ministerio de Justicia (prueba); Consejo General de la Abogacía Española",
+   "source_url": null,
+   "zone": "EU"
+  },
+  "EU": {
+   "jurisdiction": "EU",
+   "jurisdiction_name_ru": "Европейский союз (наднациональный уровень)",
+   "profession_title_original": "lawyer / avocat / Rechtsanwalt",
+   "admission_path_ru": "Юрист, получивший квалификацию в одном государстве ЕС, получает доступ к профессии в другом либо через тест на профпригодность (aptitude test, Директива 2005/36/EC), либо через 3 года практики под домашним титулом (Директива 98/5/EC).",
+   "total_min_duration_ru": null,
+   "regulator_original": "национальные палаты / органы признания; CCBE (координация)",
+   "source_url": null,
+   "zone": "EU"
+  },
+  "FI": {
+   "jurisdiction": "FI",
+   "jurisdiction_name_ru": "Финляндия",
+   "profession_title_original": "asianajaja",
+   "admission_path_ru": "OTM → практика → asianajajatutkinto (Suomen Asianajajaliitto; включает часть по судебному процессу) → приём в Asianajajaliitto.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Suomen Asianajajaliitto",
+   "source_url": "https://asianajajaliitto.fi/app/uploads/2024/04/Asianajajatutkinnon-oikeudenkayntiosan-ohjelma.pdf",
+   "zone": "EU"
+  },
+  "FR": {
+   "jurisdiction": "FR",
+   "jurisdiction_name_ru": "Франция",
+   "profession_title_original": "avocat",
+   "admission_path_ru": "Магистр права (M1) → вступительный экзамен в CRFPA (письменная часть — admissibilité, устная — admission) → обучение в école d'avocats (EFB, EDA) → экзамен CAPA → присяга.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Conseil national des barreaux (CNB); CRFPA; IEJ университетов",
+   "source_url": "https://cnb.avocat.fr/examen-d-acces-au-crfpa-2026-toutes-les-informations-utiles",
+   "zone": "EU"
+  },
+  "GB-ENG": {
+   "jurisdiction": "GB-ENG",
+   "jurisdiction_name_ru": "Англия и Уэльс",
+   "profession_title_original": "solicitor / barrister",
+   "admission_path_ru": "Solicitor: степень (любая) или эквивалент → SQE1 → SQE2 → 2 года qualifying work experience (до 4 организаций, подтверждение солиситором) → проверка character & suitability → допуск SRA; переходный путь через LPC и training contract сохраняется до 2032 г. Barrister: академический этап → Bar Course у AETO с BSB centralised assessments → pupillage (обычно 12 месяцев) → призыв в Inn.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Solicitors Regulation Authority; Bar Standards Board",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "GB-NIR": {
+   "jurisdiction": "GB-NIR",
+   "jurisdiction_name_ru": "Северная Ирландия",
+   "profession_title_original": "solicitor / barrister",
+   "admission_path_ru": "Признанная юридическая степень → вступительный тест → профессиональный курс в Institute of Professional Legal Studies (QUB) или Graduate School of Professional Legal Education (Ulster) → ученичество/pupillage → допуск.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of Northern Ireland; Bar of Northern Ireland",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "GB-SCT": {
+   "jurisdiction": "GB-SCT",
+   "jurisdiction_name_ru": "Шотландия",
+   "profession_title_original": "solicitor / advocate",
+   "admission_path_ru": "Solicitor: LLB (шотландское право) → Diploma in Professional Legal Practice (PEAT 1) → traineeship (PEAT 2) → допуск. Advocate: квалификация, обучение в офисе солиситора, экзамены Faculty of Advocates, матрикуляция в качестве Intrant → devilling (один набор в год, конец сентября — начало октября) → допуск.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of Scotland; Faculty of Advocates",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "HK": {
+   "jurisdiction": "HK",
+   "jurisdiction_name_ru": "Гонконг",
+   "profession_title_original": "solicitor / barrister",
+   "admission_path_ru": "Диплом LLB/JD (или конвертационные экзамены PCEA) → PCLL (HKU, CUHK, CityU, 1 год) → solicitor: trainee solicitor contract; barrister: pupillage → допуск. Иностранные юристы — экзамен OLQE.",
+   "total_min_duration_ru": null,
+   "regulator_original": "The Law Society of Hong Kong; Hong Kong Bar Association",
+   "source_url": "https://www.hklawsoc.org.hk/pub_e/admission/trainee.asp",
+   "zone": "AS"
+  },
+  "IE": {
+   "jurisdiction": "IE",
+   "jurisdiction_name_ru": "Ирландия",
+   "profession_title_original": "solicitor / barrister",
+   "admission_path_ru": "Solicitor: Preliminary Examination (или освобождение) → FE-1 (две сессии в год) → PPC Hybrid / PPC в Law Society of Ireland с параллельным ученичеством → допуск. Barrister: одобренная юридическая степень или диплом → вступительный экзамен King's Inns → Degree of Barrister-at-Law (год очно или модульно заочно) → призыв к адвокатуре и devilling.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Law Society of Ireland; The Honorable Society of King's Inns",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "IN": {
+   "jurisdiction": "IN",
+   "jurisdiction_name_ru": "Индия",
+   "profession_title_original": "Advocate",
+   "admission_path_ru": "Диплом LLB → зачисление в State Bar Council → All India Bar Examination (BCI) → Certificate of Practice.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Bar Council of India; State Bar Councils",
+   "source_url": null,
+   "zone": "AS"
+  },
+  "IT": {
+   "jurisdiction": "IT",
+   "jurisdiction_name_ru": "Италия",
+   "profession_title_original": "avvocato",
+   "admission_path_ru": "Laurea magistrale in giurisprudenza → pratica forense (18 месяцев) с обязательной scuola forense (не менее 160 часов, DM 17/2018) → esame di abilitazione (с сессии 2026: две письменные работы + устный этап, DL 100/2026) → запись в albo.",
+   "total_min_duration_ru": "18 месяцев практики + экзамен",
+   "regulator_original": "Ministero della Giustizia; Consiglio Nazionale Forense; Consigli dell'Ordine",
+   "source_url": "https://www.giustizia.it/giustizia/page/it/provvedimento_ministeriale_selezionato?contentId=SDC1519988",
+   "zone": "EU"
+  },
+  "JP": {
+   "jurisdiction": "JP",
+   "jurisdiction_name_ru": "Япония",
+   "profession_title_original": "弁護士",
+   "admission_path_ru": "法科大学院 (или 予備試験) → 司法試験 → 司法修習 в 司法研修所 с 修習給付金 → итоговая проверка → регистрация в 日本弁護士連合会.",
+   "total_min_duration_ru": null,
+   "regulator_original": "法務省 司法試験委員会；最高裁判所 司法研修所；日本弁護士連合会",
+   "source_url": null,
+   "zone": "AS"
+  },
+  "KG": {
+   "jurisdiction": "KG",
+   "jurisdiction_name_ru": "Кыргызстан",
+   "profession_title_original": "адвокат",
+   "admission_path_ru": "По вторичным источникам: квалификационный экзамен для получения адвокатской лицензии (Минюст КР, Адвокатура КР). Порядок стажировки в этом запуске не проверен.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Министерство юстиции Кыргызской Республики; Адвокатура Кыргызской Республики",
+   "source_url": null,
+   "zone": "RU"
+  },
+  "KR": {
+   "jurisdiction": "KR",
+   "jurisdiction_name_ru": "Республика Корея",
+   "profession_title_original": "변호사",
+   "admission_path_ru": "법학전문대학원 → 변호사시험 (법무부) → для самостоятельной практики или членства в 법무법인: 6 месяцев в 법률사무종사기관 или обязательное обучение 대한변호사협회 (변호사법 제21조의2).",
+   "total_min_duration_ru": null,
+   "regulator_original": "법무부 법조인력과；대한변호사협회",
+   "source_url": "https://www.moj.go.kr/bbs/moj/135/610023/artclView.do",
+   "zone": "AS"
+  },
+  "KZ": {
+   "jurisdiction": "KZ",
+   "jurisdiction_name_ru": "Казахстан",
+   "profession_title_original": "адвокат",
+   "admission_path_ru": "Заявление в президиум коллегии адвокатов о допуске к стажировке. Стажировка под руководством адвоката, по итогам руководитель составляет заключение, его утверждает президиум коллегии. Затем аттестация в органах юстиции: комплексное компьютерное тестирование на знание законодательства РК и проверка практических навыков. Решение об аттестации действует 3 года (ст. 38–39 Закона РК «Об адвокатской деятельности и юридической помощи»).",
+   "total_min_duration_ru": null,
+   "regulator_original": "Министерство юстиции Республики Казахстан (территориальные органы юстиции); Республиканская коллегия адвокатов",
+   "source_url": "https://adilet.zan.kz/rus/docs/123269",
+   "zone": "RU"
+  },
+  "NL": {
+   "jurisdiction": "NL",
+   "jurisdiction_name_ru": "Нидерланды",
+   "profession_title_original": "advocaat",
+   "admission_path_ru": "Магистр права (civiel effect) → присяга и стаж advocaat-stagiair (3 года) с обязательной Beroepsopleiding Advocaten NOvA (2 года) → полноправный advocaat.",
+   "total_min_duration_ru": "3 года стажа",
+   "regulator_original": "Nederlandse orde van advocaten (NOvA)",
+   "source_url": "https://www.advocatenorde.nl/advocaat-opleiding/hoe-word-ik-advocaat/aanmelden-beroepsopleiding-advocaten",
+   "zone": "EU"
+  },
+  "NO": {
+   "jurisdiction": "NO",
+   "jurisdiction_name_ru": "Норвегия",
+   "profession_title_original": "advokat",
+   "admission_path_ru": "Master i rettsvitenskap → практика → обязательный advokatkurs (Juristenes Utdanningssenter) → advokatbevilling.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Tilsynsrådet for advokatvirksomhet / Advokatforeningen",
+   "source_url": null,
+   "zone": "EU"
+  },
+  "NZ": {
+   "jurisdiction": "NZ",
+   "jurisdiction_name_ru": "Новая Зеландия",
+   "profession_title_original": "barrister and solicitor",
+   "admission_path_ru": "LLB → Professional Legal Studies Course (College of Law NZ или Institute of Professional Legal Studies) → сертификат character → допуск High Court.",
+   "total_min_duration_ru": null,
+   "regulator_original": "New Zealand Council of Legal Education; New Zealand Law Society",
+   "source_url": null,
+   "zone": "CL"
+  },
+  "PL": {
+   "jurisdiction": "PL",
+   "jurisdiction_name_ru": "Польша",
+   "profession_title_original": "adwokat",
+   "admission_path_ru": "Magister prawa → egzamin wstępny na aplikację adwokacką (раз в год, тест, проводит Минюст) → aplikacja adwokacka (3 года, платная, при okręgowa rada adwokacka) → egzamin adwokacki (раз в год) → вписание в список адвокатов.",
+   "total_min_duration_ru": "3 года аплекации + экзамен",
+   "regulator_original": "Ministerstwo Sprawiedliwości; Naczelna Rada Adwokacka",
+   "source_url": "https://www.gov.pl/web/sprawiedliwosc/ogloszenie-o-egzaminie-wstepnym-na-aplikacje-adwokacka-w-2026-r",
+   "zone": "EU"
+  },
+  "RU": {
+   "jurisdiction": "RU",
+   "jurisdiction_name_ru": "Россия",
+   "profession_title_original": "адвокат",
+   "admission_path_ru": "Высшее юридическое образование в вузе с госаккредитацией или учёная степень по юридической специальности. Затем стаж работы по юридической специальности не менее 2 лет (в стаж входит и работа помощником адвоката) либо стажировка в адвокатском образовании. Затем заявление в квалификационную комиссию при адвокатской палате субъекта и квалификационный экзамен (тестирование и устное собеседование). Решение о присвоении статуса принимает квалификационная комиссия, затем присяга (ст. 9–12 63-ФЗ).",
+   "total_min_duration_ru": "не менее 1 года стажировки (ст. 28) либо 2 лет юридического стажа (ст. 9) после диплома, плюс до 3 месяцев на решение квалкомиссии (ст. 12)",
+   "regulator_original": "Федеральная палата адвокатов Российской Федерации; квалификационные комиссии адвокатских палат субъектов РФ",
+   "source_url": "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076346",
+   "zone": "RU"
+  },
+  "SE": {
+   "jurisdiction": "SE",
+   "jurisdiction_name_ru": "Швеция",
+   "profession_title_original": "advokat",
+   "admission_path_ru": "Juristexamen → практика → обучение Advokatsamfundet и advokatexamen (обязателен с 2004 г., акцент на адвокатской этике) → приём в Sveriges advokatsamfund.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Sveriges advokatsamfund",
+   "source_url": null,
+   "zone": "EU"
+  },
+  "SG": {
+   "jurisdiction": "SG",
+   "jurisdiction_name_ru": "Сингапур",
+   "profession_title_original": "Advocate and Solicitor",
+   "admission_path_ru": "Диплом юриста (местный или признанный иностранный; иностранным выпускникам — Part A) → Part B Course и экзамены SILE (две сессии в год с 2025 г.) → после Part B возможен допуск как lawyer (non-practitioner) → для практики — Practice Training Period 12 месяцев → допуск к практике.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Singapore Institute of Legal Education; Ministry of Law",
+   "source_url": "https://www.mlaw.gov.sg/admission-to-the-bar/admission-requirements/",
+   "zone": "AS"
+  },
+  "TW": {
+   "jurisdiction": "TW",
+   "jurisdiction_name_ru": "Тайвань",
+   "profession_title_original": "律師",
+   "admission_path_ru": "專門職業及技術人員高等考試律師考試 (第一試, 第二試) → 律師職前訓練 6 месяцев (基礎訓練 1 месяц + 實務訓練 5 месяцев) → регистрация.",
+   "total_min_duration_ru": null,
+   "regulator_original": "考選部；法務部；中華民國律師公會全國聯合會",
+   "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0020012",
+   "zone": "AS"
+  },
+  "US": {
+   "jurisdiction": "US",
+   "jurisdiction_name_ru": "США (федеральный уровень экзаменов NCBE)",
+   "profession_title_original": "attorney / lawyer",
+   "admission_path_ru": "Экзамены разрабатывает NCBE (MBE, MEE, MPT, UBE, MPRE, NextGen UBE), допуск осуществляет каждый штат: диплом JD школы, одобренной ABA (или альтернативный путь штата), → MPRE → bar exam (UBE / NextGen UBE / экзамен штата) → проверка character & fitness → присяга. NextGen UBE вводится поэтапно с июля 2026 года.",
+   "total_min_duration_ru": null,
+   "regulator_original": "National Conference of Bar Examiners (экзаменационный орган); допуск — верховные суды и советы штатов",
+   "source_url": "https://www.ncbex.org/exams/nextgen",
+   "zone": "NA"
+  },
+  "US-CA": {
+   "jurisdiction": "US-CA",
+   "jurisdiction_name_ru": "Калифорния",
+   "profession_title_original": "attorney",
+   "admission_path_ru": "Юридическое образование (школа ABA или аккредитованная в Калифорнии; иностранцы — по Rule 4.30) → MPRE → California Bar Examination (двухдневный General Bar Exam либо однодневный Attorneys' Exam для действующих адвокатов) → moral character → присяга. Верховный суд Калифорнии поручил перейти на NextGen UBE с июля 2028 года и подготовить калифорнийский компонент.",
+   "total_min_duration_ru": null,
+   "regulator_original": "State Bar of California; Committee of Bar Examiners",
+   "source_url": "https://www.calbar.ca.gov/admissions/examinations/california-bar-examination",
+   "zone": "NA"
+  },
+  "US-DC": {
+   "jurisdiction": "US-DC",
+   "jurisdiction_name_ru": "Округ Колумбия",
+   "profession_title_original": "attorney",
+   "admission_path_ru": "JD (или 26 часов в школе ABA для части иностранных юристов) → UBE или перенос баллов UBE → MPRE → character & fitness; также допуск по мотиву (on motion).",
+   "total_min_duration_ru": null,
+   "regulator_original": "District of Columbia Court of Appeals, Committee on Admissions",
+   "source_url": "https://www.dccourts.gov/sites/default/files/divisionspdfs/committee%20on%20admissions%20pdf/DCCA_Rule_46.pdf",
+   "zone": "NA"
+  },
+  "US-FL": {
+   "jurisdiction": "US-FL",
+   "jurisdiction_name_ru": "Флорида",
+   "profession_title_original": "attorney",
+   "admission_path_ru": "JD → регистрация студента и проверка характера → Florida Bar Examination (собственный экзамен штата + MBE) → MPRE → присяга.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Florida Board of Bar Examiners",
+   "source_url": "https://www.floridabarexam.org/",
+   "zone": "NA"
+  },
+  "US-IL": {
+   "jurisdiction": "US-IL",
+   "jurisdiction_name_ru": "Иллинойс",
+   "profession_title_original": "attorney",
+   "admission_path_ru": "JD → character & fitness → MPRE → UBE; новый экзамен (NextGen) с 2028 года.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Illinois Board of Admissions to the Bar",
+   "source_url": "https://www.ilbaradmissions.org/appinfo.action?id=1",
+   "zone": "NA"
+  },
+  "US-NY": {
+   "jurisdiction": "US-NY",
+   "jurisdiction_name_ru": "Нью-Йорк",
+   "profession_title_original": "attorney and counselor at law",
+   "admission_path_ru": "JD (или иностранное образование по Rule 520.6, как правило с LL.M. в США) → MPRE → UBE и New York Law Exam (NYLE) → 50 часов pro bono (Rule 520.16) и Skills Competency requirement → character & fitness → присяга. С июля 2028 года UBE заменяется NextGen.",
+   "total_min_duration_ru": null,
+   "regulator_original": "New York State Board of Law Examiners; New York Court of Appeals",
+   "source_url": "https://www.nybarexam.org/",
+   "zone": "NA"
+  },
+  "US-TX": {
+   "jurisdiction": "US-TX",
+   "jurisdiction_name_ru": "Техас",
+   "profession_title_original": "attorney",
+   "admission_path_ru": "JD → декларация (declarant) и проверка character & fitness → MPRE → UBE (Texas Bar Exam); с июля 2028 года — NextGen UBE.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Texas Board of Law Examiners",
+   "source_url": "https://ble.texas.gov/deadlines",
+   "zone": "NA"
+  },
+  "UZ": {
+   "jurisdiction": "UZ",
+   "jurisdiction_name_ru": "Узбекистан",
+   "profession_title_original": "advokat",
+   "admission_path_ru": "По вторичным источникам: стажировка в адвокатском формировании (лица с юридическим стажем в госорганах могут допускаться без неё), квалификационный экзамен, затем лицензия Минюста через электронные госуслуги. Закон «Об адвокатуре» на lex.uz в этом запуске не открыт.",
+   "total_min_duration_ru": null,
+   "regulator_original": "Министерство юстиции Республики Узбекистан; Палата адвокатов Республики Узбекистан",
+   "source_url": null,
+   "zone": "RU"
+  }
+ },
+ "programs": {
+  "AE-DU-DIFCCOURTS-REGISTRATION": {
+   "program_id": "AE-DU-DIFCCOURTS-REGISTRATION",
+   "jurisdiction": "AE-DU",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "DIFC Courts",
+   "provider_ru": "Суды Дубайского международного финансового центра",
+   "provider_type": "суд",
+   "program_name_original": "Registration of Practitioners (Part I / Part II)",
+   "program_name_ru": "Регистрация практикующих юристов (Part I — фирмы, Part II — индивидуальные)",
+   "curriculum_ru": "Part II: подтверждение профессионального опыта, прав на ведение дел/выступление в своей юрисдикции, английского языка и знания общего права и процедуры DIFC; собеседование. По вторичной сводке Order 2019 г. — 5 лет опыта устной адвокатуры для полных прав или 2 года для временной регистрации (не проверено по Order No. 1 of 2025).",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 2700,
+     "currency": "USD",
+     "item_ru": "регистрация Part I (фирма)",
+     "period_ru": "единовременно",
+     "valid_from": null
+    },
+    {
+     "amount": 1350,
+     "currency": "USD",
+     "item_ru": "продление Part I",
+     "period_ru": "за продление",
+     "valid_from": null
+    },
+    {
+     "amount": 2500,
+     "currency": "USD",
+     "item_ru": "регистрация Part II (индивидуально)",
+     "period_ru": "единовременно",
+     "valid_from": null
+    },
+    {
+     "amount": 1450,
+     "currency": "USD",
+     "item_ru": "продление Part II",
+     "period_ru": "за продление",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": "Квалификация юриста в своей юрисдикции.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.difccourts.ae/difc-courts/registration-of-practitioners/fee-schedule",
+   "secondary_urls": [
+    "https://www.difccourts.ae/difc-courts/registration-of-practitioners/guidelines"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "AM-CHAMBER-SCHOOL-OF-ADVOCATES": {
+   "program_id": "AM-CHAMBER-SCHOOL-OF-ADVOCATES",
+   "jurisdiction": "AM",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Փաստաբանների դպրոց, Փաստաբանների պալատ",
+   "provider_ru": "Школа адвокатов Палаты адвокатов РА",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Փաստաբանների դպրոց",
+   "program_name_ru": "Школа адвокатов",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "hy",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://panorama.am/en/news/2014/06/02/advocates/274022"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "mandatory",
+    "provider_original",
+    "language"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "AT-OERAK-RAA-AUSBILDUNG": {
+   "program_id": "AT-OERAK-RAA-AUSBILDUNG",
+   "jurisdiction": "AT",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Anwaltsakademie (AWAK) / Rechtsanwaltskammern",
+   "provider_ru": "Адвокатская академия (AWAK) / адвокатские палаты",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Ausbildungsveranstaltungen für Rechtsanwaltsanwärter",
+   "program_name_ru": "Обязательные учебные мероприятия для кандидатов в адвокаты",
+   "curriculum_ru": "Не менее 42 полудней, из них не менее 24 — до Rechtsanwaltsprüfung (директива 2008). Проект изменения директивы (вариант 2026) добавляет минимумы: профессиональное право и гонорарное право — не менее 4 полудней; процедуры в административных органах и судах — не менее 4 полудней.",
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Стоимость зависит от семинара; суммы не найдены.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Проект изменения Ausbildungsrichtlinie (RL-BA 2015, вариант 2026) на обсуждении ÖRAK; статус не проверен.",
+   "source_url": "https://www.oerak.at/fileadmin/user_upload/Kundmachungen/OERAK/RL-RAA/rl_raa_kundm2008_1.pdf",
+   "secondary_urls": [
+    "https://www.oerak.at/fileadmin/user_upload/Kundmachungen/Begutachtungen_OERAK/Begutachtung_RL-BA_2015_VVS_2026.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "AT-OLG-RAPRUEFUNG": {
+   "program_id": "AT-OLG-RAPRUEFUNG",
+   "jurisdiction": "AT",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Rechtsanwaltsprüfungskommissionen bei den Oberlandesgerichten",
+   "provider_ru": "Экзаменационные комиссии при высших земельных судах",
+   "provider_type": "суд",
+   "program_name_original": "Rechtsanwaltsprüfung",
+   "program_name_ru": "Адвокатский экзамен",
+   "curriculum_ru": "Заявление — не ранее чем за 6 месяцев до выполнения условий (§ 2 RAPG); уведомление не позднее чем за 4 недели до экзамена (§ 7 RAPG). Даты 2027 г. не найдены.",
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://gesetzefinden.at/bundesrecht/bundesgesetze/rapg",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "AU-LEOCUSSEN-PLT": {
+   "program_id": "AU-LEOCUSSEN-PLT",
+   "jurisdiction": "AU",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Leo Cussen Centre for Law",
+   "provider_ru": "Центр права Лео Кассена",
+   "provider_type": "частный_провайдер",
+   "program_name_original": "Practical Legal Training (2027)",
+   "program_name_ru": "Практическое юридическое обучение (PLT), 2027",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": "2027-01-25",
+     "application_deadline": null,
+     "note_ru": "Национальный январский поток 2027 г."
+    },
+    {
+     "start": "2027-03-22",
+     "application_deadline": null,
+     "note_ru": "Национальный мартовский поток."
+    },
+    {
+     "start": "2027-06-28",
+     "application_deadline": null,
+     "note_ru": null
+    },
+    {
+     "start": "2027-09-20",
+     "application_deadline": null,
+     "note_ru": null
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 12390,
+     "currency": "AUD",
+     "item_ru": "стоимость PLT, граждане/резиденты",
+     "period_ru": "потоки 2027 г.",
+     "valid_from": null
+    },
+    {
+     "amount": 17790,
+     "currency": "AUD",
+     "item_ru": "стоимость PLT, иностранные студенты",
+     "period_ru": "потоки 2027 г.",
+     "valid_from": null
+    },
+    {
+     "amount": 865,
+     "currency": "AUD",
+     "item_ru": "услуга подбора места практики (на разных страницах +865 / +895 / +899)",
+     "period_ru": "доплата",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Возможно спонсорство работодателя (2027 Terms and Conditions of Employer Sponsorship).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.leocussen.edu.au/practical-legal-training/program-fees/",
+   "secondary_urls": [
+    "https://www.leocussen.edu.au/app/uploads/2026/07/2027-Terms-and-Conditions-of-Employer-Sponsorship.pdf",
+    "https://www.leocussen.edu.au/app/uploads/2026/07/Terms-and-conditions-of-enrolment-2027.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "AU-NSW-COLLAW-PLT": {
+   "program_id": "AU-NSW-COLLAW-PLT",
+   "jurisdiction": "AU-NSW",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "The College of Law (Australia)",
+   "provider_ru": "College of Law (Австралия)",
+   "provider_type": "частный_провайдер",
+   "program_name_original": "Practical Legal Training (NSW)",
+   "program_name_ru": "Практическое юридическое обучение (PLT), NSW",
+   "curriculum_ru": "Для начавших с 01.03.2026 в NSW: 15 дней очного обучения и 15 дней практики (новые требования LPAB); в других штатах — прежняя структура.",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 9200,
+     "currency": "AUD",
+     "item_ru": "стоимость PLT, граждане/резиденты",
+     "period_ru": "за курс; год не указан",
+     "valid_from": null
+    },
+    {
+     "amount": 13270,
+     "currency": "AUD",
+     "item_ru": "стоимость PLT, иностранные студенты",
+     "period_ru": "за курс; год не указан",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "FEE-HELP для имеющих право.",
+   "entry_requirements_ru": "Аккредитованная юридическая степень.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Реформа PLT в NSW: Discussion Paper LPAB (30.09.2025), Interim Report on PLT Reform (13.03.2026); итоговый отчёт не найден. Цены на 2027 г. не найдены.",
+   "source_url": "https://www.collaw.edu.au/practical-legal-training/new-south-wales/",
+   "secondary_urls": [
+    "https://colau-prod-payments.collaw.edu.au/practical-legal-training/how-much-does-plt-cost",
+    "https://lpab.nsw.gov.au/documents/policy-documents/Interim_Report_on_PLT_Reform.pdf",
+    "https://www.lawsociety.com.au/publications-and-resources/publications/monday-briefs-online/monday-briefs-16-march-2026"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "curriculum_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "AU-VIC-VLAB-SLT": {
+   "program_id": "AU-VIC-VLAB-SLT",
+   "jurisdiction": "AU-VIC",
+   "stage": "стажировка_практика",
+   "mandatory": "один_из_путей",
+   "provider_original": "Victorian Legal Admissions Board",
+   "provider_ru": "Совет по допуску юристов Виктории",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Supervised Legal Training",
+   "program_name_ru": "Стажировка под надзором (альтернатива PLT)",
+   "curriculum_ru": "Не менее 12 месяцев на рабочем месте по утверждённому Board плану; обязательные курсы Ethics and Professional Responsibility и Lawyer's Skills у провайдера; документы подаются в течение месяца с начала.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "не менее 12 месяцев",
+   "duration_months": 12,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Стажёр работает по найму у работодателя.",
+   "entry_requirements_ru": "Завершённое академическое обучение (выпуск не обязателен); иностранные квалификации — после оценки Board.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Изменений в 2026 г. не найдено.",
+   "source_url": "https://www.lawadmissions.vic.gov.au/node/70",
+   "secondary_urls": [
+    "https://collaw.edu.au/practical-legal-training/supervised-legal-training-in-victoria-slt-vs-plt-explained"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "BE-AVOCATSBE-CAPA": {
+   "program_id": "BE-AVOCATSBE-CAPA",
+   "jurisdiction": "BE",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Ordre des barreaux francophones et germanophone (avocats.be)",
+   "provider_ru": "Коллегия франко- и германоязычных адвокатур Бельгии",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Certificat d'aptitude à la profession d'avocat (CAPA) / formation professionnelle",
+   "program_name_ru": "Сертификат пригодности к профессии адвоката / профессиональная подготовка",
+   "curriculum_ru": "Курсы профессиональной подготовки и épreuve de contrôle (ст. 3.14 Code de déontologie) в первый год стажа.",
+   "format": null,
+   "language": "fr",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://e-justice.europa.eu/topics/training-judicial-networks-and-agencies/training-justice-professionals/national-training-systems/initial-training-lawyers-european-union/french-and-german-speaking-bar-association/be_fr",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "BE-OVB-BEROEPSOPLEIDING": {
+   "program_id": "BE-OVB-BEROEPSOPLEIDING",
+   "jurisdiction": "BE",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Orde van Vlaamse Balies (stageschool)",
+   "provider_ru": "Коллегия фламандских адвокатур (школа стажёров)",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Beroepsopleiding advocaat-stagiairs",
+   "program_name_ru": "Профессиональная подготовка адвокатов-стажёров",
+   "curriculum_ru": "Проводится в первые 18 месяцев трёхлетнего стажа; реформирована в три обязательных блока; экзамены (этика, гражданский процесс и др.) проводятся в один день; сертификат действителен 5 лет.",
+   "format": null,
+   "language": "nl",
+   "duration_ru": "18 месяцев в рамках 3-летнего стажа",
+   "duration_months": 18,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "По вторичным данным, новая профессиональная подготовка должна быть разработана до 2028-06-30.",
+   "source_url": "https://e-justice.europa.eu/topics/training-judicial-networks-and-agencies/training-justice-professionals/national-training-systems/initial-training-lawyers-european-union/flemish-bar-association/be_nl",
+   "secondary_urls": [
+    "https://www.jubel.be/de-vernieuwde-stageopleiding-een-verbetering-bedenkingen-van-een-stagebegeleidster/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "upcoming_changes_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "BY-MINJUST-KVALEKZAMEN": {
+   "program_id": "BY-MINJUST-KVALEKZAMEN",
+   "jurisdiction": "BY",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Министерство юстиции Республики Беларусь",
+   "provider_ru": "Минюст Беларуси",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Квалификационный экзамен для лиц, претендующих на получение лицензии на осуществление адвокатской деятельности",
+   "program_name_ru": "Квалификационный экзамен на получение адвокатской лицензии",
+   "curriculum_ru": "По выдаче поиска: Минюст утвердил Программу подготовки к квалификационному экзамену (новость pravo.by). Текст программы не открыт.",
+   "format": null,
+   "language": null,
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2022/november/72234/",
+    "https://etalonline.by/novosti/korotko-o-vazhnom/budushchim-advokatam-utverzhden-poryadok-provedeniya-kvalifikatsionnogo-ekzamena/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "provider_original",
+    "curriculum_ru",
+    "mandatory"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "CA-BC-LSBC-ARTICLING": {
+   "program_id": "CA-BC-LSBC-ARTICLING",
+   "jurisdiction": "CA-BC",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Law Society of British Columbia",
+   "provider_ru": "Юридическое общество Британской Колумбии",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Articling (Admission Program)",
+   "program_name_ru": "Стажировка articling",
+   "curriculum_ru": "Стажировка под руководством principal в рамках Admission Program вместе с курсом PREP и онлайн-курсом по управлению практикой.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "9 месяцев",
+   "duration_months": 9,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Юридический диплом или сертификат NCA.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.lawsociety.bc.ca/licensing/admission-program/",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "duration_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-BC-LSBC-PLTC": {
+   "program_id": "CA-BC-LSBC-PLTC",
+   "jurisdiction": "CA-BC",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Law Society of British Columbia",
+   "provider_ru": "Юридическое общество Британской Колумбии",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Professional Legal Training Course (PLTC) — PLTC Completion Program",
+   "program_name_ru": "Курс профессиональной юридической подготовки (PLTC) — программа завершения",
+   "curriculum_ru": "PLTC закрыт в августе 2026 года; программа завершения — для пересдачи проваленных или отложенных аттестаций.",
+   "format": null,
+   "language": "en",
+   "duration_ru": "циклы с сентября 2026 по апрель 2027",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-01-12",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Cycle 2, аттестация barrister"
+    },
+    {
+     "date": "2027-03-02",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Cycle 3, аттестация barrister"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Только для кандидатов, не завершивших PLTC.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Заменён программой PREP (CPLED).",
+   "source_url": "https://www.lawsociety.bc.ca/licensing/pre-admission-training/prep-training-course/pltc-completion-program/",
+   "secondary_urls": [
+    "https://www.lawsociety.bc.ca/licensing/upcoming-changes-to-bar-admission-program/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-CPLED-PREP": {
+   "program_id": "CA-CPLED-PREP",
+   "jurisdiction": "CA-AB",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Canadian Centre for Professional Legal Education (CPLED)",
+   "provider_ru": "Канадский центр профессионального юридического образования (CPLED)",
+   "provider_type": "частный_провайдер",
+   "program_name_original": "Practice Readiness Education Program (PREP)",
+   "program_name_ru": "Программа подготовки к практике (PREP)",
+   "curriculum_ru": "Обязательный курс допуска в Альберте, Саскачеване, Манитобе, а с осени 2026 — в Британской Колумбии; варианты Accelerated (очная занятость 11 недель) и Regular (9 месяцев неполной занятости).",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": "11 недель (accelerated) или 9 месяцев (regular)",
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": "2026-09-14",
+     "application_deadline": null,
+     "note_ru": "Accelerated PREP осень 2026, регистрация открыта 04.08.2026"
+    },
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "2027 (для BC): Accelerated — февраль, май/июнь, сентябрь; Regular — с мая 2027; точные даты в источниках расходятся"
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 5000,
+     "currency": "CAD",
+     "item_ru": "плата за обучение PREP (плюс GST)",
+     "period_ru": "за программу",
+     "valid_from": "2026-09-01"
+    }
+   ],
+   "funding_ru": "Палаты субсидируют обучение: BC — чистая стоимость для сентябрьского потока 2026 года 2600 CAD + GST (на другой странице указана субсидия 2400 CAD), Альберта — субсидия 2050 CAD без GST с осени 2026; размер субсидии BC на 2027 год объявят осенью 2026.",
+   "entry_requirements_ru": "Статус student-at-law / articling.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.lawsociety.bc.ca/licensing/prep-training-course/law-society-tuition-subsidy/",
+   "secondary_urls": [
+    "https://www.lawsociety.ab.ca/?p=31193",
+    "https://www.linkedin.com/company/cpled/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "funding_ru",
+    "duration_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-FLSC-NCA-ASSESSMENT": {
+   "program_id": "CA-FLSC-NCA-ASSESSMENT",
+   "jurisdiction": "CA",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "Federation of Law Societies of Canada — National Committee on Accreditation",
+   "provider_ru": "Федерация юридических обществ Канады — Национальный комитет по аккредитации (NCA)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "NCA Assessment and Examinations",
+   "program_name_ru": "Оценка иностранного юридического образования и экзамены NCA",
+   "curriculum_ru": "Языковой скрининг (английский или французский, стоимость включена в сбор за оценку) → оценка → назначенные экзамены; онлайн-модуль Indigenous Peoples and the Law обязателен для дел, оцениваемых с 01.03.2026.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Оплачивает претендент. Сборы на 2026 год не подтверждены (на странице политики возврата, датированной около 7 лет назад: оценка 400 CAD, апелляция 280 CAD, апелляция экзамена 250 CAD).",
+   "entry_requirements_ru": "Иностранный юридический диплом или канадский диплом гражданского права.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "08.10.2026 NCA объявил о модернизированной системе оценки (Modernized Assessment Framework); первый вебинар — 10.12.2026.",
+   "source_url": "https://flsc.ca/national-committee-on-accreditation-nca/",
+   "secondary_urls": [
+    "https://flsc.ca/national-committee-on-accreditation-nca/refund-policy"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "upcoming_changes_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-ON-LSO-ARTICLING": {
+   "program_id": "CA-ON-LSO-ARTICLING",
+   "jurisdiction": "CA-ON",
+   "stage": "стажировка_практика",
+   "mandatory": "один_из_путей",
+   "provider_original": "Law Society of Ontario",
+   "provider_ru": "Юридическое общество Онтарио (LSO)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Articling Program",
+   "program_name_ru": "Стажировка articling",
+   "curriculum_ru": "Практика под руководством лицензированного юриста; одна из двух программ Experiential Training (альтернатива — LPP).",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 2800,
+     "currency": "CAD",
+     "item_ru": "сбор LSO за программу практического обучения (articling или LPP)",
+     "period_ru": "разово, 2026/2027",
+     "valid_from": null
+    },
+    {
+     "amount": 50,
+     "currency": "CAD",
+     "item_ru": "административный сбор плана помесячной оплаты",
+     "period_ru": "разово",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплата стажёров обязательна с 01.05.2021 по решению LSO (по данным Canadian Lawyer, не подтверждено первоисточником).",
+   "entry_requirements_ru": "Участие в Licensing Process LSO.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Решений Конвокации LSO 2026 года об изменении articling не найдено.",
+   "source_url": "https://lso.ca/becoming-licensed/lawyer-licensing-process/experiential-training/articling",
+   "secondary_urls": [
+    "https://www.canadianlawyermag.com/resources/legal-education/lso-to-mandate-pay-for-articling-students/275700"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-ON-LSO-LICENSING-EXAMS": {
+   "program_id": "CA-ON-LSO-LICENSING-EXAMS",
+   "jurisdiction": "CA-ON",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Law Society of Ontario",
+   "provider_ru": "Юридическое общество Онтарио (LSO)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Barrister and Solicitor Licensing Examinations",
+   "program_name_ru": "Лицензионные экзамены Barrister и Solicitor",
+   "curriculum_ru": "Два отдельных экзамена: Barrister и Solicitor.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "по одному дню на экзамен",
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-11-10",
+     "note_ru": "крайний срок заявки в Licensing Process для зимней сессии 2027"
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-11-03",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Barrister, осенняя сессия 2026"
+    },
+    {
+     "date": "2026-11-17",
+     "date_end": null,
+     "booking_deadline": "2026-10-02",
+     "note_ru": "Solicitor, осенняя сессия 2026"
+    },
+    {
+     "date": "2027-02-25",
+     "date_end": null,
+     "booking_deadline": "2027-01-12",
+     "note_ru": "Barrister, зимняя сессия 2027"
+    },
+    {
+     "date": "2027-03-11",
+     "date_end": null,
+     "booking_deadline": "2027-01-27",
+     "note_ru": "Solicitor, зимняя сессия 2027"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 160,
+     "currency": "CAD",
+     "item_ru": "заявка в Licensing Process (невозвратная)",
+     "period_ru": "разово, 2026/2027",
+     "valid_from": null
+    },
+    {
+     "amount": 865,
+     "currency": "CAD",
+     "item_ru": "экзамен Barrister (только экзамен)",
+     "period_ru": "за попытку, 2026/2027",
+     "valid_from": null
+    },
+    {
+     "amount": 865,
+     "currency": "CAD",
+     "item_ru": "экзамен Solicitor (только экзамен)",
+     "period_ru": "за попытку, 2026/2027",
+     "valid_from": null
+    },
+    {
+     "amount": 100,
+     "currency": "CAD",
+     "item_ru": "учебные материалы к каждому экзамену",
+     "period_ru": "за экзамен",
+     "valid_from": null
+    },
+    {
+     "amount": 165,
+     "currency": "CAD",
+     "item_ru": "административный сбор за лицензию",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 250,
+     "currency": "CAD",
+     "item_ru": "церемония call to the bar (при участии)",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 25,
+     "currency": "CAD",
+     "item_ru": "административный сбор плана помесячной оплаты за экзамен",
+     "period_ru": "за экзамен",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает кандидат; плюс налоги; возможна помесячная оплата.",
+   "entry_requirements_ru": "Канадский юридический диплом или сертификат NCA.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://lso.ca/becoming-licensed/lawyer-licensing-process/application-process/payment-and-fees-overview",
+   "secondary_urls": [
+    "https://lso.ca/becoming-licensed/lawyer-licensing-process/licensing-examinations/examination-dates-and-deadlines"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "costs"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-ON-LSO-LPP": {
+   "program_id": "CA-ON-LSO-LPP",
+   "jurisdiction": "CA-ON",
+   "stage": "стажировка_практика",
+   "mandatory": "один_из_путей",
+   "provider_original": "Toronto Metropolitan University (English LPP); University of Ottawa (French LPP) — по договору с LSO",
+   "provider_ru": "Торонтский столичный университет (англ.); Оттавский университет (фр.) — по договору с LSO",
+   "provider_type": "вуз",
+   "program_name_original": "Law Practice Program (LPP) / Programme de pratique du droit (PPD)",
+   "program_name_ru": "Программа юридической практики (LPP)",
+   "curriculum_ru": "Около 8 месяцев: 4-месячный учебный курс и 4-месячная практика (work placement).",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": "около 8 месяцев",
+   "duration_months": 8,
+   "intakes": [
+    {
+     "start": "2026-08-24",
+     "application_deadline": "2026-07-15",
+     "note_ru": "TMU LPP; регистрация в LSO до 15.07.2026"
+    },
+    {
+     "start": "2026-08-31",
+     "application_deadline": "2026-03-04",
+     "note_ru": "uOttawa, франкоязычная программа"
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Сбор LSO за Experiential Training 2800 CAD (см. CA-ON-LSO-ARTICLING).",
+   "entry_requirements_ru": "Участие в Licensing Process LSO.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://lso.ca/getting-licensed/lawyer-licensing-process/experiential-training/law-practice-program",
+   "secondary_urls": [
+    "https://lpp.torontomu.ca",
+    "https://www.uottawa.ca/faculty-law/common-law/lpp"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "duration_ru",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-QC-BARREAU-STAGE": {
+   "program_id": "CA-QC-BARREAU-STAGE",
+   "jurisdiction": "CA-QC",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "École du Barreau du Québec / Barreau du Québec",
+   "provider_ru": "Школа адвокатуры Квебека / Адвокатура Квебека",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Stage",
+   "program_name_ru": "Стаж (стажировка) перед допуском",
+   "curriculum_ru": "Шесть месяцев полного рабочего дня (180 календарных дней), без неполной занятости; под руководством maître de stage — члена Ордена не менее 5 лет без дисциплинарных санкций или судьи. Стаж вне Квебека у члена другой палаты засчитывается максимум на 3 месяца.",
+   "format": "очно",
+   "language": "fr",
+   "duration_ru": "6 месяцев полного дня",
+   "duration_months": 6,
+   "intakes": [
+    {
+     "start": "2027-05-25",
+     "application_deadline": null,
+     "note_ru": "дата допуска к стажу для когорты осени 2026; другие когорты — 13.09.2027 и 20.12.2027"
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Успешное завершение блоков 1 и 2; стаж надо завершить в течение 3 лет; регистрация стажа не позднее 5 рабочих дней после начала; иностранцу нужен разрешение на работу.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.ecoledubarreau.qc.ca/stagiaires/admissibilite-inscription-validite/",
+   "secondary_urls": [
+    "https://www.ecoledubarreau.qc.ca/avocats/etre-maitre-stage/role-maitre-stage/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "intakes",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CA-QC-EDB-FORMATION-PROFESSIONNELLE": {
+   "program_id": "CA-QC-EDB-FORMATION-PROFESSIONNELLE",
+   "jurisdiction": "CA-QC",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "École du Barreau du Québec",
+   "provider_ru": "Школа адвокатуры Квебека",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Formation professionnelle (Bloc 1 et Bloc 2)",
+   "program_name_ru": "Профессиональная подготовка (блоки 1 и 2)",
+   "curriculum_ru": "Блок 1 — курсы, самоподготовка и по одной попытке на каждом из трёх экзаменов (Droit appliqué; Théorie d'une cause et rédaction; Éthique et déontologie). Блок 2 — apprentissage expérientiel. Затем стаж.",
+   "format": "смешанный",
+   "language": "fr",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": "2026-08-25",
+     "application_deadline": null,
+     "note_ru": "сессия осени 2026"
+    },
+    {
+     "start": "2027-01-05",
+     "application_deadline": null,
+     "note_ru": "сессия зимы 2027"
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-11-19",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Théorie d'une cause et rédaction (блок 1)"
+    },
+    {
+     "date": "2026-12-09",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Éthique et déontologie (блок 1)"
+    },
+    {
+     "date": "2027-03-11",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Droit appliqué"
+    },
+    {
+     "date": "2027-04-01",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Théorie d'une cause et rédaction"
+    },
+    {
+     "date": "2027-04-21",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Éthique et déontologie"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 6065,
+     "currency": "CAD",
+     "item_ru": "плата за обучение (налоги включены), два блока по 3032,50",
+     "period_ru": "2026–2027 учебный год",
+     "valid_from": null
+    },
+    {
+     "amount": 201.2,
+     "currency": "CAD",
+     "item_ru": "сбор за поступление (налоги включены)",
+     "period_ru": "2026–2027",
+     "valid_from": null
+    },
+    {
+     "amount": 680,
+     "currency": "CAD",
+     "item_ru": "учебная документация",
+     "period_ru": "2026–2027",
+     "valid_from": null
+    },
+    {
+     "amount": 695,
+     "currency": "CAD",
+     "item_ru": "повторная запись на подготовку к экзамену Droit appliqué",
+     "period_ru": "сессия осени 2026 или зимы 2027",
+     "valid_from": null
+    },
+    {
+     "amount": 620,
+     "currency": "CAD",
+     "item_ru": "повторная запись: Théorie d'une cause et rédaction",
+     "period_ru": "за сессию",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает кандидат; плата за обучение даёт налоговый кредит (кроме студенческого взноса и документации). В 2025–2026 плата составляла 5888 CAD.",
+   "entry_requirements_ru": "Диплом бакалавра права (гражданское право Квебека) или эквивалентность, признанная Comité d'accès à la profession.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.ecoledubarreau.qc.ca/candidats/droits-de-scolarite/",
+   "secondary_urls": [
+    "https://prod.ecoledubarreau.qc.ca/media/v43p5vwm/guide_candidat_candidate_a_la_profession.pdf",
+    "https://prod.ecoledubarreau.qc.ca/media/ekrh2mbj/aide-memoire-date-calendrier-2026-2027.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "costs",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "CH-GE-ECAV-BREVET": {
+   "program_id": "CH-GE-ECAV-BREVET",
+   "jurisdiction": "CH-GE",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "École d'avocature (ECAV), Université de Genève",
+   "provider_ru": "Школа адвокатуры Женевского университета",
+   "provider_type": "вуз",
+   "program_name_original": "École d'avocature et examen final du brevet d'avocat (art. 33A LPAv)",
+   "program_name_ru": "Школа адвокатуры и итоговый экзамен на адвокатский патент",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "fr",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2025-10-31",
+     "note_ru": "Приём на сессию 2026 — с 2025-09-15 по 2025-10-31; календарь 2027 не найден"
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-05-20",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Итоговый экзамен, сессия 2026 (прошла)"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 500,
+     "currency": "CHF",
+     "item_ru": "выдача адвокатского патента после успешного экзамена",
+     "period_ru": "единовременно",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Новый règlement d'études ECAV 2027 (переходные положения в ст. 12 п. 3); содержание не проверено.",
+   "source_url": "https://www.unige.ch/droit/ecav/etudes/inscription",
+   "secondary_urls": [
+    "https://www.ge.ch/taxonomy/term/4202/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "costs",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "CH-ZH-APK-ANWALTSPRUEFUNG": {
+   "program_id": "CH-ZH-APK-ANWALTSPRUEFUNG",
+   "jurisdiction": "CH-ZH",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Anwaltsprüfungskommission des Obergerichts des Kantons Zürich",
+   "provider_ru": "Экзаменационная комиссия Высшего суда кантона Цюрих",
+   "provider_type": "суд",
+   "program_name_original": "Anwaltsprüfung (schriftlich und mündlich)",
+   "program_name_ru": "Адвокатский экзамен (письменный и устный)",
+   "curriculum_ru": "Комиссия назначает сроки и принимает заявки; памятка по законодательным текстам для письменного экзамена обновлена (Stand 16. September 2026). Даты и действующие сборы не найдены.",
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.gerichte-zh.ch/sites/default/files/Organisation/Obergericht/APK/Merkblatt%20Gesetzestexte%20schriftliche%20Anwaltspr%C3%BCfung%20%28Stand%2016.%20September%202026%29.pdf",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "CN-ACLA-SHIXI": {
+   "program_id": "CN-ACLA-SHIXI",
+   "jurisdiction": "CN",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "中华全国律师协会；省级律师协会",
+   "provider_ru": "Всекитайская ассоциация юристов; провинциальные ассоциации",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "申请律师执业人员实习（集中培训、实务训练）",
+   "program_name_ru": "Стажировка кандидатов на получение лицензии юриста (централизованное обучение и практическая подготовка)",
+   "curriculum_ru": "Регулируется 《申请律师执业人员实习管理规则》 全国律协; оформляется 《申请律师执业人员实习证》. Содержание и объём 集中培训 не найдены.",
+   "format": "очно",
+   "language": "zh",
+   "duration_ru": "1 год",
+   "duration_months": 12,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Условия регистрации стажёра совпадают с условиями получения лицензии; руководитель стажировки — юрист со стажем не менее 5 лет (по местному документу Пекина).",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.bjdch.gov.cn/ztzl/dcqxzzfgs/wbj/dcqsfj/jbxxsfj/202202/P020230415848394016846.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "duration_ru",
+    "duration_months",
+    "entry_requirements_ru",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "CN-MOJ-FAKAO": {
+   "program_id": "CN-MOJ-FAKAO",
+   "jurisdiction": "CN",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "中华人民共和国司法部",
+   "provider_ru": "Министерство юстиции КНР",
+   "provider_type": "государственный_орган",
+   "program_name_original": "国家统一法律职业资格考试（客观题、主观题）",
+   "program_name_ru": "Единый государственный экзамен на юридическую профессиональную квалификацию (объективная и субъективная части)",
+   "curriculum_ru": "Две части: 客观题 (тест) и 主观题 (письменная). Результат 客观题 2026 г. действует в 2026 г. и в следующем экзаменационном году.",
+   "format": null,
+   "language": "zh",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "2026 г.: онлайн-регистрация на 客观题 2026-06-15 — 2026-06-29 18:00 (объявление округа Шанхай по объявлению Минюста № 6 2026 г.); регистрация и оплата 主观题 — 2026-09-19 08:00 — 2026-09-23 18:00. Сведения о 2027 г. не опубликованы (обычно объявление Минюста — около июня)."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-10-18",
+     "date_end": null,
+     "booking_deadline": "2026-09-23",
+     "note_ru": "主观题 2026 г.; результаты 客观题 объявлены 2026-09-19."
+    }
+   ],
+   "costs": [],
+   "funding_ru": "Платит кандидат; сумма сбора не найдена.",
+   "entry_requirements_ru": "Высшее юридическое образование; по политике смягчения на 2026–2030 гг. в определённых районах допускается бакалавриат по любой специальности.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Проходной балл 客观题 2026: 180 по стране, в районах со смягчением — 140/150/160 (объявление Минюста № 9). Результаты 主观题 2026 к 2026-11-06 не найдены.",
+   "source_url": "https://sfj.sh.gov.cn/cmsres/ba/ba43cb8a532a441387fe447b29f73ac3/56ee108013f5b22ddd47356007bbc838.pdf",
+   "secondary_urls": [
+    "https://www.eol.cn/kaoshi/gwy/flzyzg/",
+    "https://finance.sina.cn/2026-09-18/detail-inishkur3096601.d.html"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "entry_requirements_ru",
+    "upcoming_changes_ru",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "DE-BY-LJPA-ZJS": {
+   "program_id": "DE-BY-LJPA-ZJS",
+   "jurisdiction": "DE",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Bayerisches Landesjustizprüfungsamt",
+   "provider_ru": "Земельное ведомство юридических экзаменов Баварии",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Zweite Juristische Staatsprüfung",
+   "program_name_ru": "Второй государственный юридический экзамен",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-06-15",
+     "date_end": "2027-06-25",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия 2027/1"
+    },
+    {
+     "date": "2027-11-23",
+     "date_end": "2027-12-03",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия 2027/2"
+    },
+    {
+     "date": "2028-06-08",
+     "date_end": "2028-06-21",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия 2028/1"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.justiz.bayern.de/landesjustizpruefungsamt/zweite-juristische-staatspruefung/",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "DE-NRW-OLG-REFERENDARIAT": {
+   "program_id": "DE-NRW-OLG-REFERENDARIAT",
+   "jurisdiction": "DE",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Land Nordrhein-Westfalen (Oberlandesgerichte)",
+   "provider_ru": "Земля Северный Рейн-Вестфалия (Высшие земельные суды)",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Juristischer Vorbereitungsdienst (Referendariat)",
+   "program_name_ru": "Юридическая подготовительная служба (референдариат)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 1585.17,
+     "currency": "EUR",
+     "item_ru": "Unterhaltsbeihilfe — ежемесячное пособие референдарию (выплачивается претенденту)",
+     "period_ru": "в месяц",
+     "valid_from": "2026-04-01"
+    }
+   ],
+   "funding_ru": "Государство выплачивает референдарию ежемесячное пособие (Unterhaltsbeihilfe). По вторичным данным, следующие повышения окладов предусмотрены с 2027-03-01 и 2028-01-01; суммы пособия на эти даты не установлены.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Закон NRW об индексации окладов 2026–2028 предусматривает дальнейшие повышения (с 2027-03-01 и 2028-01-01); влияние на пособие не проверено.",
+   "source_url": "https://recht.nrw.de/mbnrw/2026-132",
+   "secondary_urls": [
+    "https://oeffentlicher-dienst.info/pdf/nw/nw-mb-2026-132.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "DE-SN-LJPA-ZJS": {
+   "program_id": "DE-SN-LJPA-ZJS",
+   "jurisdiction": "DE",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Landesjustizprüfungsamt Sachsen",
+   "provider_ru": "Земельное ведомство юридических экзаменов Саксонии",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Zweite juristische Staatsprüfung",
+   "program_name_ru": "Второй государственный юридический экзамен",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "de",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-06-07",
+     "date_end": "2027-06-18",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия 2027/2 (предварительно); устная — ноябрь/декабрь 2027, Дрезден"
+    },
+    {
+     "date": "2027-12-02",
+     "date_end": "2027-12-14",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия 2028/1 (предварительно); устная — май/июнь 2028"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.justiz.sachsen.de/download/02_Termine_ZJS_2027-2_2028-1.pdf",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "DK-ADVOKATSAMFUNDET-ADVOKATUDDANNELSE": {
+   "program_id": "DK-ADVOKATSAMFUNDET-ADVOKATUDDANNELSE",
+   "jurisdiction": "DK",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Advokatsamfundet",
+   "provider_ru": "Датское общество адвокатов",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Advokatuddannelsen og advokateksamen",
+   "program_name_ru": "Адвокатское обучение и адвокатский экзамен",
+   "curriculum_ru": "Восемь курсов (по вторичным данным) и письменный экзамен; рамки курсов устанавливает Justitsministeriets kursusudvalg.",
+   "format": null,
+   "language": "da",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2026-01-28",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Экзамен 13:00–16:00 (прошёл); даты 2027 не найдены"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.advokatsamfundet.dk/uddannelse/advokateksamen/eksamensemner",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "ES-MJ-PRUEBA-ABOGACIA": {
+   "program_id": "ES-MJ-PRUEBA-ABOGACIA",
+   "jurisdiction": "ES",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Ministerio de Justicia",
+   "provider_ru": "Министерство юстиции Испании",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Prueba de aptitud profesional para el ejercicio de la profesión de la Abogacía",
+   "program_name_ru": "Экзамен на профессиональную пригодность для адвокатской деятельности",
+   "curriculum_ru": "Тест с 4 вариантами ответа, 3 часа; итог — 70 % тест и 30 % оценка магистратуры (по вторичным данным). Онлайн через платформу AVEX UNED (по вторичным данным).",
+   "format": null,
+   "language": "es",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2026-07-02",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Первая prueba 2026 (Orden PJC/298/2026); результаты опубликованы Минюстом. Вторая prueba 2026 объявлена на второе полугодие, дата не найдена. Созыв на 2027 г. не найден."
+    }
+   ],
+   "costs": [],
+   "funding_ru": "Участие в prueba бесплатное (по вторичным данным).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.mjusticia.gob.es/es/Ciudadano/EmpleoPublico/Documents/nota_informativa_conjunta_pruebas_2026.pdf",
+   "secondary_urls": [
+    "https://blog.opositatest.com/convocatoria-prueba-abogacia/",
+    "https://www.economistjurist.es/?p=246629"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "curriculum_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "ES-UNIV-MASTER-ACCESO": {
+   "program_id": "ES-UNIV-MASTER-ACCESO",
+   "jurisdiction": "ES",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Universidades y escuelas de práctica jurídica acreditadas",
+   "provider_ru": "Аккредитованные университеты и школы юридической практики",
+   "provider_type": "вуз",
+   "program_name_original": "Máster Universitario de Acceso a la Abogacía (y la Procura)",
+   "program_name_ru": "Магистратура доступа к адвокатуре",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "es",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Цены сильно различаются по вузам; в этом запуске найдены только данные агрегаторов, официальные цены провайдеров не проверены — не указаны.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.ucm.es/file/convocatoria-master-abogacia-2026-27-signed"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "FR-CNB-CRFPA-EXAMEN": {
+   "program_id": "FR-CNB-CRFPA-EXAMEN",
+   "jurisdiction": "FR",
+   "stage": "вступительный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Commission nationale de l'examen d'accès au CRFPA (CNB) / IEJ des universités",
+   "provider_ru": "Национальная комиссия вступительного экзамена в CRFPA (CNB) / институты судебных исследований университетов",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Examen d'accès au CRFPA",
+   "program_name_ru": "Вступительный экзамен в региональный центр профессиональной подготовки адвокатов",
+   "curriculum_ru": "Письменная часть (admissibilité) — четыре экзамена за четыре дня подряд, включая note de synthèse и процедуру; устная часть (admission) — grand oral в ноябре.",
+   "format": null,
+   "language": "fr",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-12-01",
+     "note_ru": "Сессия 2027: срок административной записи по формуляру Университета Кана; в разных IEJ сроки разные"
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-09-01",
+     "date_end": "2026-09-04",
+     "booking_deadline": null,
+     "note_ru": "Письменные экзамены сессии 2026 (прошли)"
+    },
+    {
+     "date": "2026-10-22",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Публикация результатов admissibilité (только через IEJ)"
+    },
+    {
+     "date": "2026-12-01",
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Окончательные результаты сессии 2026; устные экзамены — ноябрь 2026"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "M1 в праве; не более трёх попыток.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://cnb.avocat.fr/examen-d-acces-au-crfpa-2026-toutes-les-informations-utiles",
+   "secondary_urls": [
+    "https://www.labase-lextenso.fr/breves/jo-crfpa-2026-dates-et-horaires-des-epreuves-d-admissibilite-BREVEBO368",
+    "https://ufr-droit.unicaen.fr/wp-content/uploads/sites/39/2026/07/Formulaire-candidature-CRFPA-inscription-2026-2027.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "intakes",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "FR-EFB-FORMATION-INITIALE": {
+   "program_id": "FR-EFB-FORMATION-INITIALE",
+   "jurisdiction": "FR",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "École de formation professionnelle des barreaux du ressort de la cour d'appel de Paris (EFB) и другие CRFPA/EDA",
+   "provider_ru": "Школа профессиональной подготовки адвокатов Парижа (EFB) и другие региональные школы",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Formation initiale des élèves avocats et CAPA",
+   "program_name_ru": "Начальная подготовка учеников-адвокатов и экзамен CAPA",
+   "curriculum_ru": "С сессии 2026 CAPA включает два устных экзамена (реформа для начавших обучение с 2025-01-01). С 2026-01-01 возможна подготовка по договору ученичества (contrat d'apprentissage) наряду со стажировками.",
+   "format": null,
+   "language": "fr",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Стоимость обучения в EFB на 2026 год в открытых результатах не найдена. CNB: общая помощь ученикам промоции 2025–2026 — 5000 EUR, включая педагогические сборы (3175 EUR, если сборы покрывает France Travail).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "CNB провёл консультацию (2026-06-15 — 2026-09-30) по формированию учеников-адвокатов; проект нового DCN о принципах организации и гармонизации программ должен быть представлен общему собранию до конца 2026 г.",
+   "source_url": "https://cnb.avocat.fr/actualite/lancement-d-une-concertation-sur-la-formation-des-eleves-avocats",
+   "secondary_urls": [
+    "https://cnb.avocat.fr/sites/default/files/Notice%20explicative%20%C3%A9l%C3%A8ves%202025-2026.pdf",
+    "https://www.cnb.avocat.fr/fr/actualites/reforme-du-capa-decouvrez-les-nouvelles-modalites-de-lexamen-compter-de-2026"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "funding_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "GB-ENG-BSB-CENTRALISED-ASSESSMENTS": {
+   "program_id": "GB-ENG-BSB-CENTRALISED-ASSESSMENTS",
+   "jurisdiction": "GB-ENG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Bar Standards Board (Central Examinations Board)",
+   "provider_ru": "Совет по стандартам адвокатуры (BSB)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "BSB Centralised Assessments (Professional Ethics, Civil Litigation, Criminal Litigation)",
+   "program_name_ru": "Централизованные экзамены BSB (профессиональная этика, гражданский и уголовный процесс)",
+   "curriculum_ru": "Professional Ethics; Civil Litigation; Criminal Litigation.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Сбор BSB, как правило, включён в стоимость Bar Course.",
+   "entry_requirements_ru": "Обучение на Bar Course у AETO.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Даты 2027 г. в выдаче не найдены. По сводке, отчёт Central Examinations Board за апрель 2026 г. отмечает рекордный для апрельских сессий результат по Civil Litigation (процент не установлен).",
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.barstandardsboard.org.uk/asset/C0813C8C%2D38EB%2D4F19%2D833373E3F9C9C341/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "upcoming_changes_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-BSB-PUPILLAGE": {
+   "program_id": "GB-ENG-BSB-PUPILLAGE",
+   "jurisdiction": "GB-ENG",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Bar Standards Board; Bar Council (Pupillage Gateway)",
+   "provider_ru": "BSB; Bar Council (Pupillage Gateway)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Pupillage",
+   "program_name_ru": "Пьюпилидж (стажировка барристера)",
+   "curriculum_ru": "Обычно 12 месяцев в палатах или у иного авторизованного органа под руководством pupil supervisor.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "обычно 12 месяцев",
+   "duration_months": 12,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-01-22",
+     "note_ru": "Цикл 2026 г. Pupillage Gateway (пьюпилидж с сентября–октября 2027 г.): объявления с 24.11.2025, приём заявок 05.01.2026 — 22.01.2026. Календарь следующего цикла не найден; по аналогии объявления ожидаются в конце ноября 2026 г. (не подтверждено)."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 25863,
+     "currency": "GBP",
+     "item_ru": "минимальная оплата пьюпила (Лондон), получает стажёр",
+     "period_ru": "за 12 месяцев",
+     "valid_from": "2026-01-01"
+    },
+    {
+     "amount": 23504,
+     "currency": "GBP",
+     "item_ru": "минимальная оплата пьюпила (вне Лондона), получает стажёр",
+     "period_ru": "за 12 месяцев",
+     "valid_from": "2026-01-01"
+    }
+   ],
+   "funding_ru": "Оплачивается палатой/организацией; минимум пересматривается ежегодно по ставке Living Wage Foundation, объявление обычно в ноябре.",
+   "entry_requirements_ru": "Завершение Bar Course.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Минимальная оплата с 01.01.2027 на дату проверки не найдена; ожидается объявление BSB в ноябре 2026 г.",
+   "source_url": "https://www.barstandardsboard.org.uk/resources/bar-standards-board-announces-minimum-pupillage-award-from-1-january-2026.html",
+   "secondary_urls": [
+    "https://www.learnsignal.com/blog/pupillage-explained-pay-structure-odds/",
+    "https://vacancies.pupillagegateway.com"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-ICCA-BARCOURSE": {
+   "program_id": "GB-ENG-ICCA-BARCOURSE",
+   "jurisdiction": "GB-ENG",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Inns of Court College of Advocacy (ICCA)",
+   "provider_ru": "Колледж адвокатуры Иннов (ICCA)",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "ICCA Bar Course",
+   "program_name_ru": "Курс барристеров ICCA (Part One и Part Two)",
+   "curriculum_ru": "Две части: Part One (знания, BSB centralised assessments) и Part Two (навыки).",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Потоки с сентября 2027 г. и января 2028 г. (Part One с сентября 2027 г., Part Two с марта 2028 г.); заявки на стипендии рекомендовано подать к началу ноября 2026 г."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 4150,
+     "currency": "GBP",
+     "item_ru": "Part One (включая сборы BSB и учебники)",
+     "period_ru": "набор 2026/27",
+     "valid_from": null
+    },
+    {
+     "amount": 12450,
+     "currency": "GBP",
+     "item_ru": "Part Two",
+     "period_ru": "набор 2026/27",
+     "valid_from": null
+    },
+    {
+     "amount": 9125,
+     "currency": "GBP",
+     "item_ru": "Part One (включая сбор BSB)",
+     "period_ru": "набор с сентября 2027 г.",
+     "valid_from": null
+    },
+    {
+     "amount": 9125,
+     "currency": "GBP",
+     "item_ru": "Part Two (включая сбор BSB)",
+     "period_ru": "набор с сентября 2027 г.",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает студент; стипендии Иннов; кредит Lendwise.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "С набора сентября 2027 г. стоимость повышается (по Legal Cheek — на £1,650, до £18,250), оплата делится 50:50 между частями.",
+   "source_url": "https://www.icca.ac.uk/icca-bar-course/course-fees-and-funding/",
+   "secondary_urls": [
+    "https://www.legalcheek.com/2026/09/inns-of-court-college-of-advocacy-confirms-fees-increase/",
+    "https://www.icca.ac.uk/wp-content/uploads/2025/09/ICCA-Bar-Course-Prospectus-2026-2027.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-NORTHUMBRIA-BARCOURSE": {
+   "program_id": "GB-ENG-NORTHUMBRIA-BARCOURSE",
+   "jurisdiction": "GB-ENG",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Northumbria University",
+   "provider_ru": "Университет Нортумбрии",
+   "provider_type": "вуз",
+   "program_name_original": "Bar Course (FT/PT)",
+   "program_name_ru": "Курс барристеров (очно / заочно)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Набор на сентябрь 2026 г. закрыт (по сводке поиска)."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 15500,
+     "currency": "GBP",
+     "item_ru": "полная стоимость для студентов из Великобритании",
+     "period_ru": "за курс",
+     "valid_from": null
+    },
+    {
+     "amount": 1145,
+     "currency": "GBP",
+     "item_ru": "сбор BSB (входит в стоимость)",
+     "period_ru": "набор сентябрь 2026 г.",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bar-course-ft-dtfbtc6",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-SRA-QWE": {
+   "program_id": "GB-ENG-SRA-QWE",
+   "jurisdiction": "GB-ENG",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Solicitors Regulation Authority",
+   "provider_ru": "SRA",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Qualifying Work Experience",
+   "program_name_ru": "Квалификационный опыт работы",
+   "curriculum_ru": "Два года юридической работы, не более чем в четырёх организациях; подтверждается солиситором; может быть получен в Англии, Уэльсе или за рубежом.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "2 года (суммарно)",
+   "duration_months": 24,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Оплачивается работодателем в рамках трудовых отношений; обязательной минимальной оплаты SRA не устанавливает (не проверено).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Изменений правил QWE в 2026 г. в выдаче не найдено.",
+   "source_url": null,
+   "secondary_urls": [
+    "https://beta.sra.org.uk/globalassets/documents/sra/news/events/2025/compliance-officers-conference-2025---qualifying-work-experience.pdf",
+    "https://www.lawsociety.org.uk/career-advice/becoming-a-solicitor/solicitors-qualifying-examination-sqe/transitional-arrangements"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_months",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-SRA-SQE1": {
+   "program_id": "GB-ENG-SRA-SQE1",
+   "jurisdiction": "GB-ENG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Solicitors Regulation Authority (assessment delivered by Kaplan)",
+   "provider_ru": "SRA (проведение — Kaplan)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Solicitors Qualifying Examination Part 1 (FLK1, FLK2)",
+   "program_name_ru": "Квалификационный экзамен солиситоров, часть 1 (FLK1, FLK2)",
+   "curriculum_ru": "Две части Functioning Legal Knowledge (FLK1 и FLK2), тесты с выбором ответа.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-07-12",
+     "date_end": "2027-07-16",
+     "booking_deadline": null,
+     "note_ru": "FLK1, сессия июль 2027 г.; сроки бронирования не объявлены (по сводке поиска со страницы SRA о датах)."
+    },
+    {
+     "date": "2027-07-19",
+     "date_end": "2027-07-23",
+     "booking_deadline": null,
+     "note_ru": "FLK2, сессия июль 2027 г.; сроки бронирования не объявлены."
+    },
+    {
+     "date": null,
+     "date_end": null,
+     "booking_deadline": "2026-11-23",
+     "note_ru": "Сессия январь 2027 г.: дата закрытия бронирования 23.11.2026 прочитана поисковой сводкой неуверенно; SRA в сентябре 2026 г. сообщил, что информация о бронировании январской сессии 2027 г. опубликована. Срочно проверить."
+    }
+   ],
+   "costs": [
+    {
+     "amount": 2006,
+     "currency": "GBP",
+     "item_ru": "сбор за SQE1",
+     "period_ru": "за сессию (обе части FLK)",
+     "valid_from": null
+    },
+    {
+     "amount": 1934,
+     "currency": "GBP",
+     "item_ru": "сбор за SQE1 (предыдущий уровень 2025/26)",
+     "period_ru": "за сессию",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент или работодатель.",
+   "entry_requirements_ru": null,
+   "pass_rate": {
+    "value_percent": 42,
+    "period_ru": "сессия июль 2026 г., все кандидаты (первая попытка — 47%; январь 2026 г. — 53%)",
+    "source_url": "https://www.lawcareers.net/Explore/News/SQE1-pass-rate-falls-to-42-in-latest-sitting-06102026"
+   },
+   "upcoming_changes_ru": "Повышение сборов с сентября 2026 г. (по сообщениям — для бронирований с октября 2026 г.).",
+   "source_url": "https://sqe.sra.org.uk/about-sqe/what-is-the-sqe/timings",
+   "secondary_urls": [
+    "https://www.sra.org.uk/news/sqe-update/sqe-update-april-2026/",
+    "https://www.legalcheek.com/2026/04/sra-announces-further-sqe-fees-increase/amp/",
+    "https://www.legalcheek.com/2026/10/sqe1-pass-rate-drops-to-42/amp/",
+    "https://www.sra.org.uk/news/sqe-update/sqe-update-september-2026/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "exam_dates",
+    "pass_rate",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-ENG-SRA-SQE2": {
+   "program_id": "GB-ENG-SRA-SQE2",
+   "jurisdiction": "GB-ENG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Solicitors Regulation Authority (assessment delivered by Kaplan)",
+   "provider_ru": "SRA (проведение — Kaplan)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Solicitors Qualifying Examination Part 2",
+   "program_name_ru": "Квалификационный экзамен солиситоров, часть 2",
+   "curriculum_ru": "Практические навыки: устные и письменные задания.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-07-27",
+     "date_end": "2027-07-30",
+     "booking_deadline": null,
+     "note_ru": "Устная часть, сессия июль 2027 г. (окна 27–28 и 29–30 июля); бронирование не объявлено."
+    },
+    {
+     "date": "2027-08-03",
+     "date_end": "2027-08-05",
+     "booking_deadline": null,
+     "note_ru": "Письменная часть, сессия июль 2027 г."
+    }
+   ],
+   "costs": [
+    {
+     "amount": 3086,
+     "currency": "GBP",
+     "item_ru": "сбор за SQE2",
+     "period_ru": "за сессию",
+     "valid_from": null
+    },
+    {
+     "amount": 2974,
+     "currency": "GBP",
+     "item_ru": "сбор за SQE2 (предыдущий уровень 2025/26)",
+     "period_ru": "за сессию",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент или работодатель.",
+   "entry_requirements_ru": null,
+   "pass_rate": {
+    "value_percent": 83,
+    "period_ru": "сессия апрель 2026 г. (январь 2026 г. — 80%)",
+    "source_url": "https://www.legalcheek.com/2026/09/sqe2-pass-rate-climbs-again-to-83/"
+   },
+   "upcoming_changes_ru": "Повышение сборов с сентября 2026 г.",
+   "source_url": "https://sqe.sra.org.uk/about-sqe/what-is-the-sqe/timings",
+   "secondary_urls": [
+    "https://www.sra.org.uk/news/sqe-update/sqe-update-april-2026/",
+    "https://www.legalcheek.com/2026/09/sqe2-pass-rate-climbs-again-to-83/",
+    "https://www.lawcareers.net/Explore/News/SQE2-pass-rate-climbs-once-again-to-80-in-latest-January-2026-sitting-22052026"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "exam_dates",
+    "pass_rate",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-NIR-QUB-IPLS": {
+   "program_id": "GB-NIR-QUB-IPLS",
+   "jurisdiction": "GB-NIR",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Institute of Professional Legal Studies, Queen's University Belfast",
+   "provider_ru": "Институт профессиональных юридических исследований Королевского университета Белфаста",
+   "provider_type": "вуз",
+   "program_name_original": "Professional legal training course (IPLS)",
+   "program_name_ru": "Профессиональный юридический курс IPLS",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Есть буклет для поступающих с началом в сентябре 2026 г.; сведения о наборе 2027 г. и сборах не найдены."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Вступительный тест (admissions test).",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.qub.ac.uk/schools/InstituteofProfessionalLegalStudies/FileStore/Information Booklet for Applicants for commencement in September 2026.pdf",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-SCT-FOA-DEVILLING": {
+   "program_id": "GB-SCT-FOA-DEVILLING",
+   "jurisdiction": "GB-SCT",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Faculty of Advocates",
+   "provider_ru": "Факультет адвокатов",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Devilling",
+   "program_name_ru": "Девиллинг (стажировка адвоката)",
+   "curriculum_ru": "Стажировка у практикующего адвоката с оценкой по схеме Факультета; требует сдачи экзаменов Факультета и матрикуляции в качестве Intrant.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Один набор в год (конец сентября — начало октября). Набор октября 2027 г.: стипендии — до 08.05.2026, матрикуляция — до середины октября 2026 г. (сроки истекли), уведомление о начале — июнь 2027 г."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Стипендии Факультета на период девиллинга.",
+   "entry_requirements_ru": "Требования Admission Regulations Факультета, включая обучение в офисе солиситора и экзамены Факультета.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://advocates.org.uk/about-advocates/becoming-an-advocate/admission-regulations",
+   "secondary_urls": [
+    "https://advocates.org.uk/media/4946/scholarships-for-devilling-in-2027-guidance-note-for-applicants.pdf",
+    "https://advocates.org.uk/news-and-responses/news/2026/apr/devilling-scholarships-for-2027-open-for-applications"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-SCT-LAWSCOT-TRAINEESHIP": {
+   "program_id": "GB-SCT-LAWSCOT-TRAINEESHIP",
+   "jurisdiction": "GB-SCT",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Law Society of Scotland",
+   "provider_ru": "Общество юристов Шотландии",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Traineeship (PEAT 2)",
+   "program_name_ru": "Стажировка солиситора (PEAT 2)",
+   "curriculum_ru": null,
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Диплом PEAT 1; место стажировки не гарантировано.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "GB-SCT-UOE-DPLP": {
+   "program_id": "GB-SCT-UOE-DPLP",
+   "jurisdiction": "GB-SCT",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "University of Edinburgh (Diploma provider accredited by the Law Society of Scotland)",
+   "provider_ru": "Эдинбургский университет",
+   "provider_type": "вуз",
+   "program_name_original": "Diploma in Professional Legal Practice",
+   "program_name_ru": "Диплом профессиональной юридической практики (PEAT 1)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 11594,
+     "currency": "GBP",
+     "item_ru": "обучение, очно, домашние студенты",
+     "period_ru": "2026-27 учебный год",
+     "valid_from": null
+    },
+    {
+     "amount": 30275,
+     "currency": "GBP",
+     "item_ru": "обучение, очно, международные студенты/ЕС",
+     "period_ru": "2026-27 учебный год",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Стоимость устанавливает каждый провайдер; возможен кредит SAAS на обучение; стипендия Vans Dunlop (£1,000).",
+   "entry_requirements_ru": "LLB (шотландское право) с требуемыми предметами.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.law.ed.ac.uk/study/diploma-professional-legal-practice/fees-funding",
+   "secondary_urls": [
+    "https://www.lawscot.org.uk/media/yvilzb2n/diploma-guidance-note-26-27.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "HK-CITYU-PCLL": {
+   "program_id": "HK-CITYU-PCLL",
+   "jurisdiction": "HK",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "City University of Hong Kong, School of Law",
+   "provider_ru": "Городской университет Гонконга, школа права",
+   "provider_type": "вуз",
+   "program_name_original": "Postgraduate Certificate in Laws (PCLL) / 法學專業證書課程",
+   "program_name_ru": "Последипломный сертификат в области права (PCLL)",
+   "curriculum_ru": "30 кредитов; по сообщению 2026 г. программа сокращена и пересмотрена, добавлен элективный курс «Право и технологии» (法律與科技) в связи с влиянием ИИ.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "1 год очно",
+   "duration_months": 12,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Можно подавать до сдачи конвертационных предметов и IELTS; при выборе HKU/CUHK первым приоритетом заявка CityU рассматривается после их отказа.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.cityu.edu.hk/en/slw/prospective-students/postgraduate-programmes/postgraduate-certificate-in-laws-pcll",
+   "secondary_urls": [
+    "https://www.stheadline.com/ad-edu/3533440/香港城市大學法學專業證書課程開啓你的法律專業旅程"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_ru",
+    "duration_months",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "HK-CUHK-PCLL": {
+   "program_id": "HK-CUHK-PCLL",
+   "jurisdiction": "HK",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "The Chinese University of Hong Kong, Faculty of Law",
+   "provider_ru": "Китайский университет Гонконга, юридический факультет",
+   "provider_type": "вуз",
+   "program_name_original": "Postgraduate Certificate in Laws (PCLL)",
+   "program_name_ru": "Последипломный сертификат в области права (PCLL)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-04-30",
+     "note_ru": "Набор 2026-27; поздние и неполные заявки не рассматриваются. Срок на 2027-28 не найден."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.law.cuhk.edu.hk/app/study-with-us/pcll",
+   "secondary_urls": [
+    "https://www.gs.cuhk.edu.hk/programmes/law/postgraduate-certificate-laws"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "HK-HKU-PCLL": {
+   "program_id": "HK-HKU-PCLL",
+   "jurisdiction": "HK",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "The University of Hong Kong, Faculty of Law",
+   "provider_ru": "Гонконгский университет, юридический факультет",
+   "provider_type": "вуз",
+   "program_name_original": "Postgraduate Certificate in Laws (PCLL)",
+   "program_name_ru": "Последипломный сертификат в области права (PCLL)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 47000,
+     "currency": "HKD",
+     "item_ru": "обучение, очно, места с госфинансированием (предварительно, на пересмотре)",
+     "period_ru": "2026-27 уч. год",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "С 2026/27 места с госфинансированием в PCLL HKU распределяются только местным студентам. Bursary: срок подачи на 2026-27 — 2026-09-30.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Сбор за 2026-27 указан как предварительный.",
+   "source_url": "https://www.ple.hku.hk/fees-and-deadline",
+   "secondary_urls": [
+    "https://www.ple.hku.hk/financiel-assistance"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "funding_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "HK-LSHK-OLQE": {
+   "program_id": "HK-LSHK-OLQE",
+   "jurisdiction": "HK",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "The Law Society of Hong Kong",
+   "provider_ru": "Юридическое общество Гонконга",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Overseas Lawyers Qualification Examination",
+   "program_name_ru": "Квалификационный экзамен для иностранных юристов (OLQE)",
+   "curriculum_ru": "Опубликован OLQE Information Package 2026 (процедуры, расписание, правила освобождения). Сборы установлены Overseas Lawyers (Qualification for Admission) (Fees) Rules (Cap. 159 sub. leg. V); в 2023 г. сборы повышены.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.hklawsoc.org.hk/en/Maintain-Standards/OLQE/FAQ-on-the-OLQE",
+   "secondary_urls": [
+    "https://legco.gov.hk/yr2023/english/subleg/negative/2023ln018-e.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "HK-LSHK-TRAINEE": {
+   "program_id": "HK-LSHK-TRAINEE",
+   "jurisdiction": "HK",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "The Law Society of Hong Kong",
+   "provider_ru": "Юридическое общество Гонконга",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Trainee Solicitor Contract",
+   "program_name_ru": "Договор стажёра-солиситора",
+   "curriculum_ru": null,
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Минимальная оплата стажёров, установленная LSHK, не найдена. Стажировка оплачивается работодателем; Department of Justice ведёт Legal Trainee Scheme (набор 2026).",
+   "entry_requirements_ru": "PCLL.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.hklawsoc.org.hk/pub_e/admission/trainee.asp",
+   "secondary_urls": [
+    "https://www.doj.gov.hk/en/career/add20240216b.html"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "funding_ru",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "HK-PCEA-CONVERSION": {
+   "program_id": "HK-PCEA-CONVERSION",
+   "jurisdiction": "HK",
+   "stage": "вступительный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "PCLL Conversion Examination Board",
+   "provider_ru": "Совет конвертационных экзаменов PCLL",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "PCLL Conversion Examinations",
+   "program_name_ru": "Конвертационные экзамены для поступления в PCLL",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Экзамены проводятся в январе и июне; корректировка регистрационных сборов вступает в силу с экзаменов января 2027 (суммы не установлены).",
+   "source_url": "https://pcea.com.hk/_files/ugd/cb1f54_090434b5678d49dbbf512b964701aa3a.pdf",
+   "secondary_urls": [
+    "https://www.pcea.com.hk/download"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "IE-KINGSINNS-BL-DEGREE": {
+   "program_id": "IE-KINGSINNS-BL-DEGREE",
+   "jurisdiction": "IE",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "The Honorable Society of King's Inns",
+   "provider_ru": "King's Inns",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Degree of Barrister-at-Law",
+   "program_name_ru": "Степень Barrister-at-Law",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": "1 год очно или модульно заочно",
+   "duration_months": 12,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 7250,
+     "currency": "EUR",
+     "item_ru": "очная форма, второй взнос (до 1 декабря); первый взнос не установлен",
+     "period_ru": "2026–2027",
+     "valid_from": null
+    },
+    {
+     "amount": 8000,
+     "currency": "EUR",
+     "item_ru": "заочная модульная форма, при полной оплате до 14 сентября",
+     "period_ru": "2026–2027 и далее",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": "Сдача вступительного экзамена King's Inns.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Обновлённые Education Rules (июль 2026 г.) — содержание не проверено.",
+   "source_url": "https://www.kingsinns.ie/study-law/tuition-fees",
+   "secondary_urls": [
+    "https://www.kingsinns.ie/assets/files/2026_updates/education-rules-july-2026.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "duration_months",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "IE-KINGSINNS-ENTRANCE": {
+   "program_id": "IE-KINGSINNS-ENTRANCE",
+   "jurisdiction": "IE",
+   "stage": "вступительный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "The Honorable Society of King's Inns",
+   "provider_ru": "King's Inns",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Barrister-at-Law Entrance Examination",
+   "program_name_ru": "Вступительный экзамен на программу Barrister-at-Law",
+   "curriculum_ru": "Очно в King's Inns, на ноутбуке (Moodle), закрытая книга.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": null,
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Обычно в августе; заявки до 31 мая, поздние — 1–30 июня; результаты — начало сентября."
+    }
+   ],
+   "costs": [
+    {
+     "amount": 600,
+     "currency": "EUR",
+     "item_ru": "сбор за экзамен (заявка до 31 мая)",
+     "period_ru": "2026–2027",
+     "valid_from": null
+    },
+    {
+     "amount": 1000,
+     "currency": "EUR",
+     "item_ru": "сбор за экзамен (поздняя заявка 1–30 июня)",
+     "period_ru": "2026–2027",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": "Одобренная King's Inns юридическая степень, одобренный постдипломный диплом или Diploma in Legal Studies King's Inns.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.kingsinns.ie/study-law/tuition-fees",
+   "secondary_urls": [
+    "https://www.kingsinns.ie/the-barrister-profession/entrance-examination"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "exam_dates"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "IE-LSI-FE1": {
+   "program_id": "IE-LSI-FE1",
+   "jurisdiction": "IE",
+   "stage": "вступительный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Law Society of Ireland",
+   "provider_ru": "Юридическое общество Ирландии",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Final Examination – First Part (FE-1)",
+   "program_name_ru": "Заключительный экзамен, первая часть (FE-1) — вступительный для PPC",
+   "curriculum_ru": "Восемь экзаменов; можно сдавать очно или онлайн.",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": null,
+     "date_end": null,
+     "booking_deadline": null,
+     "note_ru": "Две сессии в год (весна и осень); заявка примерно за месяц до сессии. Расписание и сборы 2027 г. не найдены."
+    }
+   ],
+   "costs": [],
+   "funding_ru": "Стипендия на снижение/освобождение от сборов FE-1 (до четырёх сессий); сборы не переносятся на другую сессию.",
+   "entry_requirements_ru": "Сдача Preliminary Examination или освобождение от него.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.lawsociety.ie/becoming-a-solicitor/final-examination---first-part-fe-1/",
+   "secondary_urls": [
+    "https://www.lawcareers.net/explore/features/27012026-how-to-qualify-as-a-solicitor-in-ireland"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "IE-LSI-PPC-HYBRID": {
+   "program_id": "IE-LSI-PPC-HYBRID",
+   "jurisdiction": "IE",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Law Society of Ireland",
+   "provider_ru": "Юридическое общество Ирландии",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "PPC Hybrid",
+   "program_name_ru": "Профессиональный практический курс (гибридный)",
+   "curriculum_ru": "Core Course (декабрь — декабрь) + Advanced Electives; совмещается с ученичеством.",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": "около 12 месяцев (декабрь — декабрь)",
+   "duration_months": 12,
+   "intakes": [
+    {
+     "start": "2025-12-11",
+     "application_deadline": "2025-11-27",
+     "note_ru": "Поток 2025/26: семестр 1 — 11.12.2025–24.04.2026, семестр 2 — 08.05.2026–12.12.2026. Данные о потоке декабря 2026 г. не найдены."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 11850,
+     "currency": "EUR",
+     "item_ru": "Core Course",
+     "period_ru": "за курс (декабрь — декабрь); вероятно поток 2025/26",
+     "valid_from": null
+    },
+    {
+     "amount": 970,
+     "currency": "EUR",
+     "item_ru": "сбор за подачу заявления",
+     "period_ru": "единовременно",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Налоговый вычет на стоимость PPC (не на сбор за заявление и экзамены); бурсари Law Society — только на проживание.",
+   "entry_requirements_ru": "FE-1 и договор ученичества.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Стоимость электив будет объявлена позднее.",
+   "source_url": "https://www.lawsociety.ie/trainees/ppc-hybrid/",
+   "secondary_urls": [
+    "https://www.lawcareers.net/explore/features/27012026-how-to-qualify-as-a-solicitor-in-ireland"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "IN-BCI-AIBE": {
+   "program_id": "IN-BCI-AIBE",
+   "jurisdiction": "IN",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Bar Council of India",
+   "provider_ru": "Совет адвокатов Индии",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "All India Bar Examination XXII",
+   "program_name_ru": "Всеиндийский адвокатский экзамен XXII",
+   "curriculum_ru": null,
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-10-27",
+     "note_ru": "Регистрация 2026-08-19 — 2026-10-27; оплата до 2026-10-28 (по одному источнику продлена до 2026-10-29); исправления до 2026-10-30. Расписание — пресс-релиз BCI от 2026-07-18."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-11-29",
+     "date_end": null,
+     "booking_deadline": "2026-10-27",
+     "note_ru": "Допуск (admit card) ожидается 2026-11-14; результаты — ориентировочно 2027-01-07 — 2027-01-10. AIBE XXI прошёл 2026-06-07."
+    }
+   ],
+   "costs": [
+    {
+     "amount": 3500,
+     "currency": "INR",
+     "item_ru": "сбор за экзамен, General/OBC/EWS",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 2500,
+     "currency": "INR",
+     "item_ru": "сбор за экзамен, SC/ST/PwD",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Платит кандидат.",
+   "entry_requirements_ru": "Диплом LLB и зачисление в State Bar Council.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://freepressjournal.in/education/aibe-xxii-schedule-out-registration-begins-august-19-at-allindiabarexaminationcom-exam-on-november-29",
+    "https://law.careers360.com/articles/aibe-22-registration-2026",
+    "https://www.pw.live/judiciary/exams/aibe-22-registration-2026"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "costs",
+    "funding_ru",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "IT-COA-SCUOLA-FORENSE": {
+   "program_id": "IT-COA-SCUOLA-FORENSE",
+   "jurisdiction": "IT",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Scuole forensi dei Consigli dell'Ordine degli Avvocati e enti accreditati",
+   "provider_ru": "Адвокатские школы советов коллегий адвокатов и аккредитованные организации",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Corso di formazione obbligatorio per l'accesso alla professione forense (art. 43 L. 247/2012, D.M. 17/2018)",
+   "program_name_ru": "Обязательный курс подготовки к доступу к адвокатской профессии",
+   "curriculum_ru": "Не менее 160 часов в течение 18 месяцев практики, посещаемость не менее 80 %; итоговые проверки; без курса нет допуска к экзамену.",
+   "format": null,
+   "language": "it",
+   "duration_ru": "18 месяцев параллельно с практикой",
+   "duration_months": 18,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://ordineavvocatitorino.it/sites/default/files/documents/Scuola_Forense_P/VADEMECUM%20SCUOLA%20FORENSE%20COA%20TORINO.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "IT-MG-ESAME-AVVOCATO": {
+   "program_id": "IT-MG-ESAME-AVVOCATO",
+   "jurisdiction": "IT",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Ministero della Giustizia (Commissioni presso le Corti d'appello)",
+   "provider_ru": "Министерство юстиции Италии (комиссии при апелляционных судах)",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Esame di abilitazione all'esercizio della professione forense — sessione 2026",
+   "program_name_ru": "Экзамен на право заниматься адвокатской деятельностью — сессия 2026",
+   "curriculum_ru": "С сессии 2026 (DL 100/2026, по вторичным данным конвертирован законом без изменений): единая ежегодная сессия, две письменные работы и устный экзамен; выбор между гражданским, уголовным и административным правом — на экзамене. Для допуска нужно не менее 90 баллов в сумме и не менее 18 по каждой части (по вторичным данным).",
+   "format": "очно",
+   "language": "it",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-11-11",
+     "note_ru": "Онлайн-заявление с 2026-10-01 по 2026-11-11 через платформу Минюста (SPID/CIE/CNS); оплата через PagoPA. Практику можно завершить до 2026-11-10."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-12-15",
+     "date_end": "2026-12-16",
+     "booking_deadline": "2026-11-11",
+     "note_ru": "Письменные работы с 9:00 в апелляционных судах"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 12.91,
+     "currency": "EUR",
+     "item_ru": "государственный сбор (tassa) — часть первого платежа",
+     "period_ru": "за сессию",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Платит претендент. Размер contributo forfettario 2026 не установлен: вторичные источники расходятся (62 EUR против общей суммы 90,91 EUR).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.giustizia.it/giustizia/page/it/provvedimento_ministeriale_selezionato?contentId=SDC1519988",
+   "secondary_urls": [
+    "https://www.italiaoggi.it/diritto-e-fisco/professioni/esame-avvocato-2026-il-15-e-il-16-dicembre-le-prove-scritte-come-inviare-la-domanda-e-quanto-costa-iscriversi-q1ryuqet",
+    "https://sistemapenale.it/it/scheda/masieri-accesso-alla-professione-forense-le-novita-contenute-nel-dl-100-2026"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "costs",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "JP-COURTS-SHIHOSHUSHU": {
+   "program_id": "JP-COURTS-SHIHOSHUSHU",
+   "jurisdiction": "JP",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "最高裁判所 司法研修所",
+   "provider_ru": "Верховный суд, Институт подготовки юристов",
+   "provider_type": "суд",
+   "program_name_original": "司法修習",
+   "program_name_ru": "Судебная стажировка",
+   "curriculum_ru": null,
+   "format": "очно",
+   "language": "ja",
+   "duration_ru": "около 1 года",
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": "2026-03-19",
+     "application_deadline": null,
+     "note_ru": "79-й поток (по сторонним сайтам)."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "修習給付金 без возврата: 基本給付金 135000 JPY в месяц, 住居給付金 35000 JPY в месяц (при аренде жилья); дополнительно возможен беспроцентный заём 修習専念資金 100000 JPY в месяц. Размеры — по материалам реформы 2017 г. и сторонним сайтам; размер базовой выплаты устанавливает Верховный суд.",
+   "entry_requirements_ru": "Сдача 司法試験.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.moj.go.jp/content/001238182.pdf",
+    "https://column.itojuku.co.jp/shihou/hosou/shihoushushu/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "duration_ru",
+    "intakes",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "JP-MOJ-SHIHOSHIKEN": {
+   "program_id": "JP-MOJ-SHIHOSHIKEN",
+   "jurisdiction": "JP",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "法務省 司法試験委員会",
+   "provider_ru": "Министерство юстиции, комиссия по судебному экзамену",
+   "provider_type": "государственный_орган",
+   "program_name_original": "司法試験",
+   "program_name_ru": "Государственный судебный экзамен",
+   "curriculum_ru": "短答式 и 論文式.",
+   "format": "очно",
+   "language": "ja",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "2026 г.: онлайн-заявки с 3-09, бумажные с 3-19, приём до 4-02 (график объявлен 法務省 2025-12-03). По стороннему сайту, в 2027 г. приём 2027-03-08 — 2027-04-01; официальный график 令和9年 к 2026-11-06 не найден."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Окончание 法科大学院 (с 2023 г. возможна сдача во время учёбы — 在学中受験) или сдача 予備試験.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Итоговые результаты 司法試験 2026 г. ожидаются 2026-11-11 (по сторонним сайтам).",
+   "source_url": "https://www.moj.go.jp/content/001422325.pdf",
+   "secondary_urls": [
+    "https://studying.jp/shihou/about-more/shihoutantoresult.html",
+    "https://bestcalendar.jp/guides/kurashi/shiho-shiken"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "entry_requirements_ru",
+    "upcoming_changes_ru",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "JP-MOJ-YOBISHIKEN": {
+   "program_id": "JP-MOJ-YOBISHIKEN",
+   "jurisdiction": "JP",
+   "stage": "вступительный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "法務省 司法試験委員会",
+   "provider_ru": "Министерство юстиции, комиссия по судебному экзамену",
+   "provider_type": "государственный_орган",
+   "program_name_original": "司法試験予備試験",
+   "program_name_ru": "Предварительный экзамен (альтернатива 法科大学院)",
+   "curriculum_ru": "短答式, 論文式, 口述.",
+   "format": "очно",
+   "language": "ja",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-03-13",
+     "note_ru": "2026 г.: онлайн 2026-02-16 — 2026-03-13, бумажные 2026-03-02 — 2026-03-13. Сроки 2027 г. не опубликованы."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2027-01-23",
+     "date_end": "2027-01-24",
+     "booking_deadline": null,
+     "note_ru": "口述 цикла 2026 г.; результаты 論文式 — 2026-12-17, итоговые — 2027-02-04 (по сторонним сайтам)."
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Без образовательного ценза.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.moj.go.jp/content/001454363.pdf",
+   "secondary_urls": [
+    "https://column.itojuku.co.jp/shihou/yobi/yobishiken-nittei/",
+    "https://studying.jp/shihou/about-more/yobi-shutsugan.html"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "exam_dates",
+    "entry_requirements_ru",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "KG-MINJUST-KVALEKZAMEN": {
+   "program_id": "KG-MINJUST-KVALEKZAMEN",
+   "jurisdiction": "KG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Квалификационная комиссия (Министерство юстиции КР / Адвокатура КР)",
+   "provider_ru": "Квалификационная комиссия при Минюсте и Адвокатуре КР",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Квалификационный экзамен на получение лицензии на право занятия адвокатской деятельностью",
+   "program_name_ru": "Квалификационный экзамен на адвокатскую лицензию",
+   "curriculum_ru": null,
+   "format": null,
+   "language": null,
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "По публикациям economist.kg (октябрь 2026, вне периода): закон о профессиональных судебных представителях и проект приказа Минюста об обязательной подготовке юридических представителей в Учебном центре адвокатов. На порядок допуска в адвокатуру влияет косвенно; не проверено.",
+   "source_url": null,
+   "secondary_urls": [
+    "https://24.kg/vlast/271981_ministerstvo_yustitsii_hochet_izmenit_poryadok_provedeniya_ekzamena_dlya_advokatov/amp/",
+    "https://economist.kg/pravo-znat/2026/10/16/novye-pravila-sudebnogo-predstavitelstva-2027/",
+    "https://economist.kg/novosti/2026/10/10/yuridicheskie-predstaviteli-podgotovka.md"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "provider_original",
+    "provider_type",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "KR-KBA-SILMUSUSEUP": {
+   "program_id": "KR-KBA-SILMUSUSEUP",
+   "jurisdiction": "KR",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "법률사무종사기관 / 대한변호사협회",
+   "provider_ru": "Организации, ведущие юридическую работу / Корейская ассоциация адвокатов",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "실무수습 (변호사법 제21조의2)",
+   "program_name_ru": "Обязательная 6-месячная практика после экзамена",
+   "curriculum_ru": "6 месяцев работы в 법률사무종사기관 или обязательное обучение 대한변호사협회; без этого нельзя открыть самостоятельную практику или стать членом 법무법인. Единого методического руководства нет (критика 서울지방변호사회).",
+   "format": "очно",
+   "language": "ko",
+   "duration_ru": "6 месяцев",
+   "duration_months": 6,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Оплата — работодатель; в июле 2026 г. СМИ сообщили о споре: 대한법률구조공단 предлагал стажёрам только возмещение расходов 350000 KRW.",
+   "entry_requirements_ru": "Сдача 변호사시험.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.lawtimes.co.kr/news/articleView.html?idxno=149154",
+    "https://www.insight.co.kr/news/98663"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_ru",
+    "duration_months",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "KR-MOJ-BAREXAM": {
+   "program_id": "KR-MOJ-BAREXAM",
+   "jurisdiction": "KR",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "법무부 (법조인력과)",
+   "provider_ru": "Министерство юстиции (отдел юридических кадров)",
+   "provider_type": "государственный_орган",
+   "program_name_original": "변호사시험 (2027년도 제16회)",
+   "program_name_ru": "Экзамен на адвоката (16-й, 2027 г.)",
+   "curriculum_ru": null,
+   "format": "очно",
+   "language": "ko",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-10-13",
+     "note_ru": "План 16-го экзамена объявлен 2026-09-04 (текст во вложении .hwp не прочитан); приём заявлений 2026-10-07 09:00 — 2026-10-13 18:00. Дата экзамена официально не подтверждена (блог предполагает 2027-01-05 — 2027-01-09)."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Окончание 법학전문대학원.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.moj.go.kr/bbs/moj/135/610023/artclView.do",
+   "secondary_urls": [
+    "https://moj.go.kr/bbs/moj/135/611023/artclView.do"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "KZ-COLLEGIA-STAZHIROVKA": {
+   "program_id": "KZ-COLLEGIA-STAZHIROVKA",
+   "jurisdiction": "KZ",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Коллегии адвокатов (президиум коллегии адвокатов)",
+   "provider_ru": "Территориальные коллегии адвокатов",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Стажировка лиц, претендующих на занятие адвокатской деятельностью",
+   "program_name_ru": "Стажировка стажёра адвоката",
+   "curriculum_ru": "Для допуска подаётся заявление в президиум коллегии адвокатов с документами по положению о порядке прохождения стажировки. По итогам руководитель стажёра составляет заключение, его утверждает президиум коллегии (ст. 38 Закона РК). Период стажировки засчитывается в стаж по юридической специальности.",
+   "format": "очно",
+   "language": null,
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "На время стажировки стажёра можно принять по трудовому договору помощником адвоката (ст. 38, п. 6). Сообщения СМИ о платности стажировки и пределе ежемесячного взноса не проверены.",
+   "entry_requirements_ru": "Соответствие требованиям п. 2 ст. 32 Закона РК (текст пункта в этом запуске не открыт).",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://adilet.zan.kz/rus/docs/123269",
+   "secondary_urls": [
+    "https://www.lada.kz/kazakhstan-news/150067-zhiostkaia-proverka-miniusta-s-10-marta-kazakhstan-vvodit-novye-pravila-dlia-advokatov-i-notariusov.html",
+    "https://bizmedia.kz/2026-04-09-top-5-voprosov-o-novyh-pravilah-dlya-advokatov-i-notariusov-minyust-dal-podrobnye-razyasneniya/"
+   ],
+   "verification": "первоисточник",
+   "unverified_fields": [
+    "редакция_нормы",
+    "format",
+    "duration_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "KZ-MINJUST-ATTESTATSIYA": {
+   "program_id": "KZ-MINJUST-ATTESTATSIYA",
+   "jurisdiction": "KZ",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Территориальные органы юстиции Министерства юстиции Республики Казахстан",
+   "provider_ru": "Территориальные органы юстиции Минюста РК",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Аттестация лиц, претендующих на занятие адвокатской деятельностью",
+   "program_name_ru": "Аттестация претендентов на занятие адвокатской деятельностью",
+   "curriculum_ru": "Комплексное компьютерное тестирование на знание законодательства РК и проверка практических навыков (ст. 39, п. 1). Порядок и условия аттестации и пробной аттестации определяет уполномоченный орган (ст. 39, п. 4). Детальная структура по новым правилам 2026 года известна только из СМИ и не проверена.",
+   "format": null,
+   "language": null,
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Пройденная стажировка; заявление в территориальный орган юстиции (ст. 39, п. 1). Решение об аттестации действует 3 года (ст. 39, п. 7).",
+   "pass_rate": null,
+   "upcoming_changes_ru": "По сообщениям СМИ, в 2026 году Минюст РК утвердил новые правила аттестации: подача через портал госуслуг, этапы тестирования и практических задач. Текст приказа не открыт, дата вступления в силу в источниках расходится.",
+   "source_url": "https://adilet.zan.kz/rus/docs/123269",
+   "secondary_urls": [
+    "https://bizmedia.kz/2026-03-05-minyust-utverdil-novye-pravila-attestaczii-advokatov/",
+    "https://finance.kz/news/obnovleny-pravila-attestacii-advokatov-kazahstan-poryadok-etapy-2026"
+   ],
+   "verification": "первоисточник",
+   "unverified_fields": [
+    "редакция_нормы",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "NL-NOVA-BA": {
+   "program_id": "NL-NOVA-BA",
+   "jurisdiction": "NL",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Nederlandse orde van advocaten (Uitvoeringsorganisatie)",
+   "provider_ru": "Нидерландская коллегия адвокатов (исполнительная организация)",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Beroepsopleiding Advocaten (BA)",
+   "program_name_ru": "Профессиональная подготовка адвокатов",
+   "curriculum_ru": "Двухлетняя программа во время трёхлетнего стажа. С 2026-07-01 изменены регламент обучения и экзаменов, рамка качества и учебный план; добавлены описания двух leerpraktijken (жилищная аренда и социальное обеспечение); обязательный basistest отменён для начинающих с сентября 2026 г.",
+   "format": null,
+   "language": "nl",
+   "duration_ru": "2 года",
+   "duration_months": 24,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-06-30",
+     "note_ru": "Поток сентябрь 2026"
+    },
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Поток март 2027 — регистрация объявлена NOvA, срок не установлен"
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 14255,
+     "currency": "EUR",
+     "item_ru": "плата за обучение и экзамены (без НДС)",
+     "period_ru": "за всю программу, двумя платежами (начало 1-го и 2-го года)",
+     "valid_from": "2026-09-01"
+    },
+    {
+     "amount": 13867,
+     "currency": "EUR",
+     "item_ru": "плата за обучение и экзамены (без НДС), поток март 2026",
+     "period_ru": "за всю программу",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Hoge Raad 2025-09-26: расходы на BA несёт работодатель, условие о возмещении стажёром недействительно. Для бюро социальной практики — субсидия Raad voor Rechtsbijstand (покрывает BA без НДС для стажёров с сентября 2026).",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.advocatenorde.nl/nieuws/aanmelden-voor-beroepsopleiding-advocaten-cohort-maart-2027",
+   "secondary_urls": [
+    "https://zoek.officielebekendmakingen.nl/stcrt-2026-14789.pdf",
+    "https://www.advocatenorde.nl/nieuws/wijzigingen-regelgeving-en-curriculum-beroepsopleiding-advocaten-1-juli-2026",
+    "https://www.njb.nl/nieuws/hoge-raad-kantoor-moet-kosten-beroepsopleiding-advocaat-stagiaire-betalen/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "curriculum_ru",
+    "funding_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "NZ-COLNZ-PROFS": {
+   "program_id": "NZ-COLNZ-PROFS",
+   "jurisdiction": "NZ",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "The College of Law New Zealand",
+   "provider_ru": "College of Law (Новая Зеландия)",
+   "provider_type": "частный_провайдер",
+   "program_name_original": "Profs – Professional Legal Studies Course (New Zealand Certificate in Professional Legal Skills)",
+   "program_name_ru": "Profs — курс профессиональных юридических исследований",
+   "curriculum_ru": "Практические навыки начинающего юриста; пять городов и полностью онлайн (по справочнику 2021 г.).",
+   "format": "смешанный",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "LLB.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://issuu.com/ncao85/docs/2021_plsc_handbook_nov21_v2"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "format"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "NZ-IPLS-PLSC": {
+   "program_id": "NZ-IPLS-PLSC",
+   "jurisdiction": "NZ",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "Institute of Professional Legal Studies (NZ)",
+   "provider_ru": "Институт профессиональных юридических исследований (НЗ)",
+   "provider_type": "частный_провайдер",
+   "program_name_original": "Professional Legal Studies Course",
+   "program_name_ru": "Курс профессиональных юридических исследований (PLSC)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": "13 недель",
+   "duration_months": 3,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 5744,
+     "currency": "NZD",
+     "item_ru": "общие сборы студента (по данным Careers NZ, год не указан)",
+     "period_ru": "за 13 недель",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": "LLB.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.careers.govt.nz/qualifications/view/PC5000/9043"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "duration_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "CL"
+  },
+  "PL-MS-EGZ-ADWOKACKI": {
+   "program_id": "PL-MS-EGZ-ADWOKACKI",
+   "jurisdiction": "PL",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Ministerstwo Sprawiedliwości w porozumieniu z NRA",
+   "provider_ru": "Министерство юстиции по согласованию с НРА",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Egzamin adwokacki",
+   "program_name_ru": "Адвокатский экзамен",
+   "curriculum_ru": "Проводится раз в год. Коммюнике Минюста о планируемом сроке экзамена в 2027 г. опубликовано 2026-05-25 (дата экзамена в результатах поиска не раскрыта).",
+   "format": null,
+   "language": "pl",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.gov.pl/web/sprawiedliwosc/ogloszenia-i-komunikaty2",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "PL-MS-EGZ-WSTEPNY-ADW": {
+   "program_id": "PL-MS-EGZ-WSTEPNY-ADW",
+   "jurisdiction": "PL",
+   "stage": "вступительный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Ministerstwo Sprawiedliwości (komisje egzaminacyjne)",
+   "provider_ru": "Министерство юстиции Польши (экзаменационные комиссии)",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Egzamin wstępny na aplikację adwokacką",
+   "program_name_ru": "Вступительный экзамен на адвокатскую аплекацию",
+   "curriculum_ru": "Тест единичного выбора, проводится раз в год; объявление публикуется Минюстом до 30 июня каждого года.",
+   "format": null,
+   "language": "pl",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2026-09-26",
+     "date_end": null,
+     "booking_deadline": "2026-08-12",
+     "note_ru": "Сессия 2026 (прошла). Объявление на 2027 г. ожидается до 2027-06-30."
+    }
+   ],
+   "costs": [
+    {
+     "amount": 1125,
+     "currency": "PLN",
+     "item_ru": "сбор за вступительный экзамен",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.gov.pl/web/sprawiedliwosc/ogloszenie-o-egzaminie-wstepnym-na-aplikacje-adwokacka-w-2026-r",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "PL-NRA-APLIKACJA-ADW": {
+   "program_id": "PL-NRA-APLIKACJA-ADW",
+   "jurisdiction": "PL",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Okręgowe rady adwokackie (Naczelna Rada Adwokacka)",
+   "provider_ru": "Окружные адвокатские советы (Высший адвокатский совет)",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Aplikacja adwokacka",
+   "program_name_ru": "Адвокатская аплекация",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "pl",
+   "duration_ru": "3 года",
+   "duration_months": 36,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Аплекация платная; годовой сбор устанавливается распоряжением Министра юстиции (по закону — не выше шестикратной минимальной зарплаты); окружной совет может освободить, отсрочить или разбить на части. Актуальная сумма (вероятно, Dz.U. 2025 poz. 1597, в силе с 2026-01-01) не проверена.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://eli.gov.pl/eli/DU/2025/1597/ogl",
+    "https://lexlege.pl/prawo-o-adwokaturze/art-76b/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "funding_ru",
+    "duration_months"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "EU"
+  },
+  "RU-ADVOBR-POMOSHNIK": {
+   "program_id": "RU-ADVOBR-POMOSHNIK",
+   "jurisdiction": "RU",
+   "stage": "стажировка_практика",
+   "mandatory": "один_из_путей",
+   "provider_original": "Адвокатские образования",
+   "provider_ru": "Адвокатские образования",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Работа в качестве помощника адвоката",
+   "program_name_ru": "Работа помощником адвоката",
+   "curriculum_ru": "Работа помощником адвоката засчитывается в стаж по юридической специальности, необходимый для статуса (ст. 9, п. 4, подп. 10 63-ФЗ). Статья 27 и Положение ФПА о помощнике адвоката в этом запуске не открыты.",
+   "format": null,
+   "language": "ru",
+   "duration_ru": "в рамках общего требования о 2 годах юридического стажа",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076346",
+   "secondary_urls": [
+    "https://pravo.ru/news/222233/"
+   ],
+   "verification": "первоисточник",
+   "unverified_fields": [
+    "редакция_нормы"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "RU-ADVOBR-STAZHIROVKA": {
+   "program_id": "RU-ADVOBR-STAZHIROVKA",
+   "jurisdiction": "RU",
+   "stage": "стажировка_практика",
+   "mandatory": "один_из_путей",
+   "provider_original": "Адвокатские образования (адвокатский кабинет — адвокат)",
+   "provider_ru": "Адвокатские образования, при адвокатском кабинете — сам адвокат",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Стажировка в адвокатском образовании (стажер адвоката)",
+   "program_name_ru": "Стажировка стажёра адвоката",
+   "curriculum_ru": "Стажёр работает под руководством адвоката и выполняет его отдельные поручения. Самостоятельно заниматься адвокатской деятельностью стажёр не вправе и обязан хранить адвокатскую тайну (ст. 28 63-ФЗ). Порядок стажировки детализируют акты ФПА и палат субъектов; в этом запуске они не открыты.",
+   "format": "очно",
+   "language": "ru",
+   "duration_ru": "от 1 года до 2 лет",
+   "duration_months": 12,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Стажёра принимают на работу по трудовому договору с адвокатским образованием (при кабинете — с адвокатом), они и выступают работодателем. Социальное страхование стажёра обеспечивает работодатель (ст. 28, п. 4–5). Размер оплаты законом не установлен.",
+   "entry_requirements_ru": "Высшее юридическое образование. Не допускаются лица, указанные в п. 2 ст. 9 (недееспособные и ограниченно дееспособные, лица с непогашенной судимостью за умышленное преступление). Руководитель — адвокат со стажем не менее 5 лет.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076346",
+   "secondary_urls": [
+    "https://www.advgazeta.ru/novosti/sovet-fpa-odobril-polozheniya-o-poryadkakh-prokhozhdeniya-stazhirovki-i-raboty-pomoshchnika-advokata/"
+   ],
+   "verification": "первоисточник",
+   "unverified_fields": [
+    "редакция_нормы",
+    "format"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "RU-FPA-KVALEKZAMEN": {
+   "program_id": "RU-FPA-KVALEKZAMEN",
+   "jurisdiction": "RU",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Квалификационные комиссии адвокатских палат субъектов РФ; Положение о порядке сдачи квалификационного экзамена и перечень вопросов утверждает Совет ФПА",
+   "provider_ru": "Квалификационные комиссии адвокатских палат субъектов РФ по правилам Совета ФПА",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Квалификационный экзамен на присвоение статуса адвоката",
+   "program_name_ru": "Квалификационный экзамен на присвоение статуса адвоката",
+   "curriculum_ru": "Письменные ответы на вопросы (тестирование) и устное собеседование (ст. 11 63-ФЗ). Положение о порядке сдачи экзамена и перечень вопросов разрабатывает и утверждает Совет ФПА. Действующая редакция перечня в этом запуске не проверена.",
+   "format": null,
+   "language": "ru",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Высшее юридическое образование или учёная степень по юридической специальности, стаж работы по юридической специальности не менее 2 лет либо стажировка в адвокатском образовании. Не допускаются недееспособные и ограниченно дееспособные лица, а также лица с непогашенной или неснятой судимостью за умышленное преступление (ст. 9). Заявление и документы подаются в квалификационную комиссию (ст. 10). При неудаче повторная сдача допускается не ранее чем через год (ст. 11). Решение квалкомиссия принимает в трёхмесячный срок со дня подачи заявления (ст. 12).",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Обсуждается законопроект Минюста о передаче судебного представительства адвокатам («адвокатская монополия»). По публикациям СМИ, в нём упоминается повышение стандартов экзамена. Статус на ноябрь 2026 года не установлен.",
+   "source_url": "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076346",
+   "secondary_urls": [
+    "https://pravo.ru/story/259974/",
+    "https://www.gazeta.ru/twz/pravo/advokatskaya-monopoliya.htm",
+    "https://www.interfax.ru/russia/1052339"
+   ],
+   "verification": "первоисточник",
+   "unverified_fields": [
+    "редакция_нормы",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "RU-SPB-APSPB-KVALEKZAMEN": {
+   "program_id": "RU-SPB-APSPB-KVALEKZAMEN",
+   "jurisdiction": "RU",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Квалификационная комиссия Адвокатской палаты Санкт-Петербурга",
+   "provider_ru": "Квалификационная комиссия АП Санкт-Петербурга",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Квалификационный экзамен на присвоение статуса адвоката (АП СПб)",
+   "program_name_ru": "Квалификационный экзамен в АП Санкт-Петербурга",
+   "curriculum_ru": "По выдаче поиска: компьютерное тестирование и устное собеседование. Для стажёров есть дополнительный этап — допуск через комиссию Совета АП СПб. Страницы не открыты.",
+   "format": "очно",
+   "language": "ru",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "По выдаче поиска: заявление в квалификационную комиссию и пакет документов по перечню АП СПб. Перечень не открыт.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.apspb.ru/upload/iblock/58c/avdjp7xq71rvfecgf12jkeym9snitxvm.doc",
+    "https://www.advgazeta.ru/mneniya/kvalifikatsionnyy-ekzamen-kak-on-prokhodit-i-kak-effektivno-k-nemu-podgotovitsya/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "format",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "RU-SPB-INSTADV-KURS-KVALEKZ": {
+   "program_id": "RU-SPB-INSTADV-KURS-KVALEKZ",
+   "jurisdiction": "RU",
+   "stage": "подготовка_к_экзамену",
+   "mandatory": "добровольный",
+   "provider_original": "Санкт-Петербургский Институт Адвокатуры",
+   "provider_ru": "Санкт-Петербургский Институт адвокатуры",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "Школа адвокатуры: курс подготовки к квалификационному экзамену",
+   "program_name_ru": "Онлайн-курс подготовки к квалификационному экзамену",
+   "curriculum_ru": "По выдаче поиска: разбор вопросов из перечня ФПА и устного собеседования. Страница не открыта.",
+   "format": "онлайн",
+   "language": "ru",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "В выдаче поиска есть объявление о ноябрьском потоке 2026 года. Даты и цена из сниппета не внесены, потому что страница не открывалась."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Платный курс, оплачивает слушатель (по вторичным данным)",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://www.advgazeta.ru/obiavleniya/sobytiya/shkola-advokatury-11-2026/",
+    "https://www.advgazeta.ru/obiavleniya/sobytiya/shkola-advokatury-07-2026/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "provider_type",
+    "curriculum_ru",
+    "format",
+    "funding_ru",
+    "intakes"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  },
+  "SG-SILE-FPE": {
+   "program_id": "SG-SILE-FPE",
+   "jurisdiction": "SG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "Singapore Institute of Legal Education",
+   "provider_ru": "SILE",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Foreign Practitioner Examinations",
+   "program_name_ru": "Экзамены для иностранных практикующих юристов",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "По FAQ SILE, FPE проходит всесторонний пересмотр после экзаменов 2025 г.; подробности обещаны по его итогам. Даты 2027 г. не опубликованы.",
+   "source_url": "https://www.sile.edu.sg/faqs-foreign-practitioner-examinations",
+   "secondary_urls": [],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "SG-SILE-PARTA": {
+   "program_id": "SG-SILE-PARTA",
+   "jurisdiction": "SG",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "Singapore Institute of Legal Education",
+   "provider_ru": "Сингапурский институт юридического образования (SILE)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Part A Examinations",
+   "program_name_ru": "Экзамены Part A (для выпускников иностранных вузов)",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-04-19",
+     "date_end": "2027-04-23",
+     "booking_deadline": "2026-09-30",
+     "note_ru": "Сессия 1 2027 г.; онлайн-заявки 2026-09-01 — 2026-09-30 (до 17:00); даты могут измениться."
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Диплом признанного иностранного вуза.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.sile.edu.sg/wp-content/uploads/2026/08/2027_S1_Part_A_Application_Guide.pdf",
+   "secondary_urls": [
+    "https://www.sile.edu.sg/faqs-part-a"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "SG-SILE-PARTB": {
+   "program_id": "SG-SILE-PARTB",
+   "jurisdiction": "SG",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "Singapore Institute of Legal Education",
+   "provider_ru": "Сингапурский институт юридического образования (SILE)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Part B Course and Examinations",
+   "program_name_ru": "Курс и экзамены Part B",
+   "curriculum_ru": null,
+   "format": null,
+   "language": "en",
+   "duration_ru": "по ориентировочному календарю SILE: сессия 1 — курс январь–май, экзамены в июне; сессия 2 — курс июль–ноябрь, экзамены в декабре",
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": "2026-07-15",
+     "application_deadline": null,
+     "note_ru": "Сессия 2 2026 г.: курс с 2026-07-15 по 2026-11-16, экзамены в декабре 2026."
+    },
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Сессия 1 2027 г.: приём заявлений закрыт. Сессия 2 2027 г.: приём откроется в апреле 2027."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [
+    {
+     "amount": 5450,
+     "currency": "SGD",
+     "item_ru": "курс и экзамены, граждане Сингапура (с GST)",
+     "period_ru": "за сессию",
+     "valid_from": "2024-01-01"
+    },
+    {
+     "amount": 6322,
+     "currency": "SGD",
+     "item_ru": "курс и экзамены, постоянные резиденты (с GST)",
+     "period_ru": "за сессию",
+     "valid_from": "2024-01-01"
+    },
+    {
+     "amount": 7630,
+     "currency": "SGD",
+     "item_ru": "курс и экзамены, иностранцы (с GST)",
+     "period_ru": "за сессию",
+     "valid_from": "2024-01-01"
+    },
+    {
+     "amount": 1744,
+     "currency": "SGD",
+     "item_ru": "только экзамены (Examinations Only Fee, с GST), для всех категорий",
+     "period_ru": null,
+     "valid_from": "2024-01-01"
+    },
+    {
+     "amount": 545,
+     "currency": "SGD",
+     "item_ru": "пересдача (с GST)",
+     "period_ru": "за модуль",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Платит претендент; у SILE есть bursary для малообеспеченных кандидатов.",
+   "entry_requirements_ru": "Квалифицированный диплом юриста (иностранным выпускникам — сдача Part A).",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Сборы на 2027 г. не найдены. С 2024 г. повышен стандарт Part B; с 2025 г. — две сессии в год.",
+   "source_url": "https://www.sile.edu.sg/bar-course-and-exam-fees",
+   "secondary_urls": [
+    "https://www.sile.edu.sg/for-overseas-graduates/part-b/",
+    "https://www.mlaw.gov.sg/admission-to-the-bar/admission-requirements/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "costs",
+    "intakes",
+    "duration_ru",
+    "funding_ru",
+    "entry_requirements_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "SG-SILE-PTP": {
+   "program_id": "SG-SILE-PTP",
+   "jurisdiction": "SG",
+   "stage": "стажировка_практика",
+   "mandatory": "обязательный",
+   "provider_original": "Singapore Institute of Legal Education (registration); law practices",
+   "provider_ru": "SILE (регистрация и одобрение), юридические фирмы",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Practice Training Period",
+   "program_name_ru": "Период практической подготовки",
+   "curriculum_ru": "Минимум 12 месяцев в пределах непрерывных 16 месяцев; не менее двух Seats; 3 обязательных курса; не более 18 дней вне обучения. Чек-лист Civil Litigation (Advocate Seat) версии 1.1 действует с 2026-06-02. Основание: s.13 Legal Profession Act 1966, Legal Profession (Admission) Rules 2024, Practice Training Period Guidelines 2024.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "12 месяцев (в пределах 16 месяцев)",
+   "duration_months": 12,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "Претенденты, допущенные к Part B в июле 2027, могут заключать practice training contract с 2026-07-01; начало практики — не ранее января 2028 (после результатов Part B). Договор регистрирует работодатель в SILE до начала."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Практика обязательна только для права практиковать; после сдачи Part B возможен допуск как lawyer (non-practitioner).",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Для практикантов госслужбы с 2026-01-01 действует совместное руководство MinLaw (объявлено 2025-12-01).",
+   "source_url": "https://www.sile.edu.sg/ptp-new-framework/ptp-new-overview",
+   "secondary_urls": [
+    "https://sile.edu.sg/pdf/2024_Practice_Training_Period_Guidelines.pdf",
+    "https://www.lawsociety.org.sg/practice-training/",
+    "https://www.mlaw.gov.sg/admission-to-the-bar/admission-requirements/"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_ru",
+    "duration_months",
+    "intakes",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "TW-MOEX-LAWYER": {
+   "program_id": "TW-MOEX-LAWYER",
+   "jurisdiction": "TW",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "考選部",
+   "provider_ru": "Министерство экзаменов",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "專門職業及技術人員高等考試律師考試",
+   "program_name_ru": "Высший экзамен для специалистов — экзамен на адвоката",
+   "curriculum_ru": "Две ступени: 第一試 и 第二試.",
+   "format": null,
+   "language": "zh",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "115 г. (2026): регистрация на 第一試 2026-04-20 — 2026-04-29, на 第二試 2026-09-10 — 2026-09-16, только онлайн. Объявление на 2027 г. не найдено."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://cdn.public.com.tw/WebFile/testfile/6f62e293-ebb2-4bb8-92b5-36b61cb6cd64.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "intakes",
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "TW-TWBA-PRETRAINING": {
+   "program_id": "TW-TWBA-PRETRAINING",
+   "jurisdiction": "TW",
+   "stage": "профессиональный_курс",
+   "mandatory": "обязательный",
+   "provider_original": "中華民國律師公會全國聯合會（律師研習所），受法務部委託",
+   "provider_ru": "Всетайваньская федерация адвокатских ассоциаций (институт подготовки), по поручению Минюста",
+   "provider_type": "адвокатская_палата",
+   "program_name_original": "律師職前訓練（基礎訓練、實務訓練）",
+   "program_name_ru": "Предварительная подготовка адвокатов (базовая и практическая)",
+   "curriculum_ru": "Базовая подготовка 1 месяц, затем практическая 5 месяцев (律師職前訓練規則).",
+   "format": "очно",
+   "language": "zh",
+   "duration_ru": "6 месяцев",
+   "duration_months": 6,
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": null,
+     "note_ru": "116 г. (2027): по заявлению федерации от августа 2026 г. базовую подготовку проводит федерация; лимит — до 780 человек."
+    }
+   ],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Финансирование — от Минюста по договору поручения; в СМИ сообщалось о сокращении парламентом средств на эту подготовку (дата сообщения не установлена). Плата с участников не найдена.",
+   "entry_requirements_ru": "Сдача 律師考試.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "В 2027 г. меняется организатор базовой подготовки (федерация), создаётся комиссия по оценке на случай неудовлетворительных результатов или отчисления.",
+   "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0020012",
+   "secondary_urls": [
+    "https://www.twba.org.tw/upload/article/20260814/8006d2b3be4743b8b5a00c4af3cf5e25/8006d2b3be4743b8b5a00c4af3cf5e25.pdf",
+    "https://www.worldjournal.com/wj/amp/story/121221/9369448"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "duration_ru",
+    "duration_months",
+    "intakes",
+    "funding_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "AS"
+  },
+  "US-CA-CALBAR-CBX": {
+   "program_id": "US-CA-CALBAR-CBX",
+   "jurisdiction": "US-CA",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "State Bar of California, Committee of Bar Examiners",
+   "provider_ru": "Коллегия адвокатов Калифорнии, Комитет экзаменаторов",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "California Bar Examination (General Bar Exam / Attorneys' Exam)",
+   "program_name_ru": "Адвокатский экзамен Калифорнии (общий двухдневный / однодневный для адвокатов)",
+   "curriculum_ru": "Двухдневный General Bar Exam (GBX); однодневный Attorneys' Exam (AX) для действующих адвокатов других юрисдикций.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня (GBX)",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": "2026-11-02",
+     "note_ru": "полностью очно в Калифорнии; поздняя подача с доплатой 50 USD — 3–30 ноября, с доплатой 250 USD — 1 декабря 2026 – 4 января 2027; для повторно сдающих после июля 2026 — срок 13 ноября; результаты 30.04.2027"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 878,
+     "currency": "USD",
+     "item_ru": "заявка на экзамен, general applicant (rule 4.61(A))",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 1650,
+     "currency": "USD",
+     "item_ru": "заявка на экзамен, attorney applicant",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 153,
+     "currency": "USD",
+     "item_ru": "сдача на собственном ноутбуке",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 50,
+     "currency": "USD",
+     "item_ru": "сбор за позднюю подачу (первое окно)",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 250,
+     "currency": "USD",
+     "item_ru": "сбор за позднюю подачу (последнее окно)",
+     "period_ru": "разово",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент; при оплате картой — комиссия 2,5%.",
+   "entry_requirements_ru": "Юридическое образование по правилам State Bar (в т. ч. Rule 4.30 для иностранцев), регистрация, moral character.",
+   "pass_rate": {
+    "value_percent": 48.3,
+    "period_ru": "сессия июль 2026, GBX (впервые сдающие — 64,7%, повторно — 14,1%; AX — 49,4%)",
+    "source_url": "https://www.calbar.ca.gov/news/state-bar-announces-july-2026-bar-exam-results"
+   },
+   "upcoming_changes_ru": "По приказу Верховного суда Калифорнии экзамен с июля 2028 года заменяется NextGen UBE; калифорнийский компонент — предварительная рекомендация Суду в феврале 2027 года.",
+   "source_url": "https://www.calbar.ca.gov/admissions/examinations/california-bar-examination/february-2027-california-bar-exam",
+   "secondary_urls": [
+    "https://www.calbar.ca.gov/legal-professionals/rules/rules-state-bar/appendix-schedule-charges-and-deadlines",
+    "https://www.calbar.ca.gov/admissions/examinations/dates-and-deadlines",
+    "https://www.calbar.ca.gov/news/board-focuses-california-supreme-courts-nextgen-ube-and-california-component-order"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs",
+    "pass_rate",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-CA-CALBAR-FOREIGN-EDUCATED": {
+   "program_id": "US-CA-CALBAR-FOREIGN-EDUCATED",
+   "jurisdiction": "US-CA",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "State Bar of California (Rule 4.30)",
+   "provider_ru": "Коллегия адвокатов Калифорнии (правило 4.30)",
+   "provider_type": "регулятор_профессии",
+   "program_name_original": "Foreign-educated applicants — eligibility to take the California Bar Examination",
+   "program_name_ru": "Путь для иностранных юристов к экзамену Калифорнии",
+   "curriculum_ru": "Три варианта: (1) полностью допущенный адвокат любой юрисдикции — без дополнительного обучения, нужен Certificate of Good Standing не старше 6 месяцев; (2) первая юридическая степень за рубежом + оценка эквивалентности + год обучения в школе ABA/Калифорнии или LL.M. не менее 20 семестровых единиц с курсом профессиональной ответственности, завершённый в течение 36 месяцев; (3) без юридической степени — два года бакалавриата, First-Year Law Students' Examination, затем JD или четыре года обучения в США.",
+   "format": null,
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": "Курсовая оценка иностранного образования (заключение оценщика носит рекомендательный характер), заверенный перевод документов.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Предложение сотрудников State Bar отменить требование 12 единиц по четырём экзаменационным предметам в LL.M. (с 01.03.2024) — текущий статус не подтверждён.",
+   "source_url": "https://www.calbar.ca.gov/admissions/requirements/education/legal-education/foreign-education",
+   "secondary_urls": [
+    "https://info.calbar.ca.gov/knowledge/en/foreign-admitted-attorneys"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-DC-COA-UBE": {
+   "program_id": "US-DC-COA-UBE",
+   "jurisdiction": "US-DC",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "D.C. Court of Appeals, Committee on Admissions",
+   "provider_ru": "Апелляционный суд округа Колумбия, Комитет по допуску",
+   "provider_type": "суд",
+   "program_name_original": "District of Columbia Bar Examination (UBE)",
+   "program_name_ru": "Адвокатский экзамен округа Колумбия (UBE)",
+   "curriculum_ru": "UBE.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": null,
+     "note_ru": "по Rule 46 заявки на февральский экзамен — до 15 декабря, поздняя подача в течение 15 дней; дата экзамена 2027 года на сайте Комитета не проверена (общая дата UBE)"
+    }
+   ],
+   "costs": [],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.dccourts.gov/sites/default/files/divisionspdfs/committee%20on%20admissions%20pdf/DCCA_Rule_46.pdf",
+   "secondary_urls": [
+    "https://www.dccourts.gov/sites/default/files/divisionspdfs/committee%20on%20admissions%20pdf/Admissions_FAQs.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-FL-FBBE-BAR": {
+   "program_id": "US-FL-FBBE-BAR",
+   "jurisdiction": "US-FL",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Florida Board of Bar Examiners",
+   "provider_ru": "Совет экзаменаторов Флориды",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Florida Bar Examination",
+   "program_name_ru": "Адвокатский экзамен Флориды",
+   "curriculum_ru": "Часть по праву Флориды и MBE.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": "2026-11-16",
+     "note_ru": "Tampa Convention Center; поздняя подача: до 15.12.2026 (325 USD), до 15.01.2027 (625 USD); сбор за ноутбук — до 15.01.2027"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 1000,
+     "currency": "USD",
+     "item_ru": "заявка (не подававшие раннюю студенческую регистрацию, не допущенные или допущенные менее года)",
+     "period_ru": "за заявку",
+     "valid_from": null
+    },
+    {
+     "amount": 325,
+     "currency": "USD",
+     "item_ru": "поздняя подача до 15 декабря",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 625,
+     "currency": "USD",
+     "item_ru": "поздняя подача до 15 января",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 125,
+     "currency": "USD",
+     "item_ru": "сдача эссе на ноутбуке",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент; для адвокатов сбор выше в зависимости от стажа.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.floridabarexam.org/",
+   "secondary_urls": [
+    "https://www.floridabarexam.org/web/website.nsf/faq.xsp"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-IL-BOARD-UBE": {
+   "program_id": "US-IL-BOARD-UBE",
+   "jurisdiction": "US-IL",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Illinois Board of Admissions to the Bar",
+   "provider_ru": "Совет по допуску в адвокатуру Иллинойса",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Illinois Bar Examination (UBE)",
+   "program_name_ru": "Адвокатский экзамен Иллинойса (UBE)",
+   "curriculum_ru": "UBE: 23.02 — MPT и эссе, 24.02 — тест с выбором ответа.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": null,
+     "note_ru": "сроки и сборы в источниках противоречат друг другу; программа для ноутбука — установить до 20.01.2027"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 135,
+     "currency": "USD",
+     "item_ru": "регистрация в программе сдачи на ноутбуке",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "Переход на новый экзамен (NextGen) в 2028 году (решение Верховного суда Иллинойса от 29.05.2024).",
+   "source_url": "https://www.ilbaradmissions.org/appinfo.action?id=1",
+   "secondary_urls": [
+    "https://www.ilbaradmissions.org/5-29-2024-Release",
+    "https://ilbaradmissions.org/ube-examination-instructions"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-NCBE-MPRE": {
+   "program_id": "US-NCBE-MPRE",
+   "jurisdiction": "US",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "National Conference of Bar Examiners",
+   "provider_ru": "Национальная конференция экзаменаторов (NCBE)",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Multistate Professional Responsibility Examination (MPRE)",
+   "program_name_ru": "Экзамен по профессиональной ответственности (MPRE)",
+   "curriculum_ru": "Правила профессиональной ответственности юриста.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-03-23",
+     "date_end": "2027-03-24",
+     "booking_deadline": "2027-01-21",
+     "note_ru": "регистрация открыта"
+    },
+    {
+     "date": "2027-08-18",
+     "date_end": "2027-08-19",
+     "booking_deadline": "2027-06-17",
+     "note_ru": null
+    },
+    {
+     "date": "2027-11-04",
+     "date_end": "2027-11-05",
+     "booking_deadline": "2027-09-21",
+     "note_ru": null
+    }
+   ],
+   "costs": [
+    {
+     "amount": 185,
+     "currency": "USD",
+     "item_ru": "сбор за экзамен (оплата Pearson картой)",
+     "period_ru": "за попытку, все администрации 2026 и 2027 годов",
+     "valid_from": null
+    },
+    {
+     "amount": 30,
+     "currency": "USD",
+     "item_ru": "отчёт о баллах MPRE",
+     "period_ru": "за отчёт",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": "https://www.ncbex.org/exams/mpre",
+   "secondary_urls": [
+    "https://help2.ncbex.org/hc/en-us/articles/40203119772187-MPRE-Fees"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-NCBE-NEXTGEN-UBE": {
+   "program_id": "US-NCBE-NEXTGEN-UBE",
+   "jurisdiction": "US",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "один_из_путей",
+   "provider_original": "National Conference of Bar Examiners",
+   "provider_ru": "Национальная конференция экзаменаторов (NCBE)",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "NextGen Uniform Bar Examination",
+   "program_name_ru": "Единый адвокатский экзамен нового поколения (NextGen UBE)",
+   "curriculum_ru": "Интегрированная проверка навыков и базовых знаний; шкала баллов 500–750, проходной балл устанавливает каждая юрисдикция (Техас принимает перенос баллов NextGen от 620).",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2026-07-28",
+     "date_end": "2026-07-29",
+     "booking_deadline": null,
+     "note_ru": "первая (пробная) администрация, около 10 юрисдикций"
+    },
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": null,
+     "note_ru": "следующая администрация"
+    }
+   ],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "Определяются юрисдикцией, принявшей экзамен.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "По сообщению NCBE, NextGen UBE приняли 52 юрисдикции США (после решений Монтаны и Калифорнии). Даты перехода: Делавэр и Монтана — февраль 2028, Техас, Нью-Йорк, Калифорния, Иллинойс — июль 2028. Национальные результаты июля 2026 года NCBE опубликовала 25.09.2026 (по ABA Journal — 72,7%, не подтверждено первоисточником).",
+   "source_url": "https://www.ncbex.org/exams/nextgen",
+   "secondary_urls": [
+    "https://www.ncbex.org/news-resources/california-announces-plans-administer-nextgen-ube-july-2028",
+    "https://www.ncbex.org/news-resources/inaugural-nextgen-ube-results",
+    "https://www.abajournal.com/web/article/pass-rates-for-inaugural-nextgen-ube-administration-hits-72.7-ncbe-says"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "upcoming_changes_ru",
+    "curriculum_ru",
+    "duration_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-NY-BOLE-UBE": {
+   "program_id": "US-NY-BOLE-UBE",
+   "jurisdiction": "US-NY",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "New York State Board of Law Examiners",
+   "provider_ru": "Совет по адвокатским экзаменам штата Нью-Йорк",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "New York State Bar Examination (UBE) and New York Law Exam (NYLE)",
+   "program_name_ru": "Адвокатский экзамен штата Нью-Йорк (UBE) и экзамен по праву Нью-Йорка (NYLE)",
+   "curriculum_ru": "UBE (MBE, MEE, MPT) + отдельный онлайн-экзамен NYLE по праву Нью-Йорка; регистрация на NYLE электронная, не позднее чем за 45 дней.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня (UBE)",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": "2026-10-31",
+     "note_ru": "период подачи 1–31 октября 2026, без продления и без периода поздней подачи; для не сдавших июль 2026 — позднейшая из дат: 31 октября или 7-й день после публикации результатов"
+    },
+    {
+     "date": "2027-04-15",
+     "date_end": null,
+     "booking_deadline": "2027-03-01",
+     "note_ru": "администрация NYLE"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 250,
+     "currency": "USD",
+     "item_ru": "сбор за UBE (установлен законом), выпускники американских школ",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 750,
+     "currency": "USD",
+     "item_ru": "сбор за UBE для иностранных выпускников по Rule 520.6",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 29,
+     "currency": "USD",
+     "item_ru": "сбор за NYLE (оплата Examsoft)",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент; сборы не возвращаются, кроме исключительных случаев.",
+   "entry_requirements_ru": "JD школы ABA либо соответствие Rule 520.6 для иностранного образования; для июльского экзамена период подачи — 1–31 марта.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "С 01.09.2026 изменены Board Rules 6000.3(b) и 6000.7(c)(2)(ii) (полный текст не проверен). С июля 2028 года UBE заменяется NextGen; переносы баллов NextGen, полученных до июля 2028, не принимаются.",
+   "source_url": "https://www.nybarexam.org/",
+   "secondary_urls": [
+    "https://www.nybarexam.org/UBE/NY_UBEFAQs.pdf",
+    "https://www.nybarexam.org/TheBar/NYBarExamInformationGuide.pdf",
+    "https://www.nybarexam.org/rules/20260901%20Rules%20of%20the%20State%20Board%20of%20Law%20Examiners%20amended%20September%201,%202026.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs",
+    "upcoming_changes_ru",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-NY-COA-RULE520_6-LLM": {
+   "program_id": "US-NY-COA-RULE520_6-LLM",
+   "jurisdiction": "US-NY",
+   "stage": "профессиональный_курс",
+   "mandatory": "один_из_путей",
+   "provider_original": "New York Court of Appeals (Rule 520.6); ABA-approved law schools",
+   "provider_ru": "Апелляционный суд Нью-Йорка (правило 520.6); юридические школы, одобренные ABA",
+   "provider_type": "суд",
+   "program_name_original": "Foreign legal education eligibility — LL.M. cure (Rule 520.6(b))",
+   "program_name_ru": "Допуск иностранных юристов к экзамену Нью-Йорка — восполнение пробелов через LL.M. (правило 520.6(b))",
+   "curriculum_ru": "LL.M. не менее 24 кредитных часов, не менее двух семестров по 13 календарных недель; обязательно: профессиональная ответственность, legal research and writing, курс американского права; очно на кампусе в США (кредиты зарубежных кампусов и дистанционное обучение не засчитываются). LL.M. восполняет либо дефицит длительности, либо дефицит содержания, но не оба. Выпускники английского «conversion route» (GDL+LPC) — по Rule 520.6(b)(2).",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "не менее двух семестров",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": "Оплачивает претендент (стоимость LL.M. определяет школа).",
+   "entry_requirements_ru": "Юридическое образование, дающее право на допуск к профессии в иностранном государстве, аккредитация, эквивалентность по длительности и содержанию; дополнительно Skills Competency requirement (для LL.M., начатых после 01.08.2018) и 50 часов pro bono.",
+   "pass_rate": null,
+   "upcoming_changes_ru": "Изменений Rule 520.6 в 2026 году не найдено; актуальная версия Foreign Legal Education Handbook — от 30.10.2025.",
+   "source_url": "https://www.nybarexam.org/foreign/foreignlegaleducation.htm",
+   "secondary_urls": [
+    "https://www.nybarexam.org/Foreign/NY%20Bar%20Exam%20Foreign%20Legal%20Education%20Handbook_10.30.2025.pdf"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "curriculum_ru",
+    "entry_requirements_ru",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "US-TX-BLE-UBE": {
+   "program_id": "US-TX-BLE-UBE",
+   "jurisdiction": "US-TX",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Texas Board of Law Examiners",
+   "provider_ru": "Совет по адвокатским экзаменам Техаса",
+   "provider_type": "экзаменационный_орган",
+   "program_name_original": "Texas Bar Examination (UBE)",
+   "program_name_ru": "Адвокатский экзамен Техаса (UBE)",
+   "curriculum_ru": "UBE.",
+   "format": "очно",
+   "language": "en",
+   "duration_ru": "два дня",
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [
+    {
+     "date": "2027-02-23",
+     "date_end": "2027-02-24",
+     "booking_deadline": "2026-09-01",
+     "note_ru": "поздняя подача с доплатой 150 USD до 1 ноября, 300 USD до 1 декабря; после 1 декабря заявки не принимаются; запросы на особые условия — до 01.02.2027"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 150,
+     "currency": "USD",
+     "item_ru": "сбор за позднюю подачу (до 1 ноября)",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 300,
+     "currency": "USD",
+     "item_ru": "сбор за позднюю подачу (до 1 декабря)",
+     "period_ru": "разово",
+     "valid_from": null
+    },
+    {
+     "amount": 90,
+     "currency": "USD",
+     "item_ru": "программа для сдачи на ноутбуке (ILG Exam360)",
+     "period_ru": "за попытку",
+     "valid_from": null
+    }
+   ],
+   "funding_ru": "Оплачивает претендент.",
+   "entry_requirements_ru": null,
+   "pass_rate": null,
+   "upcoming_changes_ru": "С июля 2028 года — NextGen UBE. Базовый сбор за заявку не установлен: в регламенте 700 USD (для адвокатов), в новости Совета — повышение на 150 USD с экзамена июля 2026.",
+   "source_url": "https://ble.texas.gov/deadlines",
+   "secondary_urls": [
+    "https://ble.texas.gov/examination-dates",
+    "https://ble.texas.gov/allnews.action"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "exam_dates",
+    "costs",
+    "upcoming_changes_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "NA"
+  },
+  "UZ-MINJUST-KVALEKZAMEN": {
+   "program_id": "UZ-MINJUST-KVALEKZAMEN",
+   "jurisdiction": "UZ",
+   "stage": "квалификационный_экзамен",
+   "mandatory": "обязательный",
+   "provider_original": "Министерство юстиции Республики Узбекистан (квалификационная комиссия)",
+   "provider_ru": "Квалификационная комиссия Минюста Узбекистана",
+   "provider_type": "государственный_орган",
+   "program_name_original": "Malaka imtihoni (квалификационный экзамен для получения лицензии адвоката)",
+   "program_name_ru": "Квалификационный экзамен на адвокатскую лицензию",
+   "curriculum_ru": null,
+   "format": null,
+   "language": null,
+   "duration_ru": null,
+   "duration_months": null,
+   "intakes": [],
+   "exam_dates": [],
+   "costs": [],
+   "funding_ru": null,
+   "entry_requirements_ru": "По выдаче поиска: стажировка в адвокатском формировании либо юридический стаж в госорганах, судах или правоохранительных органах. Сроки стажировки и стажа в источниках расходятся и не внесены.",
+   "pass_rate": null,
+   "upcoming_changes_ru": null,
+   "source_url": null,
+   "secondary_urls": [
+    "https://advice.uz/ru/document/3367",
+    "https://kun.uz/ru/99622770"
+   ],
+   "verification": "вторичные_источники",
+   "unverified_fields": [
+    "provider_original",
+    "entry_requirements_ru"
+   ],
+   "checked_at": "2026-11-06",
+   "zone": "RU"
+  }
+ }
+}
