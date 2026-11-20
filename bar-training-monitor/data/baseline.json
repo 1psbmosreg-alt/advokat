@@ -1,63 +1,63 @@
 {
- "updated_at": "2026-11-13",
+ "updated_at": "2026-11-20",
  "fx": {
-  "date": "2026-11-13",
+  "date": "2026-11-20",
   "source": "https://www.cbr.ru/scripts/XML_daily.asp",
   "rates": {
-   "AUD": 56.7668,
-   "AZN": 48.8119,
-   "DZD": 0.607364,
-   "GBP": 110.2144,
-   "AMD": 0.230175,
-   "BHD": 220.6446,
-   "BYN": 27.6361,
-   "BOB": 7.09233,
-   "BRL": 14.9237,
-   "HUF": 0.252865,
-   "VND": 0.003239,
-   "HKD": 10.5761,
-   "GEL": 31.998,
-   "DKK": 12.3514,
-   "AED": 22.595,
-   "USD": 82.9803,
-   "EUR": 92.3322,
-   "EGP": 1.54942,
-   "INR": 0.884982,
-   "IDR": 0.004571,
-   "IRR": 4.4e-05,
-   "KZT": 0.186573,
-   "CAD": 58.5151,
-   "QAR": 22.7968,
-   "KGS": 0.9489,
-   "CNY": 12.4009,
-   "CUP": 3.45751,
-   "MDL": 4.58331,
-   "MNT": 0.023031,
-   "NGN": 0.06109,
-   "NZD": 46.1495,
-   "NOK": 8.69869,
-   "OMR": 215.8135,
-   "PLN": 20.9145,
-   "SAR": 22.1281,
-   "RON": 17.2319,
-   "XDR": 112.1421,
-   "SGD": 64.5711,
-   "TJS": 9.01695,
-   "THB": 2.45678,
-   "BDT": 0.664579,
-   "TRY": 1.65355,
-   "TMT": 23.7087,
-   "UZS": 0.006936,
-   "UAH": 1.8309,
-   "CZK": 3.78733,
-   "SEK": 8.3551,
-   "CHF": 99.7599,
-   "ETB": 0.515631,
-   "RSD": 0.781677,
-   "ZAR": 4.98884,
-   "KRW": 0.062078,
-   "JPY": 0.519862,
-   "MMK": 0.039514
+   "AUD": 54.704,
+   "AZN": 48.1935,
+   "DZD": 0.59826,
+   "GBP": 107.7202,
+   "AMD": 0.226988,
+   "BHD": 217.8492,
+   "BYN": 27.3617,
+   "BOB": 7.01447,
+   "BRL": 14.1016,
+   "HUF": 0.244098,
+   "VND": 0.003195,
+   "HKD": 10.4421,
+   "GEL": 31.5999,
+   "DKK": 12.0224,
+   "AED": 22.3088,
+   "USD": 81.929,
+   "EUR": 89.8597,
+   "EGP": 1.52254,
+   "INR": 0.877691,
+   "IDR": 0.004489,
+   "IRR": 4.3e-05,
+   "KZT": 0.184458,
+   "CAD": 57.189,
+   "QAR": 22.508,
+   "KGS": 0.936867,
+   "CNY": 12.2546,
+   "CUP": 3.41371,
+   "MDL": 4.45887,
+   "MNT": 0.02272,
+   "NGN": 0.060099,
+   "NZD": 45.0487,
+   "NOK": 8.47372,
+   "OMR": 213.0793,
+   "PLN": 20.3925,
+   "SAR": 21.8477,
+   "RON": 16.8741,
+   "XDR": 110.079,
+   "SGD": 63.4862,
+   "TJS": 8.89295,
+   "THB": 2.41095,
+   "BDT": 0.657221,
+   "TRY": 1.62561,
+   "TMT": 23.4083,
+   "UZS": 0.006844,
+   "UAH": 1.81251,
+   "CZK": 3.68552,
+   "SEK": 8.06423,
+   "CHF": 97.222,
+   "ETB": 0.508249,
+   "RSD": 0.763692,
+   "ZAR": 4.74863,
+   "KRW": 0.06155,
+   "JPY": 0.513372,
+   "MMK": 0.039014
   }
  },
  "jurisdictions": {
@@ -726,7 +726,7 @@
    "provider_type": "частный_провайдер",
    "program_name_original": "Practical Legal Training (2027)",
    "program_name_ru": "Практическое юридическое обучение (PLT), 2027",
-   "curriculum_ru": "Курсовая работа + очные «Immersive Workshops» (напр., 15–18.12.2026, 10–12.03.2027, 28–30.04.2027 для декабрьского потока) + профессиональная практика (самостоятельно найденная или организованная Leo Cussen).",
+   "curriculum_ru": "Курсовая работа + очные «Immersive Workshops» + профессиональная практика (самостоятельно найденная или организованная Leo Cussen); форматы National Online, VIC Blended, VIC Onsite.",
    "format": "смешанный",
    "language": "en",
    "duration_ru": "около 5 месяцев очно-полного дня (напр., 07.12.2026 — 07.05.2027); есть частичная занятость",
@@ -735,42 +735,42 @@
     {
      "start": "2026-12-07",
      "application_deadline": null,
-     "note_ru": "Национальный и VIC поток декабря 2026 г., онлайн, полный день; census date 18.01.2027, окончание 07.05.2027."
+     "note_ru": "Census 2027-01-18, окончание 2027-05-07; форматы: National Online; VIC Blended. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-01-25",
      "application_deadline": null,
-     "note_ru": "Национальный январский поток 2027 г. (census 22.02.2027, окончание 11.06.2027)."
+     "note_ru": "Census 2027-02-22, окончание 2027-06-11; форматы: National Online; VIC Onsite; VIC Blended. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-02-15",
      "application_deadline": null,
-     "note_ru": "Февральский поток 2027 г."
+     "note_ru": "Census 2027-03-15, окончание 2027-07-02; форматы: National Online; VIC Blended. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-03-22",
      "application_deadline": null,
-     "note_ru": "Национальный мартовский поток."
+     "note_ru": "Census 2027-04-19, окончание 2027-08-06; форматы: National Online; VIC Blended. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-06-28",
      "application_deadline": null,
-     "note_ru": null
+     "note_ru": "Census 2027-07-26, окончание 2027-11-12; форматы: VIC Blended; National Online. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-08-02",
      "application_deadline": null,
-     "note_ru": null
+     "note_ru": "Census 2027-08-30, окончание 2027-12-17; форматы: VIC Blended; National Online; VIC Onsite. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-09-20",
      "application_deadline": null,
-     "note_ru": null
+     "note_ru": "Census 2027-10-18, окончание 2028-02-18; форматы: VIC Blended; National Online. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     },
     {
      "start": "2027-12-06",
      "application_deadline": null,
-     "note_ru": null
+     "note_ru": "Census 2028-01-17, окончание 2028-05-05; форматы: VIC Blended; National Online. Срок подачи заявлений не указан; оплата (без FEE-HELP) — за две недели до начала."
     }
    ],
    "exam_dates": [],
@@ -778,33 +778,33 @@
     {
      "amount": 12390,
      "currency": "AUD",
-     "item_ru": "стоимость PLT, граждане/резиденты",
-     "period_ru": "потоки 2027 г.",
+     "item_ru": "стоимость PLT, граждане/резиденты, самостоятельно найденная практика",
+     "period_ru": "потоки 2026 и 2027 гг.",
      "valid_from": null
     },
     {
      "amount": 17790,
      "currency": "AUD",
-     "item_ru": "стоимость PLT, иностранные студенты",
-     "period_ru": "потоки 2027 г.",
+     "item_ru": "стоимость PLT, иностранные студенты, самостоятельно найденная практика",
+     "period_ru": "потоки 2026 и 2027 гг.",
      "valid_from": null
     },
     {
      "amount": 865,
      "currency": "AUD",
-     "item_ru": "услуга подбора места практики (на разных страницах +865 / +895 / +899)",
-     "period_ru": "доплата",
+     "item_ru": "доплата за практику, организованную Leo Cussen",
+     "period_ru": "потоки декабря 2026 г.",
      "valid_from": null
     },
     {
      "amount": 895,
      "currency": "AUD",
-     "item_ru": "услуга подбора места практики, потоки 2027 г.",
-     "period_ru": "доплата",
+     "item_ru": "доплата за практику, организованную Leo Cussen",
+     "period_ru": "потоки с января 2027 г.",
      "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает студент или работодатель-спонсор. Для 2026 г. сумма с организованной Leo Cussen практикой — 13 255 AUD (внутр.) / 18 655 AUD (иностр.); для 2027 г. — 13 285 / 18 685 AUD.",
+   "funding_ru": "Оплачивает студент или работодатель-спонсор. FEE-HELP доступен гражданам Австралии и обладателям Permanent Humanitarian visa (полностью или частично). Без FEE-HELP оплата — за две недели до начала; возможен план платежей. Итог с организованной практикой: 2026 г. — 13 255 AUD (внутр.) / 18 655 AUD (иностр.); 2027 г. — 13 285 / 18 685 AUD.",
    "entry_requirements_ru": null,
    "pass_rate": null,
    "upcoming_changes_ru": null,
@@ -814,10 +814,8 @@
     "https://www.leocussen.edu.au/app/uploads/2026/07/Terms-and-conditions-of-enrolment-2027.pdf"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [
-    "funding_ru"
-   ],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "AU-NSW-COLLAW-PLT": {
@@ -830,16 +828,16 @@
    "provider_type": "частный_провайдер",
    "program_name_original": "Practical Legal Training (NSW)",
    "program_name_ru": "Практическое юридическое обучение (PLT), NSW",
-   "curriculum_ru": "Курсовая часть 15 недель + 15 дней очных семинаров (Сидней) + 15 дней практики (требования LPAB с 01.03.2026; ранее 5 и 75 дней); выпуск — Graduate Diploma of Legal Practice; без письменных экзаменов.",
+   "curriculum_ru": "Курсовая часть 15 недель (15–20 часов в неделю), в основном онлайн, + 15 дней очных семинаров в Сиднее (три варианта графика; при невозможности — онлайн для имеющих право) + 15 дней практики в юридической организации, найденной самим студентом (во время или после курсовой части, каждое место согласуется; без доплаты). Требования LPAB с 01.03.2026; выпуск — Graduate Diploma of Legal Practice.",
    "format": "смешанный",
    "language": "en",
-   "duration_ru": null,
+   "duration_ru": "15 недель курсовой части",
    "duration_months": null,
    "intakes": [
     {
      "start": null,
      "application_deadline": null,
-     "note_ru": "Курсы начинаются ежемесячно."
+     "note_ru": "Курсы начинаются ежемесячно; конкретные даты — на странице Course Dates (не открыта). Итоговые оценки вуза нужны к census date."
     }
    ],
    "exam_dates": [],
@@ -859,7 +857,7 @@
      "valid_from": null
     }
    ],
-   "funding_ru": "FEE-HELP для имеющих право.",
+   "funding_ru": "FEE-HELP для имеющих право внутренних студентов (на курсовую часть); практика включена в стоимость.",
    "entry_requirements_ru": "Аккредитованная юридическая степень.",
    "pass_rate": null,
    "upcoming_changes_ru": "С 01.03.2026 действуют новые требования LPAB к PLT в NSW (15 дней очного обучения и 15 дней практики; практика только после начала PLT).",
@@ -871,7 +869,7 @@
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "AU-VIC-VLAB-SLT": {
@@ -1052,7 +1050,7 @@
    "provider_type": "регулятор_профессии",
    "program_name_original": "Professional Legal Training Course (PLTC) — PLTC Completion Program",
    "program_name_ru": "Курс профессиональной юридической подготовки (PLTC) — программа завершения",
-   "curriculum_ru": "PLTC закрыт в августе 2026 года; программа завершения — три цикла из шести аттестаций/экзаменов (Barrister, Solicitor, Drafting, Writing, Interview, Advocacy) для не сдавших или отложивших; перед навыковыми аттестациями — корректирующие семинары.",
+   "curriculum_ru": "PLTC закрыт в 2026 году и заменён PREP (CPLED); программа завершения — циклы из шести аттестаций/экзаменов (Barrister, Solicitor, Drafting, Writing, Interview, Advocacy) для тех, кто не сдал или отложил аттестации. Cycle 1 (осень 2026) включал Interview 3–6.11.2026 и Advocacy 17–18.11.2026.",
    "format": "смешанный",
    "language": "en",
    "duration_ru": "циклы с сентября 2026 по апрель 2027",
@@ -1063,7 +1061,7 @@
      "date": "2027-01-12",
      "date_end": null,
      "booking_deadline": null,
-     "note_ru": "Cycle 2, экзамен Barrister"
+     "note_ru": "Cycle 2, экзамен Barrister; запрос особых условий — не позднее чем за 30 дней; перенос возможен до начала аттестации"
     },
     {
      "date": "2027-01-19",
@@ -1103,17 +1101,15 @@
     }
    ],
    "costs": [],
-   "funding_ru": null,
-   "entry_requirements_ru": "Только для кандидатов, посещавших PLTC до сессии мая 2026 включительно и не завершивших одну или несколько аттестаций.",
+   "funding_ru": "Плата за перенос (deferral) аттестаций не взимается; иные сборы на странице не указаны.",
+   "entry_requirements_ru": "Только для кандидатов, посещавших PLTC до сессии мая 2026 включительно и не завершивших одну или несколько аттестаций/экзаменов (не сдали или отложили). Отложившие автоматически записываются на следующий цикл.",
    "pass_rate": null,
    "upcoming_changes_ru": "Заменён программой PREP (CPLED).",
    "source_url": "https://www.lawsociety.bc.ca/licensing/pre-admission-training/prep-training-course/pltc-completion-program/",
-   "secondary_urls": [
-    "https://www.lawsociety.bc.ca/licensing/upcoming-changes-to-bar-admission-program/"
-   ],
+   "secondary_urls": [],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "CA-CPLED-PREP": {
@@ -1272,7 +1268,7 @@
    "provider_type": "регулятор_профессии",
    "program_name_original": "Barrister and Solicitor Licensing Examinations",
    "program_name_ru": "Лицензионные экзамены Barrister и Solicitor",
-   "curriculum_ru": "Два отдельных экзамена: Barrister и Solicitor; только очно, онлайн не проводятся; результаты примерно через 8 недель.",
+   "curriculum_ru": "Два отдельных экзамена: Barrister и Solicitor; только очно (Торонто, Оттава; летом также London, Windsor, Thunder Bay), онлайн не проводятся; результаты примерно через 8 недель.",
    "format": "очно",
    "language": "en",
    "duration_ru": "по одному дню на экзамен (10:00–14:30 EST)",
@@ -1310,19 +1306,19 @@
      "date": "2026-11-17",
      "date_end": null,
      "booking_deadline": "2026-10-02",
-     "note_ru": "Solicitor, осенняя сессия 2026 (Торонто, Оттава)"
+     "note_ru": "Solicitor, осенняя сессия 2026 (Торонто, Оттава) — состоялся в период мониторинга"
     },
     {
      "date": "2027-02-25",
      "date_end": null,
      "booking_deadline": "2027-01-12",
-     "note_ru": "Barrister, зимняя сессия 2027; срок запроса особых условий — тот же"
+     "note_ru": "Barrister, зимняя сессия 2027; срок регистрации, переноса/отмены и запроса особых условий — 12.01.2027 (в ближайшие 60 дней)"
     },
     {
      "date": "2027-03-11",
      "date_end": null,
      "booking_deadline": "2027-01-27",
-     "note_ru": "Solicitor, зимняя сессия 2027; особые условия — до 12.01.2027"
+     "note_ru": "Solicitor, зимняя сессия 2027; регистрация и перенос — до 27.01.2027, особые условия — до 12.01.2027"
     },
     {
      "date": "2027-06-08",
@@ -1352,7 +1348,7 @@
      "date": "2028-02-22",
      "date_end": null,
      "booking_deadline": "2028-01-12",
-     "note_ru": "Barrister, зимняя сессия 2028"
+     "note_ru": "Barrister, зимняя сессия 2028; особые условия — до 10.01.2028"
     },
     {
      "date": "2028-03-07",
@@ -1410,21 +1406,42 @@
      "item_ru": "административный сбор плана помесячной оплаты за экзамен",
      "period_ru": "за экзамен",
      "valid_from": null
+    },
+    {
+     "amount": 2800,
+     "currency": "CAD",
+     "item_ru": "Experiential Training (articling или Law Practice Program)",
+     "period_ru": "разово, 2026/2027",
+     "valid_from": null
+    },
+    {
+     "amount": 160,
+     "currency": "CAD",
+     "item_ru": "запрос об освобождении/сокращении Experiential Training; запрос на national/international articles",
+     "period_ru": "за запрос",
+     "valid_from": null
+    },
+    {
+     "amount": 50,
+     "currency": "CAD",
+     "item_ru": "административный сбор MPP за Experiential Training",
+     "period_ru": "разово",
+     "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает кандидат, плюс применимые налоги; возможна помесячная оплата (MPP); фирма может возместить сборы. Сбор за Experiential Training (articling или LPP) — 2800 CAD.",
+   "funding_ru": "Оплачивает кандидат (плюс применимые налоги), онлайн через LSO Connects или помесячный план (MPP: 50 CAD за Experiential Training, 25 CAD за экзамен); фирма может возместить сборы. Сбор за Experiential Training (articling или LPP) — 2800 CAD. Сбор за экзамен при неявке не возвращается, кроме одобренного excused absence.",
    "entry_requirements_ru": "Канадский юридический диплом или сертификат NCA.",
    "pass_rate": null,
-   "upcoming_changes_ru": "Опубликованы даты сессий 2027–28 (лето/осень 2027, зима 2028), регистрация на них ещё не открыта.",
-   "source_url": "https://lso.ca/becoming-licensed/lawyer-licensing-process/application-process/payment-and-fees-overview",
+   "upcoming_changes_ru": "Опубликованы даты сессий 2027–28 (лето/осень 2027, зима 2028); регистрация на них ещё не открыта (по состоянию на 2026-11-20).",
+   "source_url": "https://lso.ca/becoming-licensed/lawyer-licensing-process/licensing-examinations/examination-dates-and-deadlines",
    "secondary_urls": [
-    "https://lso.ca/becoming-licensed/lawyer-licensing-process/licensing-examinations/examination-dates-and-deadlines"
+    "https://lso.ca/becoming-licensed/lawyer-licensing-process/application-process/payment-and-fees-overview"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
     "entry_requirements_ru"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "CA-ON-LSO-LPP": {
@@ -1525,10 +1542,10 @@
    "provider_type": "адвокатская_палата",
    "program_name_original": "Formation professionnelle (Bloc 1 et Bloc 2)",
    "program_name_ru": "Профессиональная подготовка (блоки 1 и 2)",
-   "curriculum_ru": "Блок 1 — самоподготовка, курсы и по одной попытке на каждом из трёх экзаменов (Droit appliqué; Théorie d'une cause et rédaction; Éthique, déontologie et pratique professionnelle). Блок 2 — apprentissage expérientiel (пре-клиника, юридическая клиника и технические клиники, отчёт; периоды зима, весна, осень 2027). Блок 3 — стаж, право на стаж с 25.05.2027, 13.09.2027 или 20.12.2027.",
+   "curriculum_ru": "Блок 1 — самоподготовка, курсы и по одной попытке на каждом из трёх экзаменов (Droit appliqué; Théorie d'une cause et rédaction; Éthique, déontologie et pratique professionnelle — курсы осени 2026: 23.11–02.12.2026). Блок 2 — apprentissage expérientiel (пре-клиника, юридическая клиника и технические клиники, отчёт; периоды зима, весна, осень 2027). Блок 3 — стаж, право на стаж с 25.05.2027, 13.09.2027 или 20.12.2027. Срок на прохождение блоков 1–2 — три года.",
    "format": "смешанный",
    "language": "fr",
-   "duration_ru": null,
+   "duration_ru": "сессия блока 1 — около 4 месяцев (осень: 25.08–09.12.2026; зима: 05.01–21.04.2027); на всю программу (блоки 1–2) — до трёх лет",
    "duration_months": null,
    "intakes": [
     {
@@ -1553,13 +1570,13 @@
      "date": "2026-11-19",
      "date_end": null,
      "booking_deadline": null,
-     "note_ru": "Théorie d'une cause et rédaction (блок 1, осень 2026)"
+     "note_ru": "Théorie d'une cause et rédaction (блок 1, осень 2026) — состоялся в период мониторинга"
     },
     {
      "date": "2026-12-09",
      "date_end": null,
      "booking_deadline": null,
-     "note_ru": "Éthique et déontologie (блок 1, осень 2026)"
+     "note_ru": "Éthique, déontologie et pratique professionnelle (блок 1, осень 2026); курсы 23.11–02.12.2026"
     },
     {
      "date": "2027-03-11",
@@ -1654,10 +1671,31 @@
      "item_ru": "пересмотр проверки экзамена",
      "period_ru": "за запрос, 2026–2027",
      "valid_from": null
+    },
+    {
+     "amount": 247,
+     "currency": "CAD",
+     "item_ru": "повторная запись на модули подготовки к Droit appliqué на Cognitis (сессия экзаменов весны 2027)",
+     "period_ru": "за сессию",
+     "valid_from": null
+    },
+    {
+     "amount": 414,
+     "currency": "CAD",
+     "item_ru": "дополнительный цикл юридической клиники",
+     "period_ru": "за цикл",
+     "valid_from": null
+    },
+    {
+     "amount": 27,
+     "currency": "CAD",
+     "item_ru": "доставка Collection de droit (по выбору)",
+     "period_ru": "разово, 2026–2027",
+     "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает кандидат картой онлайн; плата за обучение даёт налоговые документы (Relevé 8, T2202), кроме взноса в студенческую ассоциацию и платы за документацию. Сбор за поступление 201,20 CAD: 76,85 — Школе, 124,35 — Comité d'accès à la profession. Дополнительно взносы в студенческую ассоциацию (10–45 CAD) и медицинскую страховку (400–406,45 CAD) по центру.",
-   "entry_requirements_ru": "Диплом бакалавра права (гражданское право Квебека) или эквивалентность, признанная Comité d'accès à la profession.",
+   "funding_ru": "Оплачивает кандидат картой онлайн, только полностью; срок оплаты блока 1 зимней сессии — 08.01.2027; блока 2 — 29.01.2027, 21.05.2027 или 27.08.2027 в зависимости от периода. Плата за обучение даёт налоговые документы (Relevé 8, T2202), кроме взноса в студенческую ассоциацию и платы за документацию. Сбор за поступление 201,20 CAD: 76,85 — Школе, 124,35 — Comité d'accès à la profession. Дополнительно взносы в студенческую ассоциацию (10–45 CAD) и медицинскую/стоматологическую страховку (400–406,45 CAD) по центру.",
+   "entry_requirements_ru": "Диплом первого цикла по праву (бакалавриат/лицензия квебекских университетов, BCL/LLB McGill) либо решение Comité des équivalences; период подачи заявлений на 2026–2027 — 16.03–26.06.2026.",
    "pass_rate": null,
    "upcoming_changes_ru": null,
    "source_url": "https://www.ecoledubarreau.qc.ca/candidats/droits-de-scolarite/",
@@ -1667,10 +1705,8 @@
     "https://www.ecoledubarreau.qc.ca/candidats/admission-et-inscription/admission/"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [
-    "entry_requirements_ru"
-   ],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "CH-GE-ECAV-BREVET": {
@@ -2014,7 +2050,7 @@
      "date": "2027-02-01",
      "date_end": null,
      "booking_deadline": "2026-12-21",
-     "note_ru": "Экзамен 15:00–18:00; запись открывается 2026-11-30, срок записи — 2026-12-21 16:00; темы публикуются 2027-01-04. Отказ — не позднее чем за 5 недель, иначе засчитывается как несданная попытка."
+     "note_ru": "Экзамен 15:00–18:00 в Копенгагенском университете (Søndre Campus); запись открывается 2026-11-30, срок записи — 2026-12-21 16:00; темы публикуются 2027-01-04. Отказ письменно не позднее чем за 5 недель, иначе засчитывается как несданная попытка. Результаты — по e-mail не позднее чем через 6 недель."
     }
    ],
    "costs": [
@@ -2052,12 +2088,33 @@
      "item_ru": "судебная проба (retssagsprøven)",
      "period_ru": "за пробу (2026 г.)",
      "valid_from": "2026-01-01"
+    },
+    {
+     "amount": 100,
+     "currency": "DKK",
+     "item_ru": "экзаменационные материалы (PDF) — первая тема",
+     "period_ru": "за заказ",
+     "valid_from": null
+    },
+    {
+     "amount": 50,
+     "currency": "DKK",
+     "item_ru": "экзаменационные материалы (PDF) — каждая следующая тема в том же заказе",
+     "period_ru": "за тему",
+     "valid_from": null
+    },
+    {
+     "amount": 250,
+     "currency": "DKK",
+     "item_ru": "копия экзаменационного свидетельства (с НДС)",
+     "period_ru": "за копию",
+     "valid_from": null
     }
    ],
    "funding_ru": "Каждый курс выставляется отдельно за 2–4 недели до начала; счёт выписывается работодателю, если не согласовано иное. Письменный экзамен бесплатный.",
    "entry_requirements_ru": "Сданный juridisk kandidateksamen (магистр права); для экзамена — запись и оплата всех восьми курсов, завершённых до дня экзамена.",
    "pass_rate": null,
-   "upcoming_changes_ru": null,
+   "upcoming_changes_ru": "2026-11-19 опубликован план курсов (Kursusplan) на первое полугодие 2027 г. — перечень потоков на странице не раскрыт. Цены 2027 г. не опубликованы: указанные суммы действуют для курсов 2026 г., для курсов на стыке лет цены могут отличаться.",
    "source_url": "https://www.advokatsamfundet.dk/uddannelse/advokateksamen/",
    "secondary_urls": [
     "https://www.advokatsamfundet.dk/uddannelse/advokatuddannelsen/pris-og-praktisk-information/",
@@ -2066,7 +2123,7 @@
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "EU"
   },
   "ES-MJ-PRUEBA-ABOGACIA": {
@@ -2189,7 +2246,7 @@
      "date": "2026-12-01",
      "date_end": null,
      "booking_deadline": null,
-     "note_ru": "Публикация результатов admission (IEJ и CNB); устные экзамены — с первой половины ноября 2026, календарь устанавливает каждый университет"
+     "note_ru": "Публикация результатов admission сессии 2026 (IEJ и CNB); устные экзамены — с первой половины ноября 2026, календарь устанавливает каждый университет. На 2026-11-20 arrêté о датах сессии 2027 не найден."
     }
    ],
    "costs": [],
@@ -2207,7 +2264,7 @@
    "unverified_fields": [
     "entry_requirements_ru"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "EU"
   },
   "FR-EFB-FORMATION-INITIALE": {
@@ -2256,9 +2313,9 @@
    "provider_original": "Bar Standards Board (Central Examinations Board)",
    "provider_ru": "Совет по стандартам адвокатуры (BSB)",
    "provider_type": "регулятор_профессии",
-   "program_name_original": "BSB Centralised Assessments (Professional Ethics, Civil Litigation, Criminal Litigation)",
-   "program_name_ru": "Централизованные экзамены BSB (профессиональная этика, гражданский и уголовный процесс)",
-   "curriculum_ru": "Professional Ethics; Civil Litigation; Criminal Litigation.",
+   "program_name_original": "BSB Centralised Assessments (Civil Litigation, Criminal Litigation)",
+   "program_name_ru": "Централизованные экзамены BSB (гражданский и уголовный процесс)",
+   "curriculum_ru": "Criminal Litigation; Civil Litigation (две письменные работы). Для сессий декабрь 2026, апрель 2027, август 2027 действует программа (syllabus) 2026–2027. В таблице централизованных экзаменов BQM Professional Ethics не указана.",
    "format": null,
    "language": "en",
    "duration_ru": null,
@@ -2266,10 +2323,22 @@
    "intakes": [],
    "exam_dates": [
     {
-     "date": null,
-     "date_end": null,
+     "date": "2026-12-10",
+     "date_end": "2026-12-17",
      "booking_deadline": null,
-     "note_ru": "Сессии — декабрь, апрель, август; апрель 2026 г.: Criminal Litigation 16.04, Civil Litigation 21.04 и 23.04. Точные даты декабря 2026 г. и 2027 г. в этом запуске не найдены."
+     "note_ru": "Зимняя сессия: 10, 15 и 17 декабря 2026 г. Даты для Criminal Litigation и Civil Litigation (paper 1, paper 2) даны одной строкой таблицы; соответствие конкретной даты конкретному экзамену на странице не указано."
+    },
+    {
+     "date": "2027-04-26",
+     "date_end": "2027-04-30",
+     "booking_deadline": null,
+     "note_ru": "Весенняя сессия: 26, 28 и 30 апреля 2027 г. Даты для Criminal Litigation и Civil Litigation (paper 1, paper 2) даны одной строкой таблицы; соответствие конкретной даты конкретному экзамену на странице не указано."
+    },
+    {
+     "date": "2027-08-16",
+     "date_end": "2027-08-20",
+     "booking_deadline": null,
+     "note_ru": "Летняя сессия: 16, 18 и 20 августа 2027 г. Даты для Criminal Litigation и Civil Litigation (paper 1, paper 2) даны одной строкой таблицы; соответствие конкретной даты конкретному экзамену на странице не указано."
     }
    ],
    "costs": [],
@@ -2281,15 +2350,14 @@
     "source_url": "https://www.barstandardsboard.org.uk/asset/C0813C8C%2D38EB%2D4F19%2D833373E3F9C9C341/"
    },
    "upcoming_changes_ru": null,
-   "source_url": "https://www.barstandardsboard.org.uk/asset/C0813C8C%2D38EB%2D4F19%2D833373E3F9C9C341/",
+   "source_url": "https://www.barstandardsboard.org.uk/training-qualification/bar-qualification-manual/part-2-for-students-pupils--transferring-lawyers/b2-syllabus.html",
    "secondary_urls": [
+    "https://www.barstandardsboard.org.uk/asset/C0813C8C%2D38EB%2D4F19%2D833373E3F9C9C341/",
     "https://www.icca.ac.uk/icca-bar-course/fees-and-funding/"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [
-    "exam_dates"
-   ],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "GB-ENG-BSB-PUPILLAGE": {
@@ -2311,7 +2379,7 @@
     {
      "start": null,
      "application_deadline": "2027-01-28",
-     "note_ru": "Цикл 2026/27 Pupillage Gateway: учётные записи кандидатов с 07.09.2026; публикация вакансий 20.11.2026, просмотр кандидатами с 23.11.2026; приём заявок 04.01.2027 11:00 — 28.01.2027 23:59, продлений нет; предложения — 07.05.2027 09:30, принять — до 14.05.2027."
+     "note_ru": "Цикл 2026/27 Pupillage Gateway (перепроверено 20.11.2026): учётные записи кандидатов с 07.09.2026; публикация одобренных вакансий 20.11.2026 в 11:59, просмотр кандидатами с 23.11.2026 00:01; приём заявок 04.01.2027 11:00 — 28.01.2027 23:59, продлений нет; шортлистинг с 29.01/01.02.2027; предложения — 07.05.2027 09:30, принять — до 14.05.2027 09:30."
     }
    ],
    "exam_dates": [],
@@ -2356,7 +2424,7 @@
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "GB-ENG-ICCA-BARCOURSE": {
@@ -2537,7 +2605,7 @@
      "date": "2027-01-11",
      "date_end": "2027-01-15",
      "booking_deadline": "2026-11-23",
-     "note_ru": "FLK1, сессия январь 2027 г.; бронирование открыто с 22.09.2026, закрывается 23.11.2026 (по странице BPP; официальная страница дат SQE в этом запуске недоступна — защита Incapsula). SRA подтверждает, что информация о бронировании январской сессии 2027 г. опубликована."
+     "note_ru": "FLK1, сессия январь 2027 г.; бронирование 22.09.2026 — 23.11.2026 (страница BPP, перепроверено 20.11.2026; официальная страница дат SQE на sqe.sra.org.uk снова отдала пустой ответ). Новость SQE от 05.12.2025 подтверждает сессии SQE1 в январе и июле 2027 г."
     },
     {
      "date": "2027-01-18",
@@ -2575,25 +2643,27 @@
     }
    ],
    "funding_ru": "Оплачивает претендент или работодатель; у SRA есть фонд SQE для кандидатов из неблагополучных групп (access reinvestment fund).",
-   "entry_requirements_ru": "Регистрация кандидата в SRA и предварительные шаги перед бронированием. До трёх попыток SQE1 в течение шести лет.",
+   "entry_requirements_ru": "Регистрация кандидата в SRA и предварительные шаги перед бронированием. Сейчас — до трёх попыток каждого компонента в течение шести лет с первой попытки; FLK1 и FLK2 сдаются в одном окне (рег. 4.3).",
    "pass_rate": {
     "value_percent": 42,
-    "period_ru": "сессия июль 2026 г., все кандидаты (первая попытка — 47%; июль 2025 г. — 41%; январь 2026 г. — 53%, первая попытка — 58%)",
+    "period_ru": "сессия июль 2026 г., все кандидаты, более 6 300 человек (первая попытка — 47%, годом ранее 46%; июль 2025 г. — 41%); подтверждено SRA Update issue 155 (октябрь 2026)",
     "source_url": "https://www.sra.org.uk/news/news/jul-sqe1-26/"
    },
-   "upcoming_changes_ru": "С января 2027 г.: 340 вопросов вместо 360, темы FLK разделены между утренней и дневной сессиями. Консультация SRA по обновлению Statement of Solicitor Competence и FLK (с 08.10.2026, до 03.12.2026); новая редакция будет опубликована в апреле и вступит в силу с сентября (год в сообщении не указан). Сборы 2026/27 применяются к бронированиям экзаменов с октября 2026 г.",
-   "source_url": "https://www.sra.org.uk/news/sqe-update/sqe-update-september-2026/",
+   "upcoming_changes_ru": "С января 2027 г. в каждой части FLK 170 вопросов вместо 180 (всего 340 вместо 360), вопросы сгруппированы по предметам. 19.11.2026 SRA открыла консультацию по SQE Assessment Regulations (до 23:59 11.02.2027): разрешить сдавать FLK1 и FLK2 в разных окнах, отменить лимит попыток (FLK1, FLK2, SQE2), считать шестилетний срок от даты сдачи каждой части, а не от первой попытки; передать решения о смягчающих обстоятельствах и нарушениях панелям без Assessment Board. Предложения 1–3 — с 2028 г. после одобрения LSB. Это проект, не принятое правило. Консультация по Statement of Solicitor Competence и FLK — до 03.12.2026.",
+   "source_url": "https://www.sra.org.uk/news/news/releases/sra-proposes-sqe/",
    "secondary_urls": [
+    "https://www.sra.org.uk/sra/consultations/consultation-listing/sqe-assessment-regulations/",
+    "https://www.sra.org.uk/news/sra-update/sra-update-issue-155-october-2026/",
     "https://www.sra.org.uk/news/sqe-update/sqe-update-april-2026/",
     "https://www.sra.org.uk/news/news/jul-sqe1-26/",
-    "https://www.sra.org.uk/news/news/releases/competence-framework/",
+    "https://sqe.sra.org.uk/news-item/2025/12/05/assessment-dates-published-for-2027-assessments",
     "https://www.bpp.com/courses/law/sqe/sqe-exam-dates-fees"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
     "exam_dates"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "GB-ENG-SRA-SQE2": {
@@ -2617,13 +2687,13 @@
      "date": "2027-01-26",
      "date_end": "2027-02-04",
      "booking_deadline": "2026-12-04",
-     "note_ru": "Сессия январь 2027 г.: устная часть 26–27 и 28–29 января, письменная 2–4 февраля; бронирование 13.10.2026 — 04.12.2026 (по странице BPP)."
+     "note_ru": "Сессия январь 2027 г.: устная часть 26–27 и 28–29 января, письменная 2–4 февраля; бронирование 13.10.2026 — 04.12.2026 (страница BPP, перепроверено 20.11.2026; официальная страница дат недоступна)."
     },
     {
      "date": "2027-04-20",
      "date_end": "2027-05-14",
      "booking_deadline": null,
-     "note_ru": "Сессия апрель 2027 г.: письменная 20–22 апреля и 4–6 мая, устная 26–27, 28–29 апреля, 11–12 и 13–14 мая; бронирование не объявлено (BPP)."
+     "note_ru": "Сессия апрель 2027 г.: письменная 20–22 апреля и 4–6 мая, устная 26–27, 28–29 апреля, 11–12 и 13–14 мая; бронирование TBC (BPP). SQE (05.12.2025): окно апреля 2027 г. начинается на неделю раньше обычного — в третью неделю месяца — и длится четыре недели."
     },
     {
      "date": "2027-07-27",
@@ -2661,24 +2731,25 @@
     }
    ],
    "funding_ru": "Оплачивает претендент или работодатель.",
-   "entry_requirements_ru": "Сдача SQE1.",
+   "entry_requirements_ru": "Сдача SQE1 (кроме освобождённых); сейчас до трёх попыток в течение шести лет.",
    "pass_rate": {
     "value_percent": 83,
     "period_ru": "сессия апрель 2026 г., почти 3 000 кандидатов (первая попытка — 85%, рекорд; октябрь 2025 г. — 78%)",
     "source_url": "https://www.sra.org.uk/news/sqe-update/sqe-update-september-2026/"
    },
-   "upcoming_changes_ru": "Сборы 2026/27 применяются к бронированиям с октября 2026 г. Консультация SRA по обновлению Statement of Solicitor Competence (до 03.12.2026).",
+   "upcoming_changes_ru": "Консультация SRA от 19.11.2026 (до 11.02.2027): отменить лимит в три попытки и для SQE2, шестилетний срок считать от даты сдачи; вступление — в 2028 г. после одобрения LSB (проект). Консультация по Statement of Solicitor Competence — до 03.12.2026.",
    "source_url": "https://www.sra.org.uk/news/sqe-update/sqe-update-april-2026/",
    "secondary_urls": [
+    "https://www.sra.org.uk/sra/consultations/consultation-listing/sqe-assessment-regulations/",
     "https://www.sra.org.uk/news/sqe-update/sqe-update-september-2026/",
-    "https://www.sra.org.uk/news/news/releases/competence-framework/",
+    "https://sqe.sra.org.uk/news-item/2025/12/05/assessment-dates-published-for-2027-assessments",
     "https://www.bpp.com/courses/law/sqe/sqe-exam-dates-fees"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
     "exam_dates"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "GB-NIR-QUB-IPLS": {
@@ -3000,35 +3071,115 @@
    "provider_original": "The Law Society of Hong Kong",
    "provider_ru": "Юридическое общество Гонконга",
    "provider_type": "регулятор_профессии",
-   "program_name_original": "Overseas Lawyers Qualification Examination",
+   "program_name_original": "Overseas Lawyers Qualification Examination 2026",
    "program_name_ru": "Квалификационный экзамен для иностранных юристов (OLQE)",
-   "curriculum_ru": "Экзамен по Heads, указанным в сертификате Law Society (Rule 3(2) Overseas Lawyers (Qualification for Admission) Rules); все назначенные Heads сдаются в один год, несданные — пересдаются в последующие годы. Процедуры — OLQE Information Package 2026. Law Society не аккредитует подготовительные курсы.",
+   "curriculum_ru": "6 Heads: I Conveyancing; II Civil and Criminal Procedure; III Commercial and Company Law; IV Accounts and Professional Conduct; V Principles of Common Law; VI Hong Kong Constitutional Law. Сдаются Heads, указанные в сертификате Law Society (Rule 3(2) Overseas Lawyers (Qualification for Admission) Rules); процедуры — OLQE Information Package 2026. Law Society не аккредитует подготовительные курсы.",
    "format": null,
    "language": "en",
    "duration_ru": null,
    "duration_months": null,
-   "intakes": [],
-   "exam_dates": [],
+   "intakes": [
+    {
+     "start": "2026-02-05",
+     "application_deadline": "2026-03-20",
+     "note_ru": "OLQE 2026: подача заявлений (Form A) с 2026-02-05, приём форм и сбора до 2026-03-20; регистрация на экзамен до 2026-08-28; сообщить об инвалидности до 2026-09-11; candidate slips 2026-09-18; отказ с частичным возвратом сбора до 2026-10-09."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-10-23",
+     "date_end": null,
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head I"
+    },
+    {
+     "date": "2026-10-27",
+     "date_end": null,
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head IV"
+    },
+    {
+     "date": "2026-11-03",
+     "date_end": null,
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head VI"
+    },
+    {
+     "date": "2026-11-06",
+     "date_end": null,
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head II"
+    },
+    {
+     "date": "2026-11-10",
+     "date_end": null,
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head III"
+    },
+    {
+     "date": "2027-02-17",
+     "date_end": "2027-02-18",
+     "booking_deadline": "2026-08-28",
+     "note_ru": "Head V. Предварительная дата результатов OLQE 2026 — 2027-03-10."
+    }
+   ],
    "costs": [
     {
      "amount": 6600,
      "currency": "HKD",
-     "item_ru": "сбор за заявление на пересдачу",
+     "item_ru": "заявление на сертификат о праве на квалификацию для допуска и о сдаче/освобождении от OLQE (the Certificate)",
      "period_ru": "за заявление",
-     "valid_from": null
+     "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 11000,
+     "currency": "HKD",
+     "item_ru": "сдача OLQE — за один предмет (Head)",
+     "period_ru": "за сессию",
+     "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 2200,
+     "currency": "HKD",
+     "item_ru": "сдача OLQE — за каждый дополнительный предмет",
+     "period_ru": "за предмет",
+     "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 1500,
+     "currency": "HKD",
+     "item_ru": "продление срока действия сертификата",
+     "period_ru": "за заявление",
+     "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 3000,
+     "currency": "HKD",
+     "item_ru": "заявление о пересмотре по rule 9 Overseas Lawyers (Qualification for Admission) Rules",
+     "period_ru": "за заявление",
+     "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 2000,
+     "currency": "HKD",
+     "item_ru": "заверенная копия листа результатов OLQE",
+     "period_ru": "за копию",
+     "valid_from": "2026-04-01"
     }
    ],
-   "funding_ru": null,
+   "funding_ru": "Платит кандидат.",
    "entry_requirements_ru": "Квалифицированный юрист иностранной юрисдикции с опытом практики; документы о допуске и Certificate of Good Standing (выдан не ранее 4 месяцев). Освобождение от Head III — по решению комитета Law Society.",
    "pass_rate": null,
-   "upcoming_changes_ru": null,
-   "source_url": "https://www.hklawsoc.org.hk/en/Maintain-Standards/FAQ/Overseas-Lawyers-Qualification-Examination",
+   "upcoming_changes_ru": "Результаты OLQE 2026 — предварительно 2027-03-10.",
+   "source_url": "https://www.hklawsoc.org.hk/en/Maintain-Standards/OLQE/Key-Dates",
    "secondary_urls": [
-    "https://legco.gov.hk/yr2023/english/subleg/negative/2023ln018-e.pdf"
+    "https://www.hklawsoc.org.hk/en/Maintain-Standards/OLQE/2026-OLQE-Information-Package",
+    "https://www.hklawsoc.org.hk/-/media/HKLS/Home/About-Society/LawSociety_charges_2026_02.pdf",
+    "https://www.hklawsoc.org.hk/en/Maintain-Standards/FAQ/Overseas-Lawyers-Qualification-Examination"
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "AS"
   },
   "HK-LSHK-TRAINEE": {
@@ -3258,7 +3409,7 @@
      "date": "2026-09-30",
      "date_end": "2026-10-12",
      "booking_deadline": "2026-08-20",
-     "note_ru": "Осенняя сессия 2026 г. (прошла). Даты весенней сессии 2027 г. на странице не опубликованы."
+     "note_ru": "Осенняя сессия 2026 г. (прошла). Перепроверено 20.11.2026: даты, сроки и сборы весенней сессии 2027 г. на странице не опубликованы."
     }
    ],
    "costs": [
@@ -3285,7 +3436,7 @@
    "secondary_urls": [],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "IE-LSI-PPC-HYBRID": {
@@ -3307,7 +3458,7 @@
     {
      "start": null,
      "application_deadline": "2026-10-02",
-     "note_ru": "Поток декабрь 2026 — декабрь 2027: семестр 1 — декабрь 2026 — апрель 2027, семестр 2 — май — июль 2027, семестр 3 — август — декабрь 2027, электива — апрель — июнь 2028. Заявки на гибридный PPC — до первой пятницы октября (02.10.2026; дата вычислена по правилу), поздние принимаются при наличии мест (+€80). Оплата курса — до середины ноября 2026 г."
+     "note_ru": "Поток декабрь 2026 — декабрь 2027: семестр 1 — декабрь 2026 — апрель 2027, семестр 2 — май — июль 2027, семестр 3 — август — декабрь 2027, электива — апрель — июнь 2028. Заявки на гибридный PPC — до первой пятницы октября (02.10.2026; дата вычислена по правилу), поздние принимаются при наличии мест (+€80). Оплата курса — до середины ноября 2026 г. Перепроверено 20.11.2026: страница (обновлена 20.05.2026) называет начало семестра 1 — декабрь 2026 г. без точной даты; сроки и стоимость на ней не указаны."
     }
    ],
    "exam_dates": [],
@@ -3344,9 +3495,10 @@
    ],
    "verification": "первоисточник",
    "unverified_fields": [
-    "intakes"
+    "intakes",
+    "costs"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "CL"
   },
   "IN-BCI-AIBE": {
@@ -3376,7 +3528,7 @@
      "date": "2026-11-29",
      "date_end": null,
      "booking_deadline": "2026-10-27",
-     "note_ru": "Дата и график — «Tentative Schedule» в пресс-релизе BCI от 2026-07-18 и на портале регистрации aibe.digivarsity.online. Допуск (admit card) — 2026-11-14; результаты — ориентировочно 2027-01-07 — 2027-01-10."
+     "note_ru": "Дата и график — «Tentative Schedule» в пресс-релизе BCI от 2026-07-18. Допуск (admit card): по вторичным источникам (Careers360, CollegeDekho, Lawbhoomi) выпущен 2026-11-14; на главной allindiabarexamination.com на 2026-11-20 — объявление, что кандидатам, у которых данные admit card отсутствуют, они будут выпущены в ближайшее время. Экзамен — очно, бумажный формат (по вторичным источникам). Результаты — ориентировочно 2027-01-07 — 2027-01-10."
     }
    ],
    "costs": [
@@ -3409,20 +3561,23 @@
     "period_ru": "AIBE XXI, экзамен 2026-06-07 (явились 175 701, сдали 115 805)",
     "source_url": "https://www.allindiabarexamination.com/img/PressReleasedated18.07.2026.pdf"
    },
-   "upcoming_changes_ru": "Результаты AIBE XXII — ориентировочно 2027-01-07 — 2027-01-10.",
+   "upcoming_changes_ru": "Экзамен AIBE XXII — 2026-11-29; результаты — ориентировочно 2027-01-07 — 2027-01-10. Срок представления Enrolment Certificate для сдавших AIBE XIX и последующие по undertaking — 2027-01-06 (уведомление на сайте от 2026-07-07 по письму BCI от 2026-06-23).",
    "source_url": "https://www.allindiabarexamination.com/img/PressReleasedated18.07.2026.pdf",
    "secondary_urls": [
     "https://www.allindiabarexamination.com/",
     "https://aibe.digivarsity.online/WebApp/Forms/Home.aspx",
     "https://freepressjournal.in/education/aibe-xxii-schedule-out-registration-begins-august-19-at-allindiabarexaminationcom-exam-on-november-29",
     "https://law.careers360.com/articles/aibe-22-registration-2026",
-    "https://www.pw.live/judiciary/exams/aibe-22-registration-2026"
+    "https://www.pw.live/judiciary/exams/aibe-22-registration-2026",
+    "https://news.careers360.com/aibe-22-admit-card-2026-out-allindiabarexamination-com-bci-competitive-examination-recruitment-hall-ticket-download-link-active",
+    "https://lawbhoomi.com/bci-releases-aibe-xxii-admit-cards-2026-exam-scheduled-for-november-29/"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
-    "costs"
+    "costs",
+    "exam_dates"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "AS"
   },
   "IT-COA-SCUOLA-FORENSE": {
@@ -3478,7 +3633,7 @@
     {
      "start": null,
      "application_deadline": "2026-11-11",
-     "note_ru": "Онлайн-заявление с 2026-10-01 по 2026-11-11 на сайте Минюста (SPID 2-го уровня, CIE или CNS); оплата через PagoPA до истечения срока, иначе исключение. Допускаются завершившие практику (pratica forense) не позднее 2026-11-10. Приём заявлений закрыт."
+     "note_ru": "Онлайн-заявление с 2026-10-01 по 2026-11-11 на сайте Минюста (SPID 2-го уровня, CIE или CNS); оплата через PagoPA до истечения срока, иначе исключение. Допускаются завершившие практику не позднее 2026-11-10 или заявившие, что завершат её к этой дате (ст. 3 ч. 7–8 DM). Приём заявлений закрыт."
     }
    ],
    "exam_dates": [
@@ -3486,7 +3641,7 @@
      "date": "2026-12-15",
      "date_end": "2026-12-16",
      "booking_deadline": "2026-11-11",
-     "note_ru": "Письменные работы с 9:00 при 26 апелляционных судах и отделении в Больцано (возможен немецкий язык). Жеребьёвка пар судов для проверки работ — в течение 10 дней после окончания приёма заявлений. Дата устного экзамена сообщается в личном кабинете не менее чем за 30 дней."
+     "note_ru": "Письменные работы с 9:00 при апелляционных судах (шесть групп судов A–F по числу кандидатов). Жеребьёвка пар судов для проверки работ — в течение 10 дней после окончания приёма заявлений (ст. 5 ч. 1 DM), т. е. ориентировочно до 2026-11-21; на 2026-11-20 результат жеребьёвки и число кандидатов не опубликованы (не найдены). Дата устного экзамена сообщается в личном кабинете не менее чем за 30 дней."
     }
    ],
    "costs": [
@@ -3519,11 +3674,12 @@
    "source_url": "https://www.giustizia.it/giustizia/page/it/provvedimento_ministeriale_selezionato?contentId=SDC1519988",
    "secondary_urls": [
     "https://www.italiaoggi.it/diritto-e-fisco/professioni/esame-avvocato-2026-il-15-e-il-16-dicembre-le-prove-scritte-come-inviare-la-domanda-e-quanto-costa-iscriversi-q1ryuqet",
-    "https://sistemapenale.it/it/scheda/masieri-accesso-alla-professione-forense-le-novita-contenute-nel-dl-100-2026"
+    "https://sistemapenale.it/it/scheda/masieri-accesso-alla-professione-forense-le-novita-contenute-nel-dl-100-2026",
+    "https://www.misterlex.it/doc/esame-avvocato-2026-bando/"
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "EU"
   },
   "JP-COURTS-SHIHOSHUSHU": {
@@ -3776,7 +3932,7 @@
     {
      "start": null,
      "application_deadline": "2026-10-13",
-     "note_ru": "План 16-го экзамена объявлен 2026-09-04 (текст во вложении .hwp не прочитан); приём заявлений 2026-10-07 09:00 — 2026-10-13 18:00 (объявление о приёме от 2026-10-02). Дата экзамена официально не подтверждена (по блогу — 2027-01-05 — 2027-01-09)."
+     "note_ru": "План 16-го экзамена объявлен 2026-09-04 (вложение .hwp на moj.go.kr 2026-11-20 скачать не удалось — сброс соединения/циклический редирект); приём заявлений 2026-10-07 09:00 — 2026-10-13 18:00 (объявление от 2026-10-02). Дата экзамена официально не подтверждена (по блогу — 2027-01-05 — 2027-01-09); статистика приёма заявлений 16-го экзамена на moj.go.kr не найдена."
     }
    ],
    "exam_dates": [],
@@ -3794,7 +3950,7 @@
    "unverified_fields": [
     "entry_requirements_ru"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "AS"
   },
   "KZ-COLLEGIA-STAZHIROVKA": {
@@ -3902,21 +4058,20 @@
      "valid_from": "2026-09-01"
     }
    ],
-   "funding_ru": "Счёт выставляется двумя частями. Hoge Raad 2025-09-26: расходы несёт работодатель (по вторичным данным). Для социальной адвокатуры — субсидия beroepsopleiding sociaal advocaten через Raad voor Rechtsbijstand (кабинеты и стажёры-предприниматели).",
-   "entry_requirements_ru": null,
+   "funding_ru": "Счёт за обучение выставляется двумя частями (начало 1-го и 2-го года). По решению Hoge Raad от 2025-09-26 расходы на Beroepsopleiding Advocaten несёт работодатель; оговорка о возмещении стажёром расходов на обучение (studiekostenbeding) недействительна; obiter — расходы на обязательные учебные баллы также несёт работодатель (сообщение NOvA от 2025-09-30). Для социальной адвокатуры — субсидия через Raad voor Rechtsbijstand.",
+   "entry_requirements_ru": "Стажёр должен быть приведён к присяге (beëdigd) до начала обучения; информацию о регистрации даёт местная коллегия (lokale orde).",
    "pass_rate": null,
    "upcoming_changes_ru": null,
    "source_url": "https://www.advocatenorde.nl/nieuws/aanmelden-voor-beroepsopleiding-advocaten-cohort-maart-2027",
    "secondary_urls": [
     "https://zoek.officielebekendmakingen.nl/stcrt-2026-14789.pdf",
     "https://www.advocatenorde.nl/nieuws/wijzigingen-regelgeving-en-curriculum-beroepsopleiding-advocaten-1-juli-2026",
-    "https://www.njb.nl/nieuws/hoge-raad-kantoor-moet-kosten-beroepsopleiding-advocaat-stagiaire-betalen/"
+    "https://www.njb.nl/nieuws/hoge-raad-kantoor-moet-kosten-beroepsopleiding-advocaat-stagiaire-betalen/",
+    "https://www.advocatenorde.nl/nieuws/kosten-beroepsopleiding-advocaat-stagiairs-voor-rekening-van-advocatenkantoren"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [
-    "funding_ru"
-   ],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "EU"
   },
   "NZ-COLNZ-PROFS": {
@@ -4235,7 +4390,7 @@
    "provider_type": "адвокатская_палата",
    "program_name_original": "Квалификационный экзамен на присвоение статуса адвоката (АПМО)",
    "program_name_ru": "Квалификационный экзамен в АП Московской области",
-   "curriculum_ru": "Компьютерное тестирование (дата назначается после решения квалкомиссии о допуске), затем устная часть по билетам; на сайте палаты опубликованы билеты и актуальные тестовые материалы.",
+   "curriculum_ru": "Компьютерное тестирование (дата назначается в личном кабинете КИС АР после решения квалкомиссии о допуске), затем устная часть по билетам; на сайте палаты опубликованы билеты и актуальные тестовые материалы.",
    "format": "очно",
    "language": "ru",
    "duration_ru": null,
@@ -4263,19 +4418,26 @@
      "item_ru": "обязательные отчисления за первый месяц членства (статус получен с 01.04.2026)",
      "period_ru": "единовременно после присвоения статуса",
      "valid_from": "2026-04-01"
+    },
+    {
+     "amount": 35000,
+     "currency": "RUB",
+     "item_ru": "обязательные отчисления за первый месяц членства для прошедших стажировку по Положению о стажировке в АПМО",
+     "period_ru": "единовременно после присвоения статуса",
+     "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает претендент. Целевой взнос перечисляется безналично не позднее двух рабочих дней до даты компьютерного тестирования (решение XXV ежегодной конференции АПМО).",
-   "entry_requirements_ru": "Постоянная регистрация в Москве или Московской области (или временная — с решением Совета ФПА о согласовании места сдачи). Заявление через личный кабинет КИС АР (логин — по запросу на e-mail палаты): заявление, анкета, диплом, трудовая книжка или иной документ о стаже, паспорт, справка о судимости, справки ПНД/НД. Стажёры и помощники дополнительно представляют характеристику руководителя стажировки/куратора и сведения о страховых взносах. Подлинники — в день тестирования.",
+   "funding_ru": "Оплачивает претендент. Целевой взнос 15 000 руб. (невозвратный, с 01.01.2026) перечисляется безналично не позднее двух рабочих дней до даты компьютерного тестирования; подтверждение оплаты направляется в палату по e-mail.",
+   "entry_requirements_ru": "Постоянная регистрация в Москве или Московской области (временная — только с решением Совета ФПА о согласовании места сдачи). Порядок: регистрационные данные по e-mail в палату — логин/пароль КИС АР (действуют 30 дней) — заполнение профиля и загрузка сканов в КИС АР (cisar-exam.fparf.ru), верификация — «Процедура» (подписанные анкета, заявление, фото) — решение квалкомиссии о допуске. Документы: заявление, анкета, диплом, трудовая книжка или иной документ о стаже, паспорт, фото, СНИЛС, ИНН, справка о судимости/уголовном преследовании, справки ПНД/НД, сведения о дееспособности. Стажёры и помощники дополнительно — характеристика и сведения о страховых взносах. Оригиналы или нотариальные копии — в кадровую службу в день компьютерного тестирования.",
    "pass_rate": null,
    "upcoming_changes_ru": null,
    "source_url": "https://apmo.ru/pretendentam/dokumenty-pretendentam/",
    "secondary_urls": [
-    "https://apmo.ru/pretendentam/grafik-priema-dokumentov/"
+    "https://apmo.ru/pretendentam/instrukcia/"
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "RU"
   },
   "RU-MSK-APM-KVALEKZAMEN": {
@@ -4300,19 +4462,26 @@
      "amount": 25000,
      "currency": "RUB",
      "item_ru": "целевой взнос на частичное возмещение расходов палаты на проведение квалификационного экзамена",
-     "period_ru": "за экзамен (установлен на период 01.05.2025–31.12.2025)",
-     "valid_from": "2025-05-01"
+     "period_ru": "за экзамен (период 01.01.2026–31.12.2026)",
+     "valid_from": "2026-01-01"
+    },
+    {
+     "amount": 86820,
+     "currency": "RUB",
+     "item_ru": "обязательные отчисления за первый месяц членства (трёхкратный прожиточный минимум в Москве для трудоспособного населения) для ставших адвокатами в 2026 г. по результатам экзамена",
+     "period_ru": "единовременно после присвоения статуса",
+     "valid_from": "2026-01-01"
     }
    ],
-   "funding_ru": "Оплачивает претендент. На странице палаты опубликован взнос по решению 23-й конференции АПМ на период 01.05–31.12.2025; решение на 2026 г. на странице не найдено. Для принятых в 2025 г. установлены отчисления за первый месяц членства в трёхкратном размере прожиточного минимума в Москве (с 01.01 по 30.04.2025).",
-   "entry_requirements_ru": "Регистрация по месту жительства в Москве или Московской области (менее года — нужно решение Совета ФПА РФ о согласовании места сдачи). Документы сначала направляются по e-mail в отдел кадров палаты в PDF: заявление, анкета, паспорт, трудовая книжка/документ о стаже не менее 2 лет или о стажировке, диплом с вкладышем, СНИЛС, ИНН, справка о судимости, справки ПНД и НД, сведения о лицевом счёте (СЗИ-6/СЗИ-ИЛС), фотографии; для ИП — дополнительные доказательства юридической деятельности не менее 2 лет. Затем регистрация в КИС АР и очная подача подлинников; документы актуальны не более 30 дней.",
+   "funding_ru": "Оплачивает претендент. На странице палаты при проверке 20.11.2026 указан целевой взнос 25 000 руб. на период с 01.01.2026 по 31.12.2026 (решение ежегодной конференции АП г. Москвы) и отчисления за первый месяц членства 86 820 руб. с 01.01.2026. Неделей ранее страница показывала взнос на период 01.05–31.12.2025.",
+   "entry_requirements_ru": "Регистрация по месту жительства в Москве или Московской области (если постоянная регистрация менее года — нужно решение Совета ФПА РФ о согласовании места сдачи, без него к экзамену не допускают). Документы (кроме анкеты, фотографий и заявления о дееспособности) сначала направляются в PDF по e-mail в отдел кадров палаты; анкета — в формате Word. После проверки претендент получает инструкцию, логин и пароль для регистрации в КИС АР, затем очно передаёт подлинники и копии в согласованный по телефону день. Документы действительны не более 30 календарных дней с даты выдачи/заверения; принимается только полный пакет.",
    "pass_rate": null,
    "upcoming_changes_ru": null,
    "source_url": "https://www.advokatymoscow.ru/applicants/obtaining/",
    "secondary_urls": [],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "RU"
   },
   "RU-SPB-APSPB-KVALEKZAMEN": {
@@ -4323,32 +4492,64 @@
    "provider_original": "Квалификационная комиссия Адвокатской палаты Санкт-Петербурга",
    "provider_ru": "Квалификационная комиссия АП Санкт-Петербурга",
    "provider_type": "адвокатская_палата",
-   "program_name_original": "Квалификационный экзамен на присвоение статуса адвоката (АП СПб)",
+   "program_name_original": "Квалификационный экзамен на приобретение статуса адвоката (АП СПб)",
    "program_name_ru": "Квалификационный экзамен в АП Санкт-Петербурга",
-   "curriculum_ru": "По выдаче поиска: компьютерное тестирование и устное собеседование. Для стажёров есть дополнительный этап — допуск через комиссию Совета АП СПб. Страницы не открыты.",
+   "curriculum_ru": "Две части: письменное тестирование с применением компьютерной техники через КИС АР и устное собеседование по экзаменационным билетам (вопросы утверждает ФПА РФ). Экзамен проводится по плану работы квалкомиссии 4–6 раз в год.",
    "format": "очно",
    "language": "ru",
-   "duration_ru": null,
+   "duration_ru": "сессия декабря 2026 г.: тестирование 3 декабря, устное собеседование 9 и 11 декабря",
    "duration_months": null,
-   "intakes": [],
-   "exam_dates": [],
-   "costs": [],
-   "funding_ru": null,
-   "entry_requirements_ru": "По выдаче поиска: заявление в квалификационную комиссию и пакет документов по перечню АП СПб. Перечень не открыт.",
+   "intakes": [
+    {
+     "start": null,
+     "application_deadline": "2026-10-21",
+     "note_ru": "Для сессии декабря 2026 г.: запись на приём документов 5 и 6 октября 2026 г. (11:00–14:00) по телефону секретаря комиссии; приём документов 19 и 21 октября 2026 г. по предварительной записи. Сроки на следующую сессию на сайте не опубликованы."
+    }
+   ],
+   "exam_dates": [
+    {
+     "date": "2026-12-03",
+     "date_end": null,
+     "booking_deadline": "2026-10-21",
+     "note_ru": "Письменное тестирование с применением компьютерной техники"
+    },
+    {
+     "date": "2026-12-09",
+     "date_end": "2026-12-11",
+     "booking_deadline": "2026-10-21",
+     "note_ru": "Устное собеседование по экзаменационным билетам 9 и 11 декабря"
+    }
+   ],
+   "costs": [
+    {
+     "amount": 50000,
+     "currency": "RUB",
+     "item_ru": "обязательные отчисления за первый месяц членства для сдавших экзамен и прошедших стажировку в качестве стажёра адвоката",
+     "period_ru": "единовременно в течение месяца со дня принятия в члены палаты",
+     "valid_from": "2026-07-01"
+    },
+    {
+     "amount": 200000,
+     "currency": "RUB",
+     "item_ru": "обязательные отчисления за первый месяц членства для иных претендентов, сдавших экзамен",
+     "period_ru": "единовременно в течение месяца со дня принятия в члены палаты",
+     "valid_from": "2026-07-01"
+    }
+   ],
+   "funding_ru": "Оплачивает претендент/новый адвокат. Целевой взнос за сдачу экзамена в опубликованных документах палаты (общая информация, условия подачи, решения конференции 22.05.2026) не найден. Отчисления за первый месяц установлены конференцией АП СПб 22.05.2026; рассрочка — только по решению Совета.",
+   "entry_requirements_ru": "Соответствие требованиям 63-ФЗ. Заявление в квалкомиссию на бумаге (лично, через представителя, в исключительных случаях — почтой), два комплекта документов: заявление, анкета, копия паспорта, диплом/учёная степень, сведения о трудовой деятельности или трудовая книжка, документ о постановке на налоговый учёт в субъекте, страховое свидетельство, согласие на обработку персональных данных, 5 фото 4×3, справки ПНД/НД, справка о судимости, заявление об отсутствии решения о недееспособности; для стажёра/помощника — трудовой договор и решение Комиссии Совета АП СПб о допуске стажёров к экзамену. Без постоянной регистрации в СПб или при регистрации менее года — согласование места сдачи Советом ФПА. Затем доступ в личный кабинет КИС АР и заполнение электронных форм.",
    "pass_rate": null,
    "upcoming_changes_ru": null,
-   "source_url": null,
+   "source_url": "https://www.apspb.ru/applicants/",
    "secondary_urls": [
+    "https://www.apspb.ru/upload/iblock/609/9hagmxpt31yk6k84d5y3qas5n06njed6.doc",
     "https://www.apspb.ru/upload/iblock/58c/avdjp7xq71rvfecgf12jkeym9snitxvm.doc",
-    "https://www.advgazeta.ru/mneniya/kvalifikatsionnyy-ekzamen-kak-on-prokhodit-i-kak-effektivno-k-nemu-podgotovitsya/"
+    "https://www.apspb.ru/upload/iblock/aab/aab92c83742776d7ff2be18f5edf676f.docx",
+    "https://www.apspb.ru/upload/iblock/9d9/hha8ejlctj2z94388chnb4cwkz3j4a44.pdf"
    ],
-   "verification": "вторичные_источники",
-   "unverified_fields": [
-    "curriculum_ru",
-    "format",
-    "entry_requirements_ru"
-   ],
-   "checked_at": "2026-11-06",
+   "verification": "первоисточник",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "RU"
   },
   "RU-SPB-INSTADV-KURS-KVALEKZ": {
@@ -4361,16 +4562,16 @@
    "provider_type": "частный_провайдер",
    "program_name_original": "Курс подготовки к адвокатскому экзамену «Школа адвокатуры»",
    "program_name_ru": "Онлайн-курс подготовки к квалификационному экзамену",
-   "curriculum_ru": "Охватывает все вопросы из перечня тестовых заданий и вопросов квалификационного экзамена, утверждённого Советом ФПА РФ, с разбором вопросов устного экзамена. Темы: уголовное право и процесс; гражданское и конституционное право; семейное и наследственное право; адвокатура; арбитражный процесс; гражданский процесс; трудовое, налоговое право, административный процесс (КАС и КоАП). Объём — 60 академических часов (засчитываются как часы повышения профессионального уровня). Ведущие — практикующие адвокаты, в т.ч. председатель и заместитель председателя квалификационной комиссии АП СПб.",
+   "curriculum_ru": "Охватывает вопросы из перечня тестовых заданий и вопросов квалификационного экзамена, утверждённого Советом ФПА РФ, с разбором вопросов устного экзамена (уголовное право и процесс; гражданское и конституционное право; семейное и наследственное право; адвокатура; арбитражный и гражданский процесс; трудовое, налоговое право, административный процесс). Объём в академических часах на странице курса при проверке 20.11.2026 не указан.",
    "format": "онлайн",
    "language": "ru",
-   "duration_ru": "около 1 месяца: 16 занятий по 2 пары (будни с 17:00, субботы с 11:00), платформа Zoom",
+   "duration_ru": "10 ноября — 2 декабря 2026 г.; по будням с 17:00 до 20:00 (мск), по субботам с 11:00 до 14:00 (мск), платформа Zoom",
    "duration_months": 1,
    "intakes": [
     {
      "start": "2026-11-10",
      "application_deadline": null,
-     "note_ru": "Поток 10 ноября — 2 декабря 2026 г. Курс проводится четыре раза в год: в феврале, мае, августе и ноябре; следующий поток ожидается в феврале 2027 г. (даты не объявлены)."
+     "note_ru": "Текущий поток 10 ноября — 2 декабря 2026 г. Курс проводится четыре раза в год: в феврале, мае, августе и ноябре; даты потока февраля 2027 г. на странице не объявлены."
     }
    ],
    "exam_dates": [],
@@ -4406,8 +4607,10 @@
     "https://www.advgazeta.ru/obiavleniya/sobytiya/shkola-advokatury-11-2026/"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [
+    "curriculum_ru"
+   ],
+   "checked_at": "2026-11-20",
    "zone": "RU"
   },
   "SG-SILE-FPE": {
@@ -4468,7 +4671,7 @@
     {
      "start": "2027-01-11",
      "application_deadline": "2026-09-30",
-     "note_ru": "Сессия 1 2027 г.: онлайн-заявки и оплата 2026-09-01 — 2026-09-30 (17:00); условное зачисление 2026-12-09; необязательный курс 2027-01-11 — 2027-03-09; выпускникам — выполнить академические требования до 2027-02-26. Сессия 2 2027 г.: приём откроется в апреле 2027."
+     "note_ru": "Сессия 1 2027 г. (Application Guide, по состоянию на 2026-09-01): онлайн-заявки и оплата 2026-09-01 — 2026-09-30 (17:00); условное зачисление (conditional candidature) 2026-12-09; информация о курсе 2027-01-04; необязательный курс 2027-01-11 — 2027-03-09; отзыв кандидатуры и представление документов — до 2027-02-26; онбординг e-exams 2027-02-15 — 2027-04-09; e-acknowledgment уведомлений 2027-03-05. Сессия 2 2027 г.: приём откроется в апреле 2027, курс июль — сентябрь 2027, экзамены — октябрь 2027 (страница Part A, обновлена 2026-11-05). На странице Part A указаны расхождения: в обзоре курс «январь — конец апреля», в таблице дат — январь — март."
     }
    ],
    "exam_dates": [
@@ -4509,10 +4712,10 @@
      "valid_from": null
     }
    ],
-   "funding_ru": "Платит претендент; для граждан Сингапура 25+ — возможность использовать SkillsFuture Credits (заявка 2026-11-13 — 2027-01-11), а также средства PSEA (2027-01-11 — 2027-01-31).",
+   "funding_ru": "Платит претендент; граждане Сингапура 25+ могут использовать SkillsFuture Credits (окно заявки 2026-11-13 — 2027-01-11, поздние заявки не принимаются), а также средства PSEA для возмещения сборов (2027-01-11 — 2027-01-31).",
    "entry_requirements_ru": "Гражданин или PR Сингапура; одобренный диплом юриста зарубежного scheduled university; не ниже lower second-class honours или в верхних 70% выпуска (QP Rules).",
    "pass_rate": null,
-   "upcoming_changes_ru": "2026-11-04 SILE начал 2-й пересмотр списка зарубежных scheduled universities (рекомендации — Минюсту); действующий список применяется до формального изменения, без обратной силы.",
+   "upcoming_changes_ru": "2026-11-04 SILE начал 2-й пересмотр списка зарубежных scheduled universities (рекомендации — Минюсту); действующий список применяется до формального изменения, без обратной силы. Новых уведомлений SILE в периоде 2026-11-13 — 2026-11-20 нет. Сборы «могут меняться и подлежат пересмотру».",
    "source_url": "https://www.sile.edu.sg/the-singapore-bar-admission/part-a/",
    "secondary_urls": [
     "https://www.sile.edu.sg/wp-content/uploads/2026/08/2027_S1_Part_A_Application_Guide.pdf",
@@ -4520,7 +4723,7 @@
    ],
    "verification": "первоисточник",
    "unverified_fields": [],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "AS"
   },
   "SG-SILE-PARTB": {
@@ -4728,7 +4931,7 @@
    "provider_type": "регулятор_профессии",
    "program_name_original": "California Bar Examination (General Bar Exam / Attorneys' Exam)",
    "program_name_ru": "Адвокатский экзамен Калифорнии (общий двухдневный / однодневный для адвокатов)",
-   "curriculum_ru": "Двухдневный General Bar Exam (GBX); однодневный Attorneys' Exam (AX) для действующих адвокатов других юрисдикций.",
+   "curriculum_ru": "Двухдневный General Bar Exam: письменные сессии (эссе и Performance Test, ответы в Examplify на собственном ноутбуке) и MBE (200 вопросов, две сессии по 3 часа, ответы на бумажном бланке); однодневный Attorneys' Exam для действующих адвокатов других юрисдикций.",
    "format": "очно",
    "language": "en",
    "duration_ru": "два дня (GBX)",
@@ -4739,7 +4942,7 @@
      "date": "2027-02-23",
      "date_end": "2027-02-24",
      "booking_deadline": "2026-11-02",
-     "note_ru": "полностью очно в Калифорнии, MBE на бумаге; поздняя подача с доплатой 50 USD — 3–30 ноября, с доплатой 250 USD — 1 декабря 2026 – 4 января 2027 (окончательный срок); для повторно сдающих после июля 2026 — срок 13 ноября, 50 USD до 8 декабря; результаты 30.04.2027"
+     "note_ru": "полностью очно в Калифорнии; поздняя подача с доплатой 50 USD — 3–30.11.2026, с доплатой 250 USD — 01.12.2026–04.01.2027 (окончательный срок, в ближайшие 60 дней); для повторно сдающих после июля 2026 — срок 13.11, 50 USD до 08.12, 250 USD до 04.01.2027; регистрация ExamSoft с 26.01, пробный экзамен до 19.02.2027"
     }
    ],
    "costs": [
@@ -4747,13 +4950,6 @@
      "amount": 878,
      "currency": "USD",
      "item_ru": "заявка на экзамен, general applicant (rule 4.61(A))",
-     "period_ru": "за попытку",
-     "valid_from": null
-    },
-    {
-     "amount": 1650,
-     "currency": "USD",
-     "item_ru": "заявка на экзамен, attorney applicant",
      "period_ru": "за попытку",
      "valid_from": null
     },
@@ -4779,25 +4975,24 @@
      "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает претендент; возврат при отказе — 60%/30%/0% в зависимости от даты.",
+   "funding_ru": "Оплачивает претендент; возврат при отказе — 60% (до 02.12), 30% (03–17.12), 0% (18.12.2026–09.02.2027) для впервые сдающих; для повторно сдающих — до 14.12 / 15–18.12 / с 19.12.",
    "entry_requirements_ru": "Юридическое образование по правилам State Bar (в т. ч. Rule 4.30 для иностранцев), регистрация, moral character.",
    "pass_rate": {
     "value_percent": 48.3,
     "period_ru": "сессия июль 2026, GBX (3838 сдавших; AX — 49,4%)",
     "source_url": "https://www.calbar.ca.gov/news"
    },
-   "upcoming_changes_ru": "По приказу Верховного суда Калифорнии (15.07.2026) с июля 2028 года — NextGen UBE; калифорнийский компонент готовится к июлю 2029 года.",
+   "upcoming_changes_ru": "По решению Верховного суда Калифорнии с июля 2028 года — NextGen UBE; до этого GBX проводится очно в последние вторники февраля и июля.",
    "source_url": "https://www.calbar.ca.gov/admissions/examinations/california-bar-examination/february-2027-california-bar-exam",
    "secondary_urls": [
-    "https://www.calbar.ca.gov/legal-professionals/rules/rules-state-bar/appendix-schedule-charges-and-deadlines",
-    "https://www.calbar.ca.gov/news",
-    "https://www.ncbex.org/news-resources/california-announces-plans-administer-nextgen-ube-july-2028"
+    "https://www.calbar.ca.gov/legal-professionals/rules/rules-state-bar/appendix-schedule-charges-and-deadlines"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
-    "entry_requirements_ru"
+    "entry_requirements_ru",
+    "pass_rate"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "US-CA-CALBAR-FOREIGN-EDUCATED": {
@@ -4884,7 +5079,7 @@
    "provider_type": "экзаменационный_орган",
    "program_name_original": "Florida Bar Examination",
    "program_name_ru": "Адвокатский экзамен Флориды",
-   "curriculum_ru": "Часть по праву Флориды и MBE.",
+   "curriculum_ru": "General Bar Examination: Part A — часть по праву Флориды (эссе и вопросы), Part B — MBE; для допуска также требуется MPRE (NCBE).",
    "format": "очно",
    "language": "en",
    "duration_ru": "два дня",
@@ -4895,7 +5090,7 @@
      "date": "2027-02-23",
      "date_end": "2027-02-24",
      "booking_deadline": "2026-11-16",
-     "note_ru": "экзамен в последние вторник и среду февраля (Tampa Convention Center); своевременная подача — до 16.11.2026 (перенос с 15.11, выходной); поздняя подача: до 15.12.2026 (325 USD), до 15.01.2027 (625 USD), после 15.01 заявки не принимаются"
+     "note_ru": "General Bar Examination проводится в последние вторник и среду февраля (Tampa Convention Center); своевременная подача — до 16.11.2026 (перенос с 15.11, воскресенье); поздняя подача: до 15.12.2026 (325 USD), до 15.01.2027 (625 USD), после 15.01 первичные заявки не принимаются"
     }
    ],
    "costs": [
@@ -4933,22 +5128,33 @@
      "item_ru": "дактилоскопия (IdentoGO), плюс налог",
      "period_ru": "разово",
      "valid_from": null
+    },
+    {
+     "amount": 450,
+     "currency": "USD",
+     "item_ru": "сбор за пересдачу / последующий экзамен при неуведомлении о переносе",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 100,
+     "currency": "USD",
+     "item_ru": "перенос экзамена (уведомление не позднее чем за 7 дней; позже — 200 USD)",
+     "period_ru": "разово",
+     "valid_from": null
     }
    ],
-   "funding_ru": "Оплачивает претендент; для адвокатов сбор выше в зависимости от стажа (до 3000 USD); студенческая регистрация на 1–2 курсе дешевле (от 100 USD) с последующим сбором за конвертацию 600 USD.",
+   "funding_ru": "Оплачивает претендент; для адвокатов сбор за заявку выше в зависимости от стажа (1600–3000 USD); студенческая регистрация на 1-м курсе — от 100 USD (позже 350/400 USD) с последующим сбором за конвертацию 600 USD. Оплата чеком или ACH, карты не принимаются.",
    "entry_requirements_ru": null,
    "pass_rate": null,
-   "upcoming_changes_ru": "С июля 2028 года Флорида переходит на NextGen Bar Exam с компонентом по праву Флориды.",
+   "upcoming_changes_ru": "С июля 2028 года Флорида переходит на NextGen Bar Exam с компонентом по праву Флориды (Florida Law Component). Регистрация на MPRE марта 2027 — до 21.01.2027.",
    "source_url": "https://www.floridabarexam.org/",
    "secondary_urls": [
     "https://www.floridabarexam.org/web/website.nsf/faq.xsp"
    ],
    "verification": "первоисточник",
-   "unverified_fields": [
-    "curriculum_ru",
-    "exam_dates"
-   ],
-   "checked_at": "2026-11-13",
+   "unverified_fields": [],
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "US-IL-BOARD-UBE": {
@@ -5148,7 +5354,7 @@
    "provider_type": "экзаменационный_орган",
    "program_name_original": "New York State Bar Examination (UBE) and New York Law Exam (NYLE)",
    "program_name_ru": "Адвокатский экзамен штата Нью-Йорк (UBE) и экзамен по праву Нью-Йорка (NYLE)",
-   "curriculum_ru": "UBE (MBE, MEE, MPT) + отдельный онлайн-экзамен NYLE по праву Нью-Йорка; регистрация на NYLE электронная, не позднее чем за 45 дней.",
+   "curriculum_ru": "UBE (MBE, MEE, MPT) + New York Law Course (NYLC) и New York Law Exam (NYLE) — онлайн, 50 вопросов, 2 часа, open book, три раза в год; NYLE нужно сдать за год до или в течение трёх лет после UBE; плюс MPRE.",
    "format": "очно",
    "language": "en",
    "duration_ru": "два дня (UBE)",
@@ -5159,33 +5365,58 @@
      "date": "2027-02-23",
      "date_end": "2027-02-24",
      "booking_deadline": "2026-10-31",
-     "note_ru": "период подачи 1–31 октября 2026, без продления; для не сдавших июль 2026 — позднейшая из дат: 31 октября или 7-й день после публикации результатов"
+     "note_ru": "период подачи 1–31 октября 2026, без продления; особые условия — до 31.10"
     },
     {
      "date": "2026-12-17",
      "date_end": null,
      "booking_deadline": "2026-11-17",
-     "note_ru": "NYLE, 12:00 ET; до 17.11.2026 нужно пройти New York Law Course и зарегистрироваться"
+     "note_ru": "NYLE, 12:00 ET; до 17.11.2026 (23:59 ET) нужно пройти NYLC и зарегистрироваться; особые условия — до 18.09.2026"
     },
     {
      "date": "2027-04-15",
      "date_end": null,
      "booking_deadline": "2027-03-01",
-     "note_ru": "администрация NYLE (дата на главной странице не подтверждена)"
+     "note_ru": "NYLE, 12:00 ET; новые заявки на особые условия — до 15.01.2027 (в ближайшие 60 дней)"
+    },
+    {
+     "date": "2027-07-27",
+     "date_end": "2027-07-28",
+     "booking_deadline": "2027-03-31",
+     "note_ru": "UBE июль 2027; период подачи 1–31 марта 2027"
+    },
+    {
+     "date": "2027-09-23",
+     "date_end": null,
+     "booking_deadline": "2027-08-09",
+     "note_ru": "NYLE"
+    },
+    {
+     "date": "2027-12-16",
+     "date_end": null,
+     "booking_deadline": "2027-11-01",
+     "note_ru": "NYLE"
     }
    ],
    "costs": [
     {
      "amount": 250,
      "currency": "USD",
-     "item_ru": "сбор за UBE (установлен законом), выпускники американских школ",
+     "item_ru": "заявка на экзамен: Rule 520.3 (JD школы ABA), 520.4, 520.5, 520.17",
      "period_ru": "за попытку",
      "valid_from": null
     },
     {
      "amount": 750,
      "currency": "USD",
-     "item_ru": "сбор за UBE для иностранных выпускников по Rule 520.6",
+     "item_ru": "заявка на экзамен для иностранного образования (Rule 520.6), невозвратная",
+     "period_ru": "за попытку",
+     "valid_from": null
+    },
+    {
+     "amount": 100,
+     "currency": "USD",
+     "item_ru": "технологический сбор ExamSoft за ноутбук",
      "period_ru": "за попытку",
      "valid_from": null
     },
@@ -5198,26 +5429,25 @@
     }
    ],
    "funding_ru": "Оплачивает претендент; сборы не возвращаются, кроме исключительных случаев.",
-   "entry_requirements_ru": "JD школы ABA либо соответствие Rule 520.6 для иностранного образования; для июльского экзамена период подачи — 1–31 марта.",
+   "entry_requirements_ru": "JD школы, одобренной ABA (Rule 520.3), либо иные основания Part 520, в т. ч. Rule 520.6 для иностранного юридического образования (с предварительной оценкой образования Board).",
    "pass_rate": {
     "value_percent": 67,
     "period_ru": "сессия июль 2026, все 9936 сдававших (впервые сдающие выпускники ABA-школ — 84%, иностранные выпускники — 44%, повторно сдающие — 25%)",
     "source_url": "https://www.nybarexam.org/Press/20261023%20FinalPressRelease_ExamResults.pdf"
    },
-   "upcoming_changes_ru": "С 01.09.2026 изменены Board Rules 6000.3(b) (регистрация на NYLE электронно не позднее чем за 45 дней) и 6000.7(c)(2)(ii) (повторные заявки на особые условия — за 60 дней); применяются к NYLE с 2027 года. С июля 2028 года UBE заменяется NextGen; баллы NextGen, полученные до июля 2028, не принимаются.",
-   "source_url": "https://www.nybarexam.org/",
+   "upcoming_changes_ru": "С 01.09.2026 изменены Board Rules 6000.3(b) (регистрация на NYLE электронно не позднее чем за 45 дней) и 6000.7(c)(2)(ii) (повторные заявки на особые условия — за 60 дней); применяются к NYLE с 2027 года, сроки декабрьского NYLE 2026 не меняются. С июля 2028 года UBE заменяется NextGen; баллы NextGen, полученные до июля 2028, не принимаются.",
+   "source_url": "https://www.nybarexam.org/ExamDates/ExamDates.html",
    "secondary_urls": [
-    "https://www.nybarexam.org/Press/20261023%20FinalPressRelease_ExamResults.pdf",
-    "https://www.nybarexam.org/UBE/NY_UBEFAQs.pdf",
-    "https://www.nybarexam.org/TheBar/NYBarExamInformationGuide.pdf"
+    "https://www.nybarexam.org/",
+    "https://www.nybarexam.org/TheBar/NYBarExamInformationGuide.pdf",
+    "https://www.nybarexam.org/Press/20261023%20FinalPressRelease_ExamResults.pdf"
    ],
    "verification": "первоисточник",
    "unverified_fields": [
     "costs",
-    "entry_requirements_ru",
-    "exam_dates"
+    "pass_rate"
    ],
-   "checked_at": "2026-11-13",
+   "checked_at": "2026-11-20",
    "zone": "NA"
   },
   "US-NY-COA-RULE520_6-LLM": {
